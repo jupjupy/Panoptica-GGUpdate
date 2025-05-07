@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="faad-692f-723b-fbb4" name="[Antiquia] Asuryani" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="e433-3cf6-8d92-3122" name="[Antiquia] Asuryani" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntries>
     <selectionEntry name="Autarch" type="unit" id="082e-6f97-41e2-9a13" page="28" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="60dc-ddd3-427a-9c49"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="b687-102d-416b-a7f9" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="b687-102d-416b-a7f9" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
@@ -124,8 +124,8 @@
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ae24-c5b7-481a-bbb1" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="c9d7-4c55-4bfc-bcf0" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ae24-c5b7-481a-bbb1" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="c9d7-4c55-4bfc-bcf0" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="8856-7532-4df1-b902" name="Character" primary="false"/>
           </categoryLinks>
         </selectionEntry>
@@ -151,7 +151,7 @@ Could not find rule: Independent Character</comment>
     <selectionEntry name="Aspect Exarchs" type="unit" id="ee1a-07fa-45ce-947c" page="29" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c8b1-92da-40e1-bd55"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="2936-afb6-4a5f-9386" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="2936-afb6-4a5f-9386" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -194,8 +194,8 @@ Could not find rule: Independent Character</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4b2c-329c-4632-88e7" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="7eeb-7ce7-4a03-96f8" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4b2c-329c-4632-88e7" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="7eeb-7ce7-4a03-96f8" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="7aa0-2e96-4340-a629" name="Character" primary="false"/>
           </categoryLinks>
           <costs>
@@ -218,7 +218,7 @@ This unit has an extra special option not yet handled.</comment>
     <selectionEntry name="Farseer" type="unit" id="d27e-b782-40c3-9f57" page="30" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b500-9834-40c8-9089"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="6c2b-81dd-44ce-aec0" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="6c2b-81dd-44ce-aec0" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="150"/>
@@ -293,10 +293,10 @@ Could not find wargear Singing Spear
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cf70-be63-459a-9ac7" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="4e67-cb18-400a-9360" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cf70-be63-459a-9ac7" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="4e67-cb18-400a-9360" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="1c46-8bf2-4c03-8a5b" name="Character" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="5ed3-eba4-4817-91dc" name="Psyker" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="5ed3-eba4-4817-91dc" name="Psyker:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Farseer may be upgraded to a:
@@ -348,10 +348,10 @@ Could not find wargear in A Farseer may exchange their Witch Weapon for the foll
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="d125-f478-4326-bdac" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="eccc-372c-4921-ae9f" name="Antigrav" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="d125-f478-4326-bdac" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="eccc-372c-4921-ae9f" name="Antigrav Sub-type" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a892-8dcd-4442-8d86" name="Character" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="eb0d-365a-4d0d-a6a0" name="Psyker" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="eb0d-365a-4d0d-a6a0" name="Psyker:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Witch Weapon
@@ -381,7 +381,7 @@ Could not find rule: Adamantium Will (3+)</comment>
     <selectionEntry name="Wraith Guide" type="unit" id="4952-5d86-4bfc-bf65" page="31" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="3df6-37a6-4554-9617"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="a529-2db9-48ba-8f55" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="a529-2db9-48ba-8f55" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
@@ -436,9 +436,9 @@ Could not find rule: Adamantium Will (3+)</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7dad-6247-45ce-87ba" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="6f5c-e80e-4ae2-86a9" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="e11c-96dd-425b-ae19" name="Psyker" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7dad-6247-45ce-87ba" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="6f5c-e80e-4ae2-86a9" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="e11c-96dd-425b-ae19" name="Psyker:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="ef85-0f5c-4931-b795" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -465,7 +465,7 @@ Could not find rule: Independent Character</comment>
     <selectionEntry name="Eldrad Ulthran" type="unit" id="9007-5ead-4e48-9c5f" page="32" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e324-55f5-4d93-93a2"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="477c-becb-474f-afee" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="477c-becb-474f-afee" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="240"/>
@@ -514,11 +514,11 @@ Could not find rule: Independent Character</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ba7a-4020-454f-ad09" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="ac89-c407-475b-80c8" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ba7a-4020-454f-ad09" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="ac89-c407-475b-80c8" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="1149-310e-4d86-9254" name="Character" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="3ab2-f613-4f1d-9cd5" name="Psyker" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="7431-bf7c-4ba6-8be7" name="Unique" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="3ab2-f613-4f1d-9cd5" name="Psyker:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="7431-bf7c-4ba6-8be7" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Armour of the Last Runes
@@ -556,7 +556,7 @@ Could not find rule: Adamantium Will (2+)</comment>
     <selectionEntry name="Guardian Officer Cadre" type="unit" id="dec9-1989-4538-9d8b" page="36" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8d85-612b-4255-98ce"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="ed55-c9ef-4448-966e" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="ed55-c9ef-4448-966e" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -695,8 +695,8 @@ Could not find wargear Skyrunner Officer
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6484-d4e2-40d2-83a2" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="262a-26c5-401d-9b61" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6484-d4e2-40d2-83a2" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="262a-26c5-401d-9b61" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5297-c484-4633-ad6e" name="Character" primary="false"/>
           </categoryLinks>
           <costs>
@@ -801,8 +801,8 @@ Could not find wargear in Any Guardian Officer may be upgraded to a:</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="454c-c904-4e63-ab58" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="3494-b7db-431a-8ce8" name="Antigrav" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="454c-c904-4e63-ab58" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="3494-b7db-431a-8ce8" name="Antigrav Sub-type" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="8d3f-8702-4d8c-9839" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -822,7 +822,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Seer Council" type="unit" id="ed4b-f763-4c7c-b5ba" page="37" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5d89-2615-4e34-b83d"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="b208-8152-4297-9450" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="b208-8152-4297-9450" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -889,9 +889,9 @@ Could not find wargear Singing Spear
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4c08-1e1e-46b2-9c36" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="65e3-b93d-4c14-90bb" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="1117-6f06-47f9-8d64" name="Psyker" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4c08-1e1e-46b2-9c36" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="65e3-b93d-4c14-90bb" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="1117-6f06-47f9-8d64" name="Psyker:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
@@ -945,9 +945,9 @@ Could not find wargear in Any Warlock may exchange their Witch Weapon for a:</co
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="9ac1-8d8e-460e-8235" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="bd27-c019-4ebb-a277" name="Antigrav" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="a0e3-304d-4655-821e" name="Psyker" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="9ac1-8d8e-460e-8235" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="bd27-c019-4ebb-a277" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="a0e3-304d-4655-821e" name="Psyker:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Witch Weapon
@@ -1013,7 +1013,7 @@ Could not find wargear in The unit may have all models in it upgraded to (the wh
     <selectionEntry name="Bonesinger Conclave" type="unit" id="c9e7-1839-4058-907d" page="38" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="195c-9087-4855-b2bf"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="55a5-d27c-4399-ba40" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="55a5-d27c-4399-ba40" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -1056,8 +1056,8 @@ Could not find wargear in The unit may have all models in it upgraded to (the wh
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="79a3-ac71-4e81-b16e" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="ad43-702e-4fc6-8a0a" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="79a3-ac71-4e81-b16e" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="ad43-702e-4fc6-8a0a" name="Asuryani Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="45"/>
@@ -1077,7 +1077,7 @@ Could not find wargear in The unit may have all models in it upgraded to (the wh
     <selectionEntry name="Fire Dragons" type="unit" id="3140-5af7-4454-b680" page="39" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5d5d-f251-4b9c-9c87"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a2c7-1b21-42c6-a11f" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a2c7-1b21-42c6-a11f" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="6"/>
@@ -1126,8 +1126,8 @@ Could not find wargear in The unit may have all models in it upgraded to (the wh
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e0a3-b99b-457b-9498" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="2936-16bd-4651-8a18" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e0a3-b99b-457b-9498" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="2936-16bd-4651-8a18" name="Asuryani Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="26"/>
@@ -1187,7 +1187,7 @@ Could not find wargear Melta Bombs
     <selectionEntry name="Striking Scorpions" type="unit" id="ae63-b800-4718-a0e8" page="40" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="57d3-3455-46ac-9de9"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="3c81-8857-4108-9fc0" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="3c81-8857-4108-9fc0" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="4"/>
@@ -1248,8 +1248,8 @@ Could not find wargear Melta Bombs
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ed74-dcaf-48f0-99b3" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="5943-ac80-4f41-8e4e" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ed74-dcaf-48f0-99b3" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="5943-ac80-4f41-8e4e" name="Asuryani Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="24"/>
@@ -1308,7 +1308,7 @@ Could not find wargear Melta Bombs
     <selectionEntry name="Howling Banshees" type="unit" id="49e3-d22f-4bdb-a003" page="41" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="73fc-c3cb-4108-9770"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="496c-ed5b-4e24-8809" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="496c-ed5b-4e24-8809" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="7"/>
@@ -1369,8 +1369,8 @@ Could not find wargear Melta Bombs
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1de0-2ae1-467e-8e5d" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="0e77-5847-4cb1-8f9c" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1de0-2ae1-467e-8e5d" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="0e77-5847-4cb1-8f9c" name="Asuryani Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="22"/>
@@ -1432,7 +1432,7 @@ Could not find wargear Melta Bombs
     <selectionEntry name="Wraithblades" type="unit" id="7333-3dd6-4e7f-bb51" page="42" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="0f59-acf3-4675-ab05"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="fe76-4e1c-4dc0-8c54" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="fe76-4e1c-4dc0-8c54" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -1494,8 +1494,8 @@ Could not find wargear Melta Bombs
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="b148-8334-4494-8e99" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6780-4ee0-49d3-9d03" id="3cd4-6ef8-413a-b6d7" name="Wraith" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="b148-8334-4494-8e99" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6780-4ee0-49d3-9d03" id="3cd4-6ef8-413a-b6d7" name="Wraith Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -1522,7 +1522,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Wraithguard" type="unit" id="3ac1-e5ed-43b2-b4d8" page="43" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4da4-9dac-4317-9877"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="d797-7c11-4f1e-b2b7" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="d797-7c11-4f1e-b2b7" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -1565,8 +1565,8 @@ Could not find type or subtype &apos;Automata&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="ece3-3252-4e03-9f3a" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6780-4ee0-49d3-9d03" id="ba0c-bf00-4943-968d" name="Wraith" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="ece3-3252-4e03-9f3a" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6780-4ee0-49d3-9d03" id="ba0c-bf00-4943-968d" name="Wraith Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
@@ -1608,7 +1608,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="War Walker Squadron" type="unit" id="86dc-cfbe-4d75-9e36" page="44" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="dd41-5d01-4dae-b119"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="d65d-661b-4833-ba93" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="d65d-661b-4833-ba93" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -1713,10 +1713,10 @@ Could not find wargear Aeldari Missile Launcher (with Sunburst, Starshot, and St
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4212-7681-44be-8cf2" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="d501-e41c-4728-9e3b" name="Asuryani" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="5859-03d2-4d23-ad5f" name="Skirmish" primary="false"/>
-            <categoryLink targetId="ad48-f7f6-413d-afeb" id="754b-d3c5-4728-8db1" name="Mechanised" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4212-7681-44be-8cf2" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="d501-e41c-4728-9e3b" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="5859-03d2-4d23-ad5f" name="Skirmish Sub-type:" primary="false"/>
+            <categoryLink targetId="ad48-f7f6-413d-afeb" id="754b-d3c5-4728-8db1" name="Mechanised Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="90"/>
@@ -1742,7 +1742,7 @@ Could not find wargear in Any War Walker may exchange either of their Shuriken C
     <selectionEntry name="Guardian Defenders" type="unit" id="050e-8ab5-4abb-8615" page="48" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5503-14ee-4e41-8afc"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="41e9-02bd-4369-859c" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="41e9-02bd-4369-859c" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -1801,9 +1801,9 @@ Could not find wargear Defender Platform
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d64b-7322-412a-bebc" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="c819-ab58-48a5-8066" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="2dca-4347-4a26-b9aa" name="Line" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d64b-7322-412a-bebc" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="c819-ab58-48a5-8066" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="2dca-4347-4a26-b9aa" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="8"/>
@@ -1887,9 +1887,9 @@ Could not find wargear Aeldari Missile Launcher (with Sunburst, Starshot, and St
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="2193-833a-40f9-bd5c" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="acaa-b173-4908-978e" name="Asuryani" primary="false"/>
-            <categoryLink targetId="86d1-f085-4b72-a703" id="ad76-a9c4-469e-a85b" name="Grav-Platform" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="2193-833a-40f9-bd5c" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="acaa-b173-4908-978e" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="86d1-f085-4b72-a703" id="ad76-a9c4-469e-a85b" name="Grav-Platform Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any Defender Platform in the unit may exchange its Shuriken Cannon for one of the following:</comment>
@@ -1944,7 +1944,7 @@ Could not find wargear in Any Defender Platform in the unit may exchange its Shu
     <selectionEntry name="Storm Guardians" type="unit" id="ea5d-22b9-4ce3-8ca0" page="49" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="bc72-5f6e-4ba4-9681"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="bd44-eb70-44c4-a980" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="bd44-eb70-44c4-a980" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2045,9 +2045,9 @@ Could not find wargear Defender Platform
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="63cc-601a-4bef-8ec8" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="3a17-a9fc-46a8-bfff" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="706a-2f7f-45cb-b39e" name="Line" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="63cc-601a-4bef-8ec8" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="3a17-a9fc-46a8-bfff" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="706a-2f7f-45cb-b39e" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="7"/>
@@ -2131,9 +2131,9 @@ Could not find wargear Aeldari Missile Launcher (with Sunburst, Starshot, and St
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1843-9a8d-4548-858c" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="7df1-3d89-425e-b320" name="Asuryani" primary="false"/>
-            <categoryLink targetId="86d1-f085-4b72-a703" id="6703-96bb-49f2-a73d" name="Grav-Platform" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1843-9a8d-4548-858c" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="7df1-3d89-425e-b320" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="86d1-f085-4b72-a703" id="6703-96bb-49f2-a73d" name="Grav-Platform Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any Defender Platform in the unit may exchange its Shuriken Cannon for one of the following:</comment>
@@ -2190,7 +2190,7 @@ Chainsword is in two option lists for Storm Guardian, you will need to combine t
     <selectionEntry name="Windriders" type="unit" id="c07d-74e4-4b5d-8e25" page="50" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="959d-ca8f-4d5d-84d5"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="4b5a-28a2-4f9f-b787" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="4b5a-28a2-4f9f-b787" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2264,8 +2264,8 @@ Chainsword is in two option lists for Storm Guardian, you will need to combine t
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="3f21-2994-4d78-befc" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="ef26-92a4-4c76-b99c" name="Antigrav" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="3f21-2994-4d78-befc" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="ef26-92a4-4c76-b99c" name="Antigrav Sub-type" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
@@ -2334,7 +2334,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Dire Avengers" type="unit" id="68c8-9047-42b8-a074" page="51" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5e80-1f6d-4986-8a83"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="1b7e-6b90-42a2-b6e9" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="1b7e-6b90-42a2-b6e9" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="8"/>
@@ -2389,9 +2389,9 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="de63-e5c2-4c77-a841" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="1ebd-6d4f-419f-bcac" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="7d18-277c-4a60-b524" name="Line" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="de63-e5c2-4c77-a841" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="1ebd-6d4f-419f-bcac" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="7d18-277c-4a60-b524" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="18"/>
@@ -2440,7 +2440,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Rangers" type="unit" id="ba05-34d9-4669-8dc7" page="52" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c0bc-2cc6-438e-a788"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="d516-b787-4df3-8e2f" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="d516-b787-4df3-8e2f" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2501,10 +2501,10 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e5b9-8815-4f3b-ac18" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="70c2-4f26-430f-8217" name="Asuryani" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="837f-73fe-4c57-9a8e" name="Skirmish" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="194d-821b-49d3-81db" name="Line" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e5b9-8815-4f3b-ac18" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="70c2-4f26-430f-8217" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="837f-73fe-4c57-9a8e" name="Skirmish Sub-type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="194d-821b-49d3-81db" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="20"/>
@@ -2744,11 +2744,11 @@ Could not find wargear Turret Mounted Twin-Linked Aeldari Missile Launcher (with
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="0bb7-2c03-4917-9193" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="c663-783f-4c0d-a43a" name="Asuryani" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="df44-0f9e-435c-91cc" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="0bb7-2c03-4917-9193" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="c663-783f-4c0d-a43a" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="df44-0f9e-435c-91cc" name="Transport Sub-type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="89f6-8c80-4bf8-9b2e" name="Skimmer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="36eb-c22f-46a1-a5eb" name="Fast" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="36eb-c22f-46a1-a5eb" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Wave Serpent may exchange its Hull (Front) Mounted Twin-Linked Shuriken Catapult for a:
@@ -2759,7 +2759,7 @@ Could not find wargear in A Wave Serpent may exchange its Turret Mounted Gravis 
     <selectionEntry name="Shadow Spectres" type="unit" id="76bc-ff96-454f-9fd9" page="56" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="ca0c-841d-470f-8872"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="4e2f-01cf-4fba-a677" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="4e2f-01cf-4fba-a677" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2808,8 +2808,8 @@ Could not find wargear in A Wave Serpent may exchange its Turret Mounted Gravis 
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d15f-0d56-47b1-af83" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="66a1-6c97-4598-b6c1" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d15f-0d56-47b1-af83" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="66a1-6c97-4598-b6c1" name="Asuryani Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
@@ -2882,7 +2882,7 @@ Could not find wargear Haywire Grenades
     <selectionEntry name="Swooping Hawks" type="unit" id="8b86-7f9d-4b34-ae0e" page="57" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="dc1d-1558-44f2-b712"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="75c2-df94-49d0-81be" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="75c2-df94-49d0-81be" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2943,8 +2943,8 @@ Could not find wargear Haywire Grenades
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="defa-78f8-464a-94ce" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="e8d7-039a-4732-9e71" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="defa-78f8-464a-94ce" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="e8d7-039a-4732-9e71" name="Asuryani Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -3005,7 +3005,7 @@ Could not find wargear Haywire Grenades
     <selectionEntry name="Shining Spears" type="unit" id="381b-4d55-42cd-843d" page="58" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="2763-9180-4e79-822c"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="263b-12dc-4969-92c5" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="263b-12dc-4969-92c5" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -3085,8 +3085,8 @@ Could not find wargear Haywire Grenades
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="1a01-cf0d-43a0-a675" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="690f-f78e-403c-998c" name="Antigrav" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="1a01-cf0d-43a0-a675" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="690f-f78e-403c-998c" name="Antigrav Sub-type" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -3171,7 +3171,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Warp Spiders" type="unit" id="2cf6-8e98-4cca-bd3d" page="59" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="7c93-434b-4f63-955d"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="013c-d8ad-49ea-a4b2" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="013c-d8ad-49ea-a4b2" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="8"/>
@@ -3220,8 +3220,8 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0a04-262c-4912-99d6" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="a601-ce12-4891-bbed" name="Asuryani" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0a04-262c-4912-99d6" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="a601-ce12-4891-bbed" name="Asuryani Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="23"/>
@@ -3283,7 +3283,7 @@ Could not find wargear Death Spinner
     <selectionEntry name="Shroud Runners" type="unit" id="2c92-0bb4-4344-9205" page="60" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="789d-2985-4863-a8a8"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="576a-31b1-4239-83d0" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="576a-31b1-4239-83d0" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -3350,9 +3350,9 @@ Could not find wargear Death Spinner
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="1f8d-8664-4d1b-a6ef" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="6013-9870-4b18-911d" name="Antigrav" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="b80b-2924-4862-add7" name="Skirmish" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="1f8d-8664-4d1b-a6ef" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="6013-9870-4b18-911d" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="b80b-2924-4862-add7" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
@@ -3463,7 +3463,7 @@ Could not find rule: Mark of Kurnous</comment>
     <selectionEntry name="Vyper Squadron" type="unit" id="e6c2-0f8c-420f-ab7d" page="61" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="958a-890a-4a71-bf46"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="2411-8944-4ed1-bc39" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="2411-8944-4ed1-bc39" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -3562,9 +3562,9 @@ Could not find wargear Aeldari Missile Launcher (with Sunburst, Starshot, and St
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="2c76-5347-4b6e-83bc" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="058a-5c93-45be-ac8a" name="Antigrav" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="f374-dd4b-4f52-a7f2" name="Skirmish" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="2c76-5347-4b6e-83bc" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="058a-5c93-45be-ac8a" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="f374-dd4b-4f52-a7f2" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -3638,7 +3638,7 @@ Vyper Jetbike is in two option lists for Vyper, you will need to combine them by
     <selectionEntry name="Nightshade Interceptor Squadron" type="unit" id="048e-950c-4ea1-9f1d" page="62" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1ed9-b884-4f7f-b96a"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="aa6e-b7e7-4fc3-9ade" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="aa6e-b7e7-4fc3-9ade" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -3684,10 +3684,10 @@ Vyper Jetbike is in two option lists for Vyper, you will need to combine them by
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="8284-d5ad-456a-b8ef" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="bec6-f7fe-47e9-b000" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="d7aa-81d8-4072-8eea" name="Flyer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="cfef-1ef2-4089-b053" name="Fast" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="8284-d5ad-456a-b8ef" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="bec6-f7fe-47e9-b000" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="d7aa-81d8-4072-8eea" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="cfef-1ef2-4089-b053" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="115"/>
@@ -3725,7 +3725,7 @@ Vyper Jetbike is in two option lists for Vyper, you will need to combine them by
     <selectionEntry name="Nightwing Interceptor Squadron" type="unit" id="de08-f758-4fb0-8b2b" page="63" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="3749-a313-41a5-b418"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="28c6-7dcd-490d-8bde" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="28c6-7dcd-490d-8bde" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -3804,10 +3804,10 @@ Could not find wargear Two Hull (Front) Mounted Aeldari Missile Launchers (with 
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="66c4-0b6e-470c-b057" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="dd42-133e-4a72-abd7" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="e9e5-f840-434e-b99f" name="Flyer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="302f-5079-43de-8952" name="Fast" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="66c4-0b6e-470c-b057" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="dd42-133e-4a72-abd7" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="e9e5-f840-434e-b99f" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="302f-5079-43de-8952" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="130"/>
@@ -3832,7 +3832,7 @@ Could not find rule: Holo-Fields</comment>
     <selectionEntry name="Phoenix Bomber Squadron" type="unit" id="33bd-0c50-4164-98c8" page="64" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="257e-18c0-47df-ab72"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="869c-4fa1-4c7d-b31c" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="869c-4fa1-4c7d-b31c" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -3929,10 +3929,10 @@ Could not find rule: Holo-Fields</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="6a55-a1c8-4863-bcbf" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="773e-10e3-4da1-89b2" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="bd4f-4ade-4d77-a2c8" name="Flyer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="7865-8a91-4e43-a73b" name="Fast" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="6a55-a1c8-4863-bcbf" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="773e-10e3-4da1-89b2" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="bd4f-4ade-4d77-a2c8" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="7865-8a91-4e43-a73b" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="200"/>
@@ -3972,7 +3972,7 @@ Could not find rule: Strafing Run</comment>
     <selectionEntry name="Vaul’S Wrath Support Battery" type="unit" id="3cf4-0740-4ca0-bfe3" page="68" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="d7e1-e5ae-4c0b-b677"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="71c3-00d3-46e1-a822" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="71c3-00d3-46e1-a822" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="-50"/>
@@ -4021,9 +4021,9 @@ Could not find rule: Strafing Run</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e1d0-12ee-4969-a508" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="c614-63fe-4d01-9a21" name="Asuryani" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="43f3-3776-4944-8550" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e1d0-12ee-4969-a508" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="c614-63fe-4d01-9a21" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="43f3-3776-4944-8550" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -4082,10 +4082,10 @@ Could not find rule: Strafing Run</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="02b9-9d9e-42f5-bf59" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="4067-d9ed-4689-913d" name="Asuryani" primary="false"/>
-            <categoryLink targetId="86d1-f085-4b72-a703" id="57d3-351b-46ae-964f" name="Grav-Platform" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="ee74-0d1c-4461-8018" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="02b9-9d9e-42f5-bf59" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="4067-d9ed-4689-913d" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="86d1-f085-4b72-a703" id="57d3-351b-46ae-964f" name="Grav-Platform Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="ee74-0d1c-4461-8018" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -4133,7 +4133,7 @@ Could not find rule: Guardian Artillerists</comment>
     <selectionEntry name="Dark Reapers" type="unit" id="c209-eaae-48fe-9594" page="69" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="3d19-bfc0-4ae7-8979"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="33cd-3569-4b5e-b293" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="33cd-3569-4b5e-b293" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -4176,9 +4176,9 @@ Could not find rule: Guardian Artillerists</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cf26-3070-4da1-a5ea" name="Infantry" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="b45c-e14b-493b-8165" name="Asuryani" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="77d1-9cdc-403f-8fc4" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cf26-3070-4da1-a5ea" name="Infantry:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="b45c-e14b-493b-8165" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="77d1-9cdc-403f-8fc4" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -4234,7 +4234,7 @@ Could not find wargear Reaper Launcher (with Starswarm, Starshot, and Starhawk M
     <selectionEntry name="Falcon Squadron" type="unit" id="aabc-4947-4b27-bc32" page="70" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4e07-5592-42b6-85b7"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="b4b3-3051-42c3-a224" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="b4b3-3051-42c3-a224" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="20"/>
@@ -4407,11 +4407,11 @@ Could not find wargear Turret Mounted Twin-Linked Aeldari Missile Launcher (with
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="c1da-1bd7-4c5e-b41b" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="cd19-e44f-4155-813c" name="Asuryani" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="c1da-1bd7-4c5e-b41b" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="cd19-e44f-4155-813c" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="3c61-e225-4cd9-b935" name="Skimmer" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c391-d6fb-4f99-b8ba" name="Transport" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="ce47-c7c0-4b0a-be57" name="Fast" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c391-d6fb-4f99-b8ba" name="Transport Sub-type:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="ce47-c7c0-4b0a-be57" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="125"/>
@@ -4425,7 +4425,7 @@ Could not find wargear in A Falcon may exchange its Turret Mounted Gravis Shurik
     <selectionEntry name="Fire Prism Squadron" type="unit" id="1ee4-1f45-4ceb-ae54" page="71" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8200-af34-41db-9aec"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="3dd2-94ce-4e4a-8439" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="3dd2-94ce-4e4a-8439" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -4536,10 +4536,10 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Shuriken Catapult
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="89ef-9642-48f1-85d9" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="8e4c-f3bf-43c3-afcf" name="Asuryani" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="89ef-9642-48f1-85d9" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="8e4c-f3bf-43c3-afcf" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="69eb-6ca1-435a-ac8b" name="Skimmer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="4690-abf1-47d1-82b5" name="Fast" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="4690-abf1-47d1-82b5" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="150"/>
@@ -4554,7 +4554,7 @@ Could not find wargear in A Fire Prism may exchange its Hull (Front) Mounted Twi
     <selectionEntry name="Night Spinner Squadron" type="unit" id="f5bb-719f-416b-863c" page="72" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a84a-819c-4331-bd06"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="40b7-8391-43bd-8213" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="40b7-8391-43bd-8213" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -4665,10 +4665,10 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Shuriken Catapult
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="1e7c-826b-47e4-9967" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="97f7-8932-4ff1-a506" name="Asuryani" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="1e7c-826b-47e4-9967" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="97f7-8932-4ff1-a506" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="e45f-3462-4bf8-bab5" name="Skimmer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="27da-09b3-4a0a-83eb" name="Fast" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="27da-09b3-4a0a-83eb" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="160"/>
@@ -4683,7 +4683,7 @@ Could not find wargear in A Night Spinner may exchange its Hull (Front) Mounted 
     <selectionEntry name="Firestorm Squadron" type="unit" id="c07a-61d5-4b27-92db" page="73" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="13a5-fb50-402e-8c07"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="c262-84c8-4849-b39b" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="c262-84c8-4849-b39b" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -4811,10 +4811,10 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Shuriken Catapult
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="735b-5510-4558-acfa" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="25c9-9186-4958-aae0" name="Asuryani" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="735b-5510-4558-acfa" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="25c9-9186-4958-aae0" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="48f3-59ec-4089-9c26" name="Skimmer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="a379-35aa-43ad-89a5" name="Fast" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="a379-35aa-43ad-89a5" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="100"/>
@@ -4827,7 +4827,7 @@ Could not find wargear in A Firestorm may exchange its Hull (Front) Mounted Twin
     <selectionEntry name="Wraithlord Conclave" type="unit" id="2562-7375-44f5-abe9" page="74" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="f72a-d78f-4388-975f"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="543f-bfdf-4421-9af5" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="543f-bfdf-4421-9af5" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -4939,8 +4939,8 @@ Could not find wargear Wraithsword (with in-built Shuriken Catapult)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="2f1d-b793-41d2-ab9b" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6780-4ee0-49d3-9d03" id="3dae-993d-4f05-b98d" name="Wraith" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="2f1d-b793-41d2-ab9b" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6780-4ee0-49d3-9d03" id="3dae-993d-4f05-b98d" name="Wraith Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="180"/>
@@ -4965,7 +4965,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Wraithseer" type="unit" id="88ae-ed67-44ed-8a2e" page="75" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6ab5-35e6-42f4-9178"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="1d06-53b8-47f4-a4d4" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="1d06-53b8-47f4-a4d4" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="250"/>
@@ -5060,9 +5060,9 @@ Could not find wargear Aeldari Missile Launcher (with Sunburst, Starshot, and St
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="1dda-a9da-4eae-8a96" name="Asuryani" primary="false"/>
-            <categoryLink targetId="6780-4ee0-49d3-9d03" id="e0e7-2eac-4c67-a660" name="Wraith" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="c318-cef1-4161-9a21" name="Psyker" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="1dda-a9da-4eae-8a96" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6780-4ee0-49d3-9d03" id="e0e7-2eac-4c67-a660" name="Wraith Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="c318-cef1-4161-9a21" name="Psyker:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="42d9-5caa-4ed1-9e8a" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -5084,7 +5084,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Wraithknight" type="unit" id="250c-6721-4d92-81ed" page="78" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c672-ed54-4ad2-bfcb"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="ff17-c22f-4a73-b62a" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="ff17-c22f-4a73-b62a" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="500"/>
@@ -5198,9 +5198,9 @@ Could not find wargear Arm Mounted Ghostglaive
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="d5cc-dc92-4119-b4b4" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="d756-f796-4849-8164" name="Asuryani" primary="false"/>
-            <categoryLink targetId="437f-7773-a0d0-6061" id="547c-d022-4f43-a04e" name="Knight" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="d5cc-dc92-4119-b4b4" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="d756-f796-4849-8164" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="437f-7773-a0d0-6061" id="547c-d022-4f43-a04e" name="Knight Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Wraithknight may exchange an Arm Mounted Heavy Wraithcannon for one of the following options:</comment>
@@ -5217,7 +5217,7 @@ Could not find wargear in A Wraithknight may exchange an Arm Mounted Heavy Wrait
     <selectionEntry name="Skathach Wraithknight" type="unit" id="e80a-7edf-434c-a146" page="79" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e842-6e49-4041-a2a3"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="96a7-f01b-4929-b1b7" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="96a7-f01b-4929-b1b7" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="600"/>
@@ -5328,9 +5328,9 @@ Could not find wargear Arm Mounted Ghostglaive
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="d973-4845-4969-8db4" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="27af-78a1-4276-9a45" name="Asuryani" primary="false"/>
-            <categoryLink targetId="437f-7773-a0d0-6061" id="34a1-b3aa-40e5-b0d0" name="Knight" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="d973-4845-4969-8db4" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="27af-78a1-4276-9a45" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="437f-7773-a0d0-6061" id="34a1-b3aa-40e5-b0d0" name="Knight Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Arm Mounted Deathshroud Cannons
@@ -5351,7 +5351,7 @@ Could not find wargear in A Skathach Wraithknight may exchange an Arm Mounted De
     <selectionEntry name="Vampire Hunter" type="unit" id="455a-ad9c-419e-8d3a" page="80" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6407-cac8-409c-9855"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="8b8a-f110-4699-921a" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="8b8a-f110-4699-921a" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="700"/>
@@ -5397,10 +5397,10 @@ Could not find wargear in A Skathach Wraithknight may exchange an Arm Mounted De
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="4946-639b-4eee-a6c9" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="5c17-2adf-4fdb-b34a" name="Flyer" primary="false"/>
-            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="f9a0-0e2d-4e09-9022" name="Lumbering" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="7b05-69f1-492c-8faf" name="Hover" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="4946-639b-4eee-a6c9" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="5c17-2adf-4fdb-b34a" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="f9a0-0e2d-4e09-9022" name="Lumbering Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="7b05-69f1-492c-8faf" name="Hover Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Hull (Front) Mounted Twin-Linked Phoenix Missile Launchers
@@ -5419,7 +5419,7 @@ Could not find rule: Strafing Run</comment>
     <selectionEntry name="Vampire Raider" type="unit" id="ad19-d09c-475c-9668" page="81" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="387f-ff25-4596-8e14"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="7737-16f4-4229-bab3" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="7737-16f4-4229-bab3" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="600"/>
@@ -5498,11 +5498,11 @@ Could not find wargear Two Hull (Front) Mounted Twin-Linked Phoenix Missile Laun
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="e5d6-c957-4387-a308" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="e021-bcc7-4f0e-aa11" name="Flyer" primary="false"/>
-            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="dcb8-ebbd-44ca-902f" name="Lumbering" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="7eb3-de28-4505-a106" name="Hover" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="8d9d-a864-475e-9583" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="e5d6-c957-4387-a308" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="e021-bcc7-4f0e-aa11" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="dcb8-ebbd-44ca-902f" name="Lumbering Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="7eb3-de28-4505-a106" name="Hover Sub-type" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="8d9d-a864-475e-9583" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Improved Holo Fields
@@ -5521,7 +5521,7 @@ Could not find rule: Strafing Run</comment>
     <selectionEntry name="Phantom Titan" type="unit" id="d9cc-ad45-4095-bba8" page="82" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="2f73-5660-4bd1-bdb2"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="5480-d133-4db2-bd9c" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="5480-d133-4db2-bd9c" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="2500"/>
@@ -5619,9 +5619,9 @@ Could not find wargear Arm Mounted Wraith Glaive and Twin-Linked Gravis Starcann
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="d501-81e5-4a19-97cf" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="f3c0-20f1-4559-baac" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4280-2d8-16c6-d60b" id="2100-eb42-4ebd-b7fe" name="Titan" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="d501-81e5-4a19-97cf" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="f3c0-20f1-4559-baac" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4280-2d8-16c6-d60b" id="2100-eb42-4ebd-b7fe" name="Titan Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Arm mounted Phantom-Pulsar
@@ -5643,7 +5643,7 @@ Could not find rule: Wraithbone Core</comment>
     <selectionEntry name="Revenant Titan" type="unit" id="c05c-a32e-448f-8e51" page="83" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="08b6-494f-4c81-80c6"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="7c1e-8812-4944-8dce" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="7c1e-8812-4944-8dce" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -5736,9 +5736,9 @@ Could not find rule: Wraithbone Core</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="df7d-e436-42f2-9407" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="b927-2ff4-4939-a831" name="Asuryani" primary="false"/>
-            <categoryLink targetId="4280-2d8-16c6-d60b" id="e2fe-a1a1-4ed9-99fb" name="Titan" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="df7d-e436-42f2-9407" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="b927-2ff4-4939-a831" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="4280-2d8-16c6-d60b" id="e2fe-a1a1-4ed9-99fb" name="Titan Sub-type" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="750"/>
@@ -5763,7 +5763,7 @@ Could not find rule: Wraithbone Core</comment>
     <selectionEntry name="Scorpion" type="unit" id="6f09-ee0b-496c-ac8a" page="84" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="d08b-a810-4f62-84d4"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="380d-6894-4c91-a5f7" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="380d-6894-4c91-a5f7" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="500"/>
@@ -5883,8 +5883,8 @@ Could not find wargear Searchlight
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="46c2-d82f-45fe-b98d" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="dc7a-e1d8-4eae-a37b" name="Asuryani" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="46c2-d82f-45fe-b98d" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="dc7a-e1d8-4eae-a37b" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="fe5e-85bb-4bcd-8ab5" name="Skimmer" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -5899,7 +5899,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
     <selectionEntry name="Cobra" type="unit" id="ab35-0c30-4117-a4c6" page="85" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a496-7e24-479c-b549"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="cb7c-4b5f-4806-8e54" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="cb7c-4b5f-4806-8e54" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="550"/>
@@ -6030,8 +6030,8 @@ Could not find wargear Searchlight
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="78c5-1274-4616-9b88" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="b987-0fbf-47c7-a474" name="Asuryani" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="78c5-1274-4616-9b88" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="b987-0fbf-47c7-a474" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="a7ac-ce8b-4318-9b26" name="Skimmer" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -6044,7 +6044,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
     <selectionEntry name="Lynx" type="unit" id="f52a-95f7-491e-8687" page="86" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="0cec-e5b4-40f0-86aa"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="4f3f-8d4a-4fa1-98c8" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="4f3f-8d4a-4fa1-98c8" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="300"/>
@@ -6190,10 +6190,10 @@ Could not find wargear Searchlight
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="787e-d493-479d-aa84" name="Vehicle" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="5e36-58fe-42b6-b832" name="Asuryani" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="787e-d493-479d-aa84" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="5e36-58fe-42b6-b832" name="Asuryani Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="6a28-17c5-8117-d99c" id="8a68-7978-4e38-9f10" name="Skimmer" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="2f5e-f6b7-440e-9bf9" name="Fast" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="2f5e-f6b7-440e-9bf9" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Lynx may exchange its Centreline Mounted Lynx Pulsar with the following:
@@ -6208,7 +6208,7 @@ Could not find wargear in A Lynx may take any of the following:</comment>
     <selectionEntry name="Avatar Of Khaine" type="unit" id="d57e-c1b7-40c5-bfa5" page="90" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8e60-b339-46d4-adc1"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="1e84-6a68-4bd3-ba6d" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="1e84-6a68-4bd3-ba6d" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="750"/>
@@ -6237,10 +6237,10 @@ Could not find wargear in A Lynx may take any of the following:</comment>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="88e8-7a37-457e-b1bc"/>
           </constraints>
           <categoryLinks>
-            <categoryLink targetId="a9b4-ab6c-447a-a8a1" id="c427-099a-4f81-b832" name="Daemon Primarch" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="3be4-f5e0-4729-9900" name="Asuryani" primary="false"/>
-            <categoryLink targetId="f479-3c81-1e42-1b3a" id="f57b-96ce-48b0-ae56" name="Gargantuan" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="d8ba-b5ea-4194-88cf" name="Unique" primary="false"/>
+            <categoryLink targetId="a9b4-ab6c-447a-a8a1" id="c427-099a-4f81-b832" name="Daemon Primarch Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="3be4-f5e0-4729-9900" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="f479-3c81-1e42-1b3a" id="f57b-96ce-48b0-ae56" name="Gargantuan Unit Sub-type" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="d8ba-b5ea-4194-88cf" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Molten Body
@@ -6282,7 +6282,7 @@ Could not find rule: Khaine Awakened</comment>
     <selectionEntry name="Asurmen" type="unit" id="8277-f14b-4518-a299" page="91" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="779b-a024-4033-b3dd"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="3252-082b-49a7-80c5" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="3252-082b-49a7-80c5" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="325"/>
@@ -6325,9 +6325,9 @@ Could not find rule: Khaine Awakened</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="abbf-da5b-416e-a772" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="6e44-fbbd-46f4-9b61" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="82d2-411b-4c2b-b1ff" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="abbf-da5b-416e-a772" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="6e44-fbbd-46f4-9b61" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="82d2-411b-4c2b-b1ff" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear The Bloody Twins
@@ -6371,7 +6371,7 @@ Could not find rule: Shield of Grace</comment>
     <selectionEntry name="Baharroth" type="unit" id="7964-447c-4193-8be4" page="92" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b1c5-3181-4e56-bbf9"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="1062-7d11-4425-bbf3" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="1062-7d11-4425-bbf3" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="325"/>
@@ -6426,9 +6426,9 @@ Could not find rule: Shield of Grace</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="25f8-2980-48f3-8705" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="2cf0-4747-44c8-8b14" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="f858-8735-44db-ad03" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="25f8-2980-48f3-8705" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="2cf0-4747-44c8-8b14" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="f858-8735-44db-ad03" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear The Shining Blade
@@ -6461,7 +6461,7 @@ Could not find rule: Warlord: Cry of the Wind  AP Type</comment>
     <selectionEntry name="Drastanta" type="unit" id="4eaf-2579-49cb-94f2" page="93" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="54cd-9142-4dd1-88c7"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="0510-c7b1-446d-8e4c" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="0510-c7b1-446d-8e4c" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="350"/>
@@ -6504,9 +6504,9 @@ Could not find rule: Warlord: Cry of the Wind  AP Type</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="3f53-4a2f-426a-bea4" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="27fc-8269-492f-9a60" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="f3fd-e6fa-48ba-b928" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="3f53-4a2f-426a-bea4" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="27fc-8269-492f-9a60" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="f3fd-e6fa-48ba-b928" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear The Crown of the Seventh Sky
@@ -6538,7 +6538,7 @@ Could not find wargear Khaine&apos;s Destrier
     <selectionEntry name="Fuegan" type="unit" id="56df-208a-47bb-838f" page="94" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="3393-2ec1-44d3-8dec"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="ed41-414e-4159-8a14" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="ed41-414e-4159-8a14" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="350"/>
@@ -6581,9 +6581,9 @@ Could not find wargear Khaine&apos;s Destrier
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="119f-4a43-41fa-aaf5" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="fc07-ecee-4b62-a9f5" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="8487-4206-445e-81fe" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="119f-4a43-41fa-aaf5" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="fc07-ecee-4b62-a9f5" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="8487-4206-445e-81fe" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Searsong
@@ -6624,7 +6624,7 @@ Could not find rule: Unquenchable Resolve</comment>
     <selectionEntry name="Irillyth" type="unit" id="759e-52c7-4a25-883f" page="95" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="38f6-97f7-4c47-a183"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="7336-c8e5-4e3b-815e" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="7336-c8e5-4e3b-815e" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="325"/>
@@ -6673,9 +6673,9 @@ Could not find rule: Unquenchable Resolve</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="f6ba-c4f2-4c7d-bb06" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="117d-27c5-4a4a-9526" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="11b5-449f-41c1-9064" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="f6ba-c4f2-4c7d-bb06" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="117d-27c5-4a4a-9526" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="11b5-449f-41c1-9064" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Spear of Starlight
@@ -6719,7 +6719,7 @@ Could not find rule: Dawn of Twilight</comment>
     <selectionEntry name="Karandras" type="unit" id="3e09-2df2-4b12-8bf1" page="96" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b36d-35b9-4d7d-b700"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="da73-23ea-4093-a4dd" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="da73-23ea-4093-a4dd" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="350"/>
@@ -6762,9 +6762,9 @@ Could not find rule: Dawn of Twilight</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="d19e-ea28-4f83-bd79" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="311d-5d56-458d-b733" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="57aa-3b66-4088-b016" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="d19e-ea28-4f83-bd79" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="311d-5d56-458d-b733" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="57aa-3b66-4088-b016" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Isirmathil &amp; Shadowsting
@@ -6806,7 +6806,7 @@ Could not find wargear Scorpion’s Bite
     <selectionEntry name="Maugan Ra" type="unit" id="0c97-c091-4c31-b74e" page="97" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="245c-5480-4406-87b9"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="41e2-b5f4-4896-9b25" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="41e2-b5f4-4896-9b25" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="325"/>
@@ -6849,9 +6849,9 @@ Could not find wargear Scorpion’s Bite
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="050c-26b7-4c37-b652" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="264d-4955-4ca9-b96d" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="3ab1-eaae-47c3-b100" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="050c-26b7-4c37-b652" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="264d-4955-4ca9-b96d" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="3ab1-eaae-47c3-b100" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear The Maugetar
@@ -6888,7 +6888,7 @@ Could not find rule: Whirlwind of Death</comment>
     <selectionEntry name="Jain Zar" type="unit" id="1f68-59c6-4d76-b682" page="98" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c727-5f69-492b-adaa"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="74c7-8954-44e9-8c16" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="74c7-8954-44e9-8c16" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="350"/>
@@ -6931,9 +6931,9 @@ Could not find rule: Whirlwind of Death</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="c6be-7d92-445f-9f41" id="0cca-2503-41ac-9a29" name="Phoenix Lord" primary="false"/>
-            <categoryLink targetId="88bc-c291-44f8-8798" id="533e-c0a4-4a94-a220" name="Asuryani" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="4b30-be73-4717-885b" name="Unique" primary="false"/>
+            <categoryLink targetId="c6be-7d92-445f-9f41" id="0cca-2503-41ac-9a29" name="Phoenix Lord Unit Type:" primary="false"/>
+            <categoryLink targetId="88bc-c291-44f8-8798" id="533e-c0a4-4a94-a220" name="Asuryani Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="4b30-be73-4717-885b" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Terror’s Lament
@@ -6974,7 +6974,7 @@ Could not find rule: Disarming Strike</comment>
     <selectionEntry name="Webway Gate" type="unit" id="b996-22c3-4113-adfe" page="102" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="42d9-b1d0-4a4d-8569"/>
-        <categoryLink targetId="a24f-12d8-36c1-f477" primary="true" id="4231-2afa-48f6-a0d2" name="Fortification"/>
+        <categoryLink targetId="a24f-12d8-36c1-f477" primary="true" id="4231-2afa-48f6-a0d2" name="Fortification:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="75"/>
@@ -7003,7 +7003,7 @@ Could not find profile for Wraithbone Arches in [&apos;Webway Gate&apos;]</comme
     <selectionEntry name="Holo-Field Defence Line" type="unit" id="bb11-e4d2-4b1b-b08c" page="103" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1a59-fc3e-492d-b66a"/>
-        <categoryLink targetId="a24f-12d8-36c1-f477" primary="true" id="0421-1805-4470-a1c4" name="Fortification"/>
+        <categoryLink targetId="a24f-12d8-36c1-f477" primary="true" id="0421-1805-4470-a1c4" name="Fortification:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
@@ -7031,6 +7031,6 @@ Could not find profile for Double Holo-Field Sections in [&apos;Holo-Field Defen
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink id="38a-c90-44da-9571" name="Panoptica Library" targetId="69b7-3f60-9f7f-8ce5" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="38a-c90-44da-9571" name="Panoptica Library" targetId="660c-f1da-b1ee-1e2c" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

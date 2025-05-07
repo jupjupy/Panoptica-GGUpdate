@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="46c4-ffd6-affd-72f1" name="LI - Solar Auxilia" revision="2037" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="0da6-c6d1-0fdc-6dd6" name="LI - Solar Auxilia" revision="2037" battleScribeVersion="2.03" library="false" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" type="catalogue">
   <categoryEntries>
     <categoryEntry id="19f3-8727-02db-3ce5" name="Static Artillery" hidden="false">
       <rules>
@@ -6897,37 +6897,26 @@ While at least one model with a Command Vox is present on the battlefield and n
                 <categoryLink name="SA or IM Unit" hidden="false" id="d70a-51d5-e10e-8b01" targetId="4aca-2849-7f41-0200" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="aa99-4675-b778-a967" name="0) Leman Russ Battle Tank" hidden="false" collective="false" import="true" defaultSelectionEntryId="dbc6-3573-177d-e0a4">
+                <selectionEntryGroup id="aa99-4675-b778-a967" name="0) Leman Russ Demolisher" hidden="false" collective="false" import="true" defaultSelectionEntryId="dbc6-3573-177d-e0a4">
                   <constraints>
                     <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="14d1-dc69-5645-eaf4" type="min"/>
                     <constraint field="selections" scope="parent" value="3" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0679-9f7e-e2bd-0669" type="max"/>
                   </constraints>
-                  <infoLinks>
-                    <infoLink id="83a9-2352-024a-6635" name="Outflank" hidden="false" targetId="bfbf-e75c-49a2-0285" type="rule"/>
-                    <infoLink id="6bf2-f922-0f21-cf1a" name="Tercio" hidden="false" targetId="6516-f81d-457b-a2cc" type="rule"/>
-                  </infoLinks>
                   <selectionEntries>
-                    <selectionEntry id="dbc6-3573-177d-e0a4" name="Leman Russ Battle Tank" hidden="false" collective="false" import="true" type="model">
+                    <selectionEntry id="dbc6-3573-177d-e0a4" name="Leman Russ Demolisher" hidden="false" collective="false" import="true" type="model">
                       <profiles>
-                        <profile id="4ccd-b32d-caca-2016" name="Leman Russ Battle Tank" hidden="false" typeId="2fae-b053-3f78-e7b2" typeName="Vehicle">
+                        <profile id="4ccd-b32d-caca-2016" name="Leman Russ Demolisher" hidden="false" typeId="2fae-b053-3f78-e7b2" typeName="Vehicle">
                           <characteristics>
-                            <characteristic name="Unit Type" typeId="e555-4aed-dfcc-c0b4">Vehicle</characteristic>
-                            <characteristic name="Move" typeId="3614-4a2d-bffb-90e4">12</characteristic>
+                            <characteristic name="Unit Type" typeId="e555-4aed-dfcc-c0b4">Vehicle (Reinforced)</characteristic>
+                            <characteristic name="Move" typeId="3614-4a2d-bffb-90e4">10</characteristic>
                             <characteristic name="BS" typeId="51fb-b7d9-aa59-863d">3</characteristic>
                             <characteristic name="Front" typeId="0ef8-a648-01d0-08ee">14</characteristic>
                             <characteristic name="Side" typeId="f150-c0dc-c192-9cb3">13</characteristic>
-                            <characteristic name="Rear" typeId="8d4e-2aea-fffc-d556">10</characteristic>
+                            <characteristic name="Rear" typeId="8d4e-2aea-fffc-d556">11</characteristic>
                             <characteristic name="HP" typeId="a76c-83b1-602f-9e62">4</characteristic>
                             <characteristic name="Transport Capacity" typeId="0c90-79e2-f768-e547">-</characteristic>
                             <characteristic name="Access Points" typeId="e217-1b1e-9494-3e3e">-</characteristic>
                           </characteristics>
-                          <modifiers>
-                            <modifier type="increment" value="1" field="8d4e-2aea-fffc-d556">
-                              <conditions>
-                                <condition type="atLeast" value="1" field="selections" scope="813c-fa93-375d-5f3e" childId="1d4a-05a3-1589-915d" shared="true" includeChildSelections="true"/>
-                              </conditions>
-                            </modifier>
-                          </modifiers>
                         </profile>
                       </profiles>
                       <selectionEntryGroups>
@@ -6970,7 +6959,7 @@ While at least one model with a Command Vox is present on the battlefield and n
                             <entryLink id="2e7d-8dea-e83f-725b" name="Heavy Bolter" hidden="false" collective="false" import="true" targetId="07fd-c24a-9235-4206" type="selectionEntry"/>
                           </entryLinks>
                         </selectionEntryGroup>
-                        <selectionEntryGroup id="0a54-d617-b006-170c" name="2) May take any of the following:" hidden="false" collective="false" import="true">
+                        <selectionEntryGroup id="0a54-d617-b006-170c" name="3) May take any of the following:" hidden="false" collective="false" import="true">
                           <entryLinks>
                             <entryLink id="23ab-a730-50fb-2fcf" name="Dozer Blade" hidden="false" collective="false" import="true" targetId="42e1-f6cf-1f2b-a492" type="selectionEntry">
                               <constraints>
@@ -7014,7 +7003,7 @@ While at least one model with a Command Vox is present on the battlefield and n
                     </selectionEntry>
                   </selectionEntries>
                 </selectionEntryGroup>
-                <selectionEntryGroup id="2c00-21cc-9339-aca2" name="1) All models may exchange their Turret Demolisher Battlecannon for one of the following:" hidden="false" collective="false" import="true" defaultSelectionEntryId="e78a-4108-1c56-8250">
+                <selectionEntryGroup id="2c00-21cc-9339-aca2" name="1) All models may exchange their Turret Mounted Demolisher Cannon for one of the following:" hidden="false" collective="false" import="true" defaultSelectionEntryId="e78a-4108-1c56-8250">
                   <constraints>
                     <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="11ed-5517-faa6-b688" type="min"/>
                     <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ebc-1586-a1f4-c9bd" type="max"/>
@@ -7041,6 +7030,9 @@ While at least one model with a Command Vox is present on the battlefield and n
               <costs>
                 <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
               </costs>
+              <infoLinks>
+                <infoLink name="Tercio" id="6bf2-f922-0f21-cf1a" hidden="false" targetId="6516-f81d-457b-a2cc" type="rule"/>
+              </infoLinks>
             </selectionEntry>
             <selectionEntry id="3fce-bf1a-6369-a386" name="Leman Russ Strike Squadron" hidden="false" collective="false" import="true" type="unit">
               <modifiers>
@@ -7141,11 +7133,6 @@ While at least one model with a Command Vox is present on the battlefield and n
                   </constraints>
                   <selectionEntries>
                     <selectionEntry id="38c2-e9d2-c88b-b280" name="Leman Russ Battle Tank" hidden="false" collective="false" import="true" type="model">
-                      <infoLinks>
-                        <infoLink id="0652-1ff4-b759-e0fb" name="Outflank" hidden="false" targetId="bfbf-e75c-49a2-0285" type="rule"/>
-                        <infoLink id="eeca-c8d2-a969-c1ab" name="Tercio" hidden="false" targetId="6516-f81d-457b-a2cc" type="rule"/>
-                        <infoLink id="219c-f358-08cb-f591" name="Leman Russ Battle Tank" targetId="4ccd-b32d-caca-2016" type="profile"/>
-                      </infoLinks>
                       <selectionEntryGroups>
                         <selectionEntryGroup id="4607-60dd-c274-762a" name="3) May take any of the following:" hidden="false" collective="false" import="true">
                           <entryLinks>
@@ -7227,6 +7214,21 @@ While at least one model with a Command Vox is present on the battlefield and n
                       <categoryLinks>
                         <categoryLink targetId="e2b6-b770-784c-9e95" id="6b03-4b72-4276-babc" name="Vehicle:" primary="false"/>
                       </categoryLinks>
+                      <profiles>
+                        <profile name="Leman Russ Battle Tank" typeId="2fae-b053-3f78-e7b2" typeName="Vehicle" hidden="false" id="c6ae-b1f7-c1fe-15f9">
+                          <characteristics>
+                            <characteristic name="Unit Type" typeId="e555-4aed-dfcc-c0b4">Vehicle</characteristic>
+                            <characteristic name="Move" typeId="3614-4a2d-bffb-90e4">12</characteristic>
+                            <characteristic name="BS" typeId="51fb-b7d9-aa59-863d">3</characteristic>
+                            <characteristic name="Front" typeId="0ef8-a648-01d0-08ee">14</characteristic>
+                            <characteristic name="Side" typeId="f150-c0dc-c192-9cb3">13</characteristic>
+                            <characteristic name="Rear" typeId="8d4e-2aea-fffc-d556">10</characteristic>
+                            <characteristic name="HP" typeId="a76c-83b1-602f-9e62">4</characteristic>
+                            <characteristic name="Transport Capacity" typeId="0c90-79e2-f768-e547">-</characteristic>
+                            <characteristic name="Access Points" typeId="e217-1b1e-9494-3e3e">-</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
                     </selectionEntry>
                   </selectionEntries>
                 </selectionEntryGroup>
@@ -7234,6 +7236,10 @@ While at least one model with a Command Vox is present on the battlefield and n
               <costs>
                 <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
               </costs>
+              <infoLinks>
+                <infoLink name="Tercio" id="eeca-c8d2-a969-c1ab" hidden="false" targetId="6516-f81d-457b-a2cc" type="rule"/>
+                <infoLink name="Outflank" id="0652-1ff4-b759-e0fb" hidden="false" targetId="bfbf-e75c-49a2-0285" type="rule"/>
+              </infoLinks>
             </selectionEntry>
           </selectionEntries>
           <modifiers>
@@ -9770,7 +9776,7 @@ While at least one model with a Command Vox is present on the battlefield and n
                   <rules>
                     <rule id="38c8-414f-35c2-bf17" name="Field Repair (X)" hidden="false">
                       <modifiers>
-                        <modifier type="set" field="name" value="Field Repair (4+)">
+                        <modifier type="set" field="name" value="Field Repair (3+)">
                           <comment>Panoptica 150</comment>
                         </modifier>
                       </modifiers>
@@ -12745,8 +12751,8 @@ When an Allied Detachment drawn from the Solar Auxilia Army List has a version o
     </rule>
   </sharedRules>
   <catalogueLinks>
-    <catalogueLink id="e048-9e5e-507c-5bac" name="LI - Assassins and Agents" targetId="2dde-e269-90db-8d33" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="60d6-cab6-4580-b772" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="60d6-cab6-4580-b4256" name="Imperium Library" targetId="4ab9-6c13-4d80-2f7d" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e048-9e5e-507c-5bac" name="LI - Assassins and Agents" targetId="9982-df39-e8a5-8524" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="60d6-cab6-4580-b772" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="60d6-cab6-4580-b4256" name="Imperium Library" targetId="1b22-b2be-f49e-c48b" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

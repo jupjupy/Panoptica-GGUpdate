@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="2f2b-1f31-c455-1776" name="LI - Custodes" revision="2022" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="5f8f-117b-e5d8-a987" name="LI - Custodes" revision="2022" battleScribeVersion="2.03" library="false" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" type="catalogue">
   <categoryEntries>
     <categoryEntry id="ccca-a9de-0cd9-f8be" name="Legio Custodes" hidden="false">
       <infoLinks>
@@ -3663,9 +3663,9 @@ Controlling Player’s Reaction Allotment.</characteristic>
     </profile>
   </sharedProfiles>
   <catalogueLinks>
-    <catalogueLink id="e048-9e5e-507c-5bad" name="LI - Assassins and Agents" targetId="2dde-e269-90db-8d33" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="60d6-cab6-4580-b772" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="68w6-cab6-4580-b4256" name="Imperium Library" targetId="4ab9-6c13-4d80-2f7d" type="catalogue" importRootEntries="true"/>
-    <catalogueLink type="catalogue" name="[Imperatus] Custodes" id="9f9f-233d-b068-aee3" targetId="f65b-5341-4b66-c32f"/>
+    <catalogueLink id="e048-9e5e-507c-5bad" name="LI - Assassins and Agents" targetId="9982-df39-e8a5-8524" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="60d6-cab6-4580-b772" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="68w6-cab6-4580-b4256" name="Imperium Library" targetId="1b22-b2be-f49e-c48b" type="catalogue" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="[Imperatus] Custodes" id="9f9f-233d-b068-aee3" targetId="51b3-1959-0fba-ade1"/>
   </catalogueLinks>
 </catalogue>

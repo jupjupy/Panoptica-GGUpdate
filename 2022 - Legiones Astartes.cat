@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="25e4-c9e5-8165-1337" name="Legions Astartes" revision="2184" battleScribeVersion="2.03" authorName="Various" authorUrl="https://github.com/BSData/horus-heresy" library="true" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="b132-bb06-6375-1371" name="Legions Astartes" revision="2184" battleScribeVersion="2.03" authorName="Various" authorUrl="https://github.com/BSData/horus-heresy" library="true" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <publications>
     <publication id="0594-a9b0-6f10-090e" name="Legion Javelin Squadron update" publisher="Warhammer Community Downloads" publicationDate="May 2023" publisherUrl="https://www.warhammer-community.com/wp-content/uploads/2023/05/hd7WOnm2lKCHkskG.pdf"/>
     <publication id="acdb-27b7-6b7e-932f" name="Legion Mastodon update" publisher="Warhammer Community Downloads" publicationDate="May 2023" publisherUrl="https://www.warhammer-community.com/wp-content/uploads/2023/05/AopGHpxowuowkwJw.pdf"/>
@@ -4312,7 +4312,7 @@ When a model has two Raven’s Talons, that model gains +2 Attacks instead of th
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="35cb-31a0-80f5-3eb1" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="35cb-31a0-80f5-3eb1" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="1ce3-ccc2-389c-e607" name="3) Melee Weapon" hidden="false" collective="false" import="true">
@@ -7018,7 +7018,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="a996-7100-5c06-3786" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="a996-7100-5c06-3786" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="9b02-86ca-1e25-4dae" name="4) Wargear" hidden="false" collective="false" import="true">
@@ -8436,7 +8436,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="b6d4-54a9-76cd-8b9d" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="b6d4-54a9-76cd-8b9d" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="2493-217a-cad4-37a0" name="1) Melee Weapon" hidden="false" collective="false" import="true" defaultSelectionEntryId="455d-d9a1-0790-51a3">
@@ -12251,7 +12251,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
           </infoLinks>
           <categoryLinks>
             <categoryLink id="3ff3-a875-b665-d9c2" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
-            <categoryLink id="8025-5267-9e60-2e52" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="8025-5267-9e60-2e52" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="bb7b-00f9-bae0-5d56" name="1) Bolt Pistol/Chainsword Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="cbe3-deba-8d71-041b">
@@ -12805,7 +12805,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
             <selectionEntryGroup id="f662-22a4-b0b4-3f15" name="0) Legion-specific upgrades" hidden="false" collective="false" import="true">
               <categoryLinks>
                 <categoryLink id="ebe8-05b8-8ce2-ad96" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
-                <categoryLink id="eaa1-a718-303d-3a67" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="eaa1-a718-303d-3a67" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <entryLinks>
                 <entryLink id="ab3a-707f-7f67-8804" name="Dragonscale Shield" hidden="true" collective="false" import="true" targetId="489d-88d0-a0d8-b3e6" type="selectionEntry">
@@ -13502,7 +13502,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
           </infoLinks>
           <categoryLinks>
             <categoryLink id="55e0-8c05-884e-ba8c" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
-            <categoryLink id="ec32-4a1e-5396-e91b" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="ec32-4a1e-5396-e91b" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="7d85-7f39-4fb3-f3ef" name="0) Legion-specific upgrades" hidden="false" collective="false" import="true">
@@ -14023,7 +14023,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
           </infoLinks>
           <categoryLinks>
             <categoryLink id="5e17-8334-68c0-04a0" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
-            <categoryLink id="cf9b-75ce-102e-be48" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="cf9b-75ce-102e-be48" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="e1fe-0b11-8d2e-7266" name="0) Legion-specific upgrades" hidden="false" collective="false" import="true">
@@ -15035,7 +15035,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
           </infoLinks>
           <categoryLinks>
             <categoryLink id="c616-84d4-9f5c-db27" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
-            <categoryLink id="42bf-da0d-3cd6-841b" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="42bf-da0d-3cd6-841b" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="a659-c5c9-2a20-a3e0" name="1) Bolt Pistol/Chainsword Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="b65c-f5fa-599c-cba1">
@@ -16727,7 +16727,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
                 <infoLink id="005f-a31d-064a-fc82" name="Tartaros Sergeant" hidden="false" targetId="1bde-413a-7f98-a39e" type="profile"/>
               </infoLinks>
               <categoryLinks>
-                <categoryLink id="0cc0-0c4e-c86c-64d0" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="0cc0-0c4e-c86c-64d0" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="5261-2c35-456a-aaaa" name="Wargear" hidden="false" collective="false" import="true">
@@ -16971,7 +16971,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
                 </infoLink>
               </infoLinks>
               <categoryLinks>
-                <categoryLink id="e046-ff5c-f79f-365a" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="e046-ff5c-f79f-365a" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="123a-e25e-7537-f372" name="Wargear" hidden="false" collective="false" import="true">
@@ -18075,7 +18075,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
                 <infoLink id="c901-b36a-f503-f2d4" name="Cataphractii Sergeant" hidden="false" targetId="768c-34e9-1ed4-3229" type="profile"/>
               </infoLinks>
               <categoryLinks>
-                <categoryLink id="2b1e-b781-a807-6fe1" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="2b1e-b781-a807-6fe1" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="6b0c-e13c-3cdd-885e" name="Wargear" hidden="false" collective="false" import="true">
@@ -18307,7 +18307,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
                 </profile>
               </profiles>
               <categoryLinks>
-                <categoryLink id="c4a7-b499-7fa8-dd84" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="c4a7-b499-7fa8-dd84" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="80a6-efbe-d311-7b1e" name="Wargear" hidden="false" collective="false" import="true">
@@ -18824,7 +18824,7 @@ This is a Damage Mitigation roll – any model may make only a single Damage Mit
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="2d71-0b5b-2483-5f08" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="2d71-0b5b-2483-5f08" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="5547-7e40-1c00-8d11" name="2) Chainsword" hidden="false" collective="false" import="true" defaultSelectionEntryId="fe05-b070-c175-e00f">
@@ -21286,7 +21286,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="bbac-7dbd-ca0f-863a" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="bbac-7dbd-ca0f-863a" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="3adc-48af-fdcd-d04d" name="1) Bolter Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="1501-f7b5-679b-1341">
@@ -22787,7 +22787,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="200c-0f43-1beb-62aa" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="200c-0f43-1beb-62aa" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="df17-a321-e12f-0390" name="3) Melee:" hidden="false" collective="false" import="true">
@@ -24120,7 +24120,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="f17a-52a8-4f51-87b0" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="f17a-52a8-4f51-87b0" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="a983-0a26-7305-85ea" name="2) Bolt Pistol:" hidden="false" collective="false" import="true" defaultSelectionEntryId="6afc-5ae2-eb4c-c4f8">
@@ -26484,7 +26484,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
           </infoLinks>
           <categoryLinks>
             <categoryLink id="add6-afbd-601c-8362" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
-            <categoryLink id="fd98-9485-d2c2-1cad" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="fd98-9485-d2c2-1cad" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="d85c-6ae4-b3d9-41bb" name="3) Ranged Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="d935-4ccc-5515-a677">
@@ -28661,7 +28661,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
                 </infoLink>
               </infoLinks>
               <categoryLinks>
-                <categoryLink id="5639-da94-4fb8-6ee7" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="5639-da94-4fb8-6ee7" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="e950-78ff-ddc2-005a" name="4) Wargear" hidden="false" collective="false" import="true">
@@ -29019,7 +29019,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
                 </infoLink>
               </infoLinks>
               <categoryLinks>
-                <categoryLink id="b2c1-e41d-4284-9218" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="b2c1-e41d-4284-9218" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="fa96-7c2f-4942-a484" name="2) Bolt Pistol Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="69ee-5367-81a6-a070">
@@ -29821,7 +29821,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="c071-739d-589c-3e0c" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="c071-739d-589c-3e0c" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="8eb3-6645-8321-61fb" name="5) Mobility:" hidden="false" collective="false" import="true">
@@ -30734,7 +30734,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="cb22-550a-0414-5b07" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="cb22-550a-0414-5b07" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="3214-7b9c-6268-1607" name="4) Wargear" hidden="false" collective="false" import="true">
@@ -31613,7 +31613,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="73ea-7e8d-96d7-d695" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="73ea-7e8d-96d7-d695" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="b258-61fd-7012-66ac" name="3) May take a ranged weapon:" hidden="false" collective="false" import="true">
@@ -32557,7 +32557,7 @@ If one or more Wounds is discounted due to this special rule, and the unit that 
           </infoLinks>
           <categoryLinks>
             <categoryLink id="cc53-08c1-5201-8d44" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
-            <categoryLink id="8147-b54d-fb5f-26f6" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="8147-b54d-fb5f-26f6" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="803c-da1b-aab9-ee81" name="1) Ranged Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="6452-6f2c-977c-121a">
@@ -36932,7 +36932,7 @@ It is not know if this is a mistake or not, as previously like with the Mech boo
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="7f32-88bb-fc56-eb28" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="7f32-88bb-fc56-eb28" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="5e1c-ccfd-afce-5895" name="Wargear" hidden="false" collective="false" import="true">
@@ -38505,7 +38505,7 @@ It is not know if this is a mistake or not, as previously like with the Mech boo
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="f19e-a74c-d86c-6ff1" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="f19e-a74c-d86c-6ff1" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="871c-d47a-4a6c-7a32" name="4) Wargear" hidden="false" collective="false" import="true">
@@ -43610,7 +43610,7 @@ It is not know if this is a mistake or not, as previously like with the Mech boo
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="231f-ecef-2569-5b05" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="231f-ecef-2569-5b05" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="1cf3-54c4-75e4-6cef" name="Melee Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="37e2-0f28-e250-b232">
@@ -44605,7 +44605,7 @@ It is not know if this is a mistake or not, as previously like with the Mech boo
                 <infoLink id="31d8-f07b-d561-1fb4" name="Indomitus Sergeant" hidden="false" targetId="95b6-5138-ea6a-f10e" type="profile"/>
               </infoLinks>
               <categoryLinks>
-                <categoryLink id="a497-c238-690f-16a5" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="a497-c238-690f-16a5" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="e68d-5996-0751-53ee" name="Wargear" hidden="false" collective="false" import="true">
@@ -44841,7 +44841,7 @@ It is not know if this is a mistake or not, as previously like with the Mech boo
                 </profile>
               </profiles>
               <categoryLinks>
-                <categoryLink id="07eb-2f16-672e-1227" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+                <categoryLink id="07eb-2f16-672e-1227" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
                 <selectionEntryGroup id="ee8e-ee93-212f-8b31" name="2) Melee Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="3ca9-3908-d557-cc6c">
@@ -46736,7 +46736,6 @@ It is not know if this is a mistake or not, as previously like with the Mech boo
             <infoLink id="d242-9520-d1b8-2c2c" name="Impact-reactive Doors" hidden="false" targetId="6c21-dd77-4c93-eeed" type="rule"/>
             <infoLink id="b339-d34b-c350-7bcf" name="Orbital Assault Vehicle" hidden="false" targetId="7fc9-7bcd-b44c-6719" type="rule"/>
             <infoLink id="0ec8-b3e8-e06f-a0f9" name="Area Denial Drop" hidden="false" targetId="5cd0-cbd0-6e0a-282a" type="rule"/>
-            <infoLink id="9686-347b-6773-6f0f" name="Indiscriminate Fire!" hidden="false" targetId="798b-c61b-8e53-1776" type="rule"/>
           </infoLinks>
           <categoryLinks>
             <categoryLink id="38b0-7f4d-7fa6-5d5a" name="Vehicle:" hidden="false" targetId="e2b6-b770-784c-9e95" primary="false"/>
@@ -50249,7 +50248,6 @@ A model equipped with a Legion Spatha Attack Bike must change its Unit Type to 
         </modifier>
       </modifiers>
       <infoLinks>
-        <infoLink id="bc9a-a8db-6452-5063" name="Automated Artillery Sub-type" hidden="false" targetId="c036-66e2-4e07-c2b8" type="rule"/>
         <infoLink id="126f-c78f-2f94-0bdd" name="Sentry Protocols" hidden="false" targetId="97aa-da60-3ccc-7152" type="rule"/>
         <infoLink id="ee1c-585d-3d84-6db2" name="Firing Protocols (X)" hidden="false" targetId="32a3-f599-5c92-2945" type="rule">
           <modifiers>
@@ -52710,7 +52708,7 @@ A model equipped with a Legion Spatha Attack Bike must change its Unit Type to 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="71e6-f8f4-6b5e-9405" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="71e6-f8f4-6b5e-9405" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="b778-f3a1-95eb-9c69" name="1) Chainsword Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="8c39-e66f-b5bb-035c">
@@ -55344,7 +55342,7 @@ A model equipped with a Legion Spatha Attack Bike must change its Unit Type to 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="d5d1-9ec0-5b7b-ca10" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="d5d1-9ec0-5b7b-ca10" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="d4f8-2397-36ce-f43e" name="4) May take:" hidden="false" collective="false" import="true">
@@ -56727,7 +56725,7 @@ A model equipped with a Legion Spatha Attack Bike must change its Unit Type to 
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="5d9e-72ae-2fa5-191e" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="5d9e-72ae-2fa5-191e" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup id="5da5-824f-1cfa-0671" name="1) Chainsword Options" hidden="false" collective="false" import="true" defaultSelectionEntryId="91b9-eb39-f4b4-11e6">
@@ -64066,7 +64064,7 @@ If the Psychic check is successful then until that Shooting Attack is resolved, 
           </selectionEntryGroups>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="5356-554a-4897-9bd9" name="Infantry:" primary="false"/>
-            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="7da5-98a4-47b6-9727" name="Character" primary="false"/>
+            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="7da5-98a4-47b6-9727" name="Character Sub-type" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -68517,9 +68515,9 @@ When included in a Shattered Legions Detachment, this model must represent the L
     </rule>
   </sharedRules>
   <catalogueLinks>
-    <catalogueLink id="60d6-cab6-4580-b772" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="e048-9e5e-507c-5bab" name="LI - Assassins and Agents" targetId="2dde-e269-90db-8d33" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="e123-456e-507c-5tra" name="Daemons - Bound Daemons" targetId="d114-c205-18d5-4e95" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="8b20-7569-6f4a-44f9" name="Daemons - Daemons of the Ruinstorm" targetId="724d-13c4-628c-f642" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="60d6-cab6-4580-b772" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e048-9e5e-507c-5bab" name="LI - Assassins and Agents" targetId="9982-df39-e8a5-8524" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e123-456e-507c-5tra" name="Daemons - Bound Daemons" targetId="d0f5-775d-d06b-3b18" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="8b20-7569-6f4a-44f9" name="Daemons - Daemons of the Ruinstorm" targetId="cb7a-e52f-6650-725c" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

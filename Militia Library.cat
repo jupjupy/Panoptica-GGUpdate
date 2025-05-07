@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="true" id="4ab9-25ad-4d80-2f7d" name="Militia Library" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2002" revision="1" authorName="LeonisAstra" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue library="true" id="ef5f-3fac-39d1-b855" name="Militia Library" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2002" revision="1" authorName="LeonisAstra" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <sharedSelectionEntries>
     <selectionEntry id="f02b-00e7-b68c-3be0" name="Flak Armour" publicationId="48c2-d023-0069-001a" page="37" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>

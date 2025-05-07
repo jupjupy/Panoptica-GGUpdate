@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="4f40-72d0-2942-778b" name="[Ingenium] Mechanicum" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="1a30-30d1-4bc2-0ee8" name="[Ingenium] Mechanicum" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntries>
     <selectionEntry name="Magos Prime" type="unit" id="9a5a-a411-463d-b98a" page="6" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e8a8-0342-427a-b659"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="aa34-5919-4850-914c" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="aa34-5919-4850-914c" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="115"/>
@@ -224,7 +224,7 @@ Could not find wargear Master-Crafted
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="3f41-70d2-4ba3-acfd" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="3f41-70d2-4ba3-acfd" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a391-6f18-426b-9fdc" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -254,7 +254,7 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
     <selectionEntry name="Magos Prime On Abeyant" type="unit" id="6ef6-3412-4083-82ca" page="8" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="2bc8-fe02-494e-99e2"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="ebc2-2dac-4307-b646" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="ebc2-2dac-4307-b646" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="145"/>
@@ -471,10 +471,10 @@ Could not find wargear Master-Crafted
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d9cc-077e-4392-b34f" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d9cc-077e-4392-b34f" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="9892-5655-40bd-972e" name="Character" primary="false"/>
-            <categoryLink targetId="7d95-f9d1-440a-67bd" id="390a-bebf-41fd-90bf" name="Monstrous" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="fca0-ecd2-4061-8eec" name="Antigrav" primary="false"/>
+            <categoryLink targetId="7d95-f9d1-440a-67bd" id="390a-bebf-41fd-90bf" name="Monstrous Sub-type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="fca0-ecd2-4061-8eec" name="Antigrav Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in The Magos Prime on Abeyant may take one of the following:
@@ -503,7 +503,7 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
     <selectionEntry name="Skitarii Centurius" type="unit" id="3283-a0b5-40b2-b42b" page="10" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e519-c643-4d22-9f26"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="3983-23a9-42eb-96cb" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="3983-23a9-42eb-96cb" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
@@ -750,9 +750,9 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f6a1-c5b9-4cb8-8c05" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f6a1-c5b9-4cb8-8c05" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a31c-b850-44fc-ae20" name="Character" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="331d-e34c-4cce-bbe1" name="Skitarii" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="331d-e34c-4cce-bbe1" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -782,7 +782,7 @@ Could not find rule: Command Protocols (Skitarius)</comment>
     <selectionEntry name="Sicarian Clademaster" type="unit" id="0e52-17c2-4d08-9b49" page="11" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="f628-0b81-43d5-a612"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="c664-f5b7-4ec8-8a23" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="c664-f5b7-4ec8-8a23" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="120"/>
@@ -1034,9 +1034,9 @@ Could not find wargear Aggression Stim-Injectors
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f68d-35db-437f-9223" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f68d-35db-437f-9223" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="c5cb-8894-42da-940e" name="Character" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="cda8-2563-4025-b908" name="Skitarii" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="cda8-2563-4025-b908" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in The Sicarian Clademaster must select one of the following:
@@ -1072,7 +1072,7 @@ Stubcarbine is in two option lists for Sicarian Clademaster, you will need to co
     <selectionEntry name="Praetorian Servitor Maniple" type="unit" id="3ad7-7e46-47b0-a70d" page="12" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="49ab-bc77-4881-8e50"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="18ff-40c9-4ad3-8b3e" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="18ff-40c9-4ad3-8b3e" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -1139,9 +1139,9 @@ Stubcarbine is in two option lists for Sicarian Clademaster, you will need to co
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7aa1-96df-4f1e-a36a" name="Infantry" primary="false"/>
-            <categoryLink targetId="ecbd-02c1-4396-8660" id="0e14-7769-4d2a-b4e5" name="Servitor" primary="false"/>
-            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="de0b-a356-4508-801b" name="Guardian" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7aa1-96df-4f1e-a36a" name="Infantry:" primary="false"/>
+            <categoryLink targetId="ecbd-02c1-4396-8660" id="0e14-7769-4d2a-b4e5" name="Servitor Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="de0b-a356-4508-801b" name="Guardian Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -1169,7 +1169,7 @@ Could not find wargear Arcana Potentis
     <selectionEntry name="Arkhan Land" type="unit" id="d09a-1b47-44b2-8770" page="13" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b5e9-4c79-4c7f-aed2"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="5a8b-2167-41d7-8c80" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="5a8b-2167-41d7-8c80" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="175"/>
@@ -1224,11 +1224,11 @@ Could not find wargear Arcana Potentis
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4f70-45b6-4a29-a1e2" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4f70-45b6-4a29-a1e2" name="Infantry:" primary="false"/>
             <categoryLink targetId="57a1-ae47-ff1b-36e4" id="ac90-c823-4518-8db0" name="Cybertheurgist" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="e8bb-7c07-4f13-8355" name="Character" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="3e68-743c-4645-a5f3" name="Line" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="b07d-5f47-473d-8bf2" name="Unique" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="3e68-743c-4645-a5f3" name="Line Sub-type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="b07d-5f47-473d-8bf2" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Solius Excinda
@@ -1254,7 +1254,7 @@ Could not find rule: Master Cybertheurgist:</comment>
     <selectionEntry name="Remiare" type="unit" id="f3d1-035f-45e4-9200" page="14" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="f559-a469-47b8-9b1a"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="ca88-8bf0-4a08-b400" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="ca88-8bf0-4a08-b400" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="220"/>
@@ -1314,10 +1314,10 @@ Could not find rule: Master Cybertheurgist:</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="fad3-a57a-4dd7-bc89" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="fad3-a57a-4dd7-bc89" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="cc5e-6fe1-4730-b586" name="Character" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="937f-8761-4beb-be48" name="Skirmish" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="9463-b7d8-4782-8144" name="Unique" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="937f-8761-4beb-be48" name="Skirmish Sub-type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="9463-b7d8-4782-8144" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Prenzlaur Null-Pistols
@@ -1360,7 +1360,7 @@ Could not find rule: Warlord: The Science of Slaughter*</comment>
     <selectionEntry name="Koriel Zeth" type="unit" id="2d75-642e-452f-9819" page="15" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="90a4-775d-45f5-a577"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="cf98-be42-45cd-ab9e" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="cf98-be42-45cd-ab9e" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="240"/>
@@ -1409,10 +1409,10 @@ Could not find rule: Warlord: The Science of Slaughter*</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="fd5d-5d13-4fab-9783" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="fd5d-5d13-4fab-9783" name="Infantry:" primary="false"/>
             <categoryLink targetId="57a1-ae47-ff1b-36e4" id="58c7-985b-40e1-82fb" name="Cybertheurgist" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="043a-7fd1-41ab-b067" name="Character" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="f535-17b6-48b4-af40" name="Unique" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="f535-17b6-48b4-af40" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Excoriator
@@ -1447,7 +1447,7 @@ Could not find rule: Warlord: The Logic of Victory*</comment>
     <selectionEntry name="Kelbor-Hal" type="unit" id="7d76-881f-4660-aeae" page="16" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1914-a961-4bc4-8b21"/>
-        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="57dd-c57b-489f-8c05" name="Primarch"/>
+        <categoryLink targetId="ad5f-31db-8bc7-5c46" primary="true" id="57dd-c57b-489f-8c05" name="Primarch Unit Type"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="500"/>
@@ -1502,12 +1502,12 @@ Could not find rule: Warlord: The Logic of Victory*</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="ad5f-31db-8bc7-5c46" id="09d2-9213-45c0-856e" name="Primarch" primary="false"/>
-            <categoryLink targetId="7d95-f9d1-440a-67bd" id="ace0-55e2-467e-8b8e" name="Monstrous" primary="false"/>
-            <categoryLink targetId="4303-1348-cce4-9501" id="25bf-71f3-4db9-a9ee" name="Antigrav" primary="false"/>
-            <categoryLink targetId="e69c-24ba-4ef9-8679" id="133f-1e93-4990-ab3d" name="Corrupted" primary="false"/>
+            <categoryLink targetId="ad5f-31db-8bc7-5c46" id="09d2-9213-45c0-856e" name="Primarch Unit Type" primary="false"/>
+            <categoryLink targetId="7d95-f9d1-440a-67bd" id="ace0-55e2-467e-8b8e" name="Monstrous Sub-type:" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="25bf-71f3-4db9-a9ee" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="e69c-24ba-4ef9-8679" id="133f-1e93-4990-ab3d" name="Corrupted Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="57a1-ae47-ff1b-36e4" id="2f70-c900-4853-890f" name="Cybertheurgist" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="8fcc-248e-4c07-8785" name="Unique" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="8fcc-248e-4c07-8785" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Ruptor Heraldis
@@ -1539,7 +1539,7 @@ Could not find rule: Fabricatus-Primus</comment>
     <selectionEntry name="Sarumiat Battle-Automata Maniple" type="unit" id="98ec-1704-49af-a944" page="20" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6d4f-bd9c-4e5d-a71e"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="8405-91a2-4da8-90a5" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="8405-91a2-4da8-90a5" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -1608,8 +1608,8 @@ Could not find rule: Fabricatus-Primus</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="e535-cd33-4285-a724" name="Cybernetica" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="089c-fa6a-4c06-9cae" name="Skirmish" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="e535-cd33-4285-a724" name="Cybernetica Sub-type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="089c-fa6a-4c06-9cae" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="165"/>
@@ -1658,7 +1658,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Cydonian Dragoons" type="unit" id="4328-d2e2-4958-9832" page="21" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="318c-0b11-464e-9c03"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="1649-ed3d-441d-8c4a" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="1649-ed3d-441d-8c4a" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -1744,8 +1744,8 @@ Could not find type or subtype &apos;Automata&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="ab6b-e775-4568-8011" name="Skitarii" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="b727-24aa-4a9a-9141" name="Skirmish" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="ab6b-e775-4568-8011" name="Skitarii Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="b727-24aa-4a9a-9141" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
@@ -1818,7 +1818,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Skitarii Liquidator Cohort" type="unit" id="bbcc-1014-4233-b4ca" page="22" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="17a1-0fd1-4078-bf37"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="cdb6-56df-4b62-9e41" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="cdb6-56df-4b62-9e41" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -1870,8 +1870,8 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="846a-4ff6-484f-a0af" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="f19f-7784-487b-9902" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="846a-4ff6-484f-a0af" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="f19f-7784-487b-9902" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
@@ -1950,8 +1950,8 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d12f-6924-4553-93b1" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="9731-c877-4473-b563" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d12f-6924-4553-93b1" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="9731-c877-4473-b563" name="Skitarii Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="890c-0477-4df6-8af5" name="Character" primary="false"/>
           </categoryLinks>
         </selectionEntry>
@@ -2014,7 +2014,7 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
     <selectionEntry name="Sicarian Kill-Clade" type="unit" id="018f-666c-4720-a52c" page="23" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="eeca-7ecd-4055-b4fd"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="69eb-c13a-416d-9fce" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="69eb-c13a-416d-9fce" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="55"/>
@@ -2138,8 +2138,8 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1ab6-c5be-401d-badc" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="b696-1e71-498c-9c5b" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1ab6-c5be-401d-badc" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="b696-1e71-498c-9c5b" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
@@ -2306,8 +2306,8 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b11e-9ef1-4118-9851" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="d94a-0f83-4be4-ae96" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b11e-9ef1-4118-9851" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="d94a-0f83-4be4-ae96" name="Skitarii Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="59ba-790f-4c21-aa75" name="Character" primary="false"/>
           </categoryLinks>
         </selectionEntry>
@@ -2417,7 +2417,7 @@ Stubcarbine is in two option lists for Sicarian Alpha, you will need to combine 
     <selectionEntry name="Kataphron Breacher Servitor Maniple" type="unit" id="63c2-289d-4951-bbab" page="24" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="9f45-22cb-4c46-9723"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="cb1b-1072-4efa-a171" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="cb1b-1072-4efa-a171" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2499,9 +2499,9 @@ Could not find wargear Hydraulic Claw
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="c283-ea57-4b9e-8ddf" name="Infantry" primary="false"/>
-            <categoryLink targetId="ecbd-02c1-4396-8660" id="6502-05c4-4bff-ab80" name="Servitor" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="d4f3-ca33-4f71-9928" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="c283-ea57-4b9e-8ddf" name="Infantry:" primary="false"/>
+            <categoryLink targetId="ecbd-02c1-4396-8660" id="6502-05c4-4bff-ab80" name="Servitor Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="d4f3-ca33-4f71-9928" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="45"/>
@@ -2526,7 +2526,7 @@ Could not find wargear in Any Kataphron Breacher may exchange their Arc Claw for
     <selectionEntry name="Kataphron Destructor Servitor Maniple" type="unit" id="4860-763a-4d5f-a100" page="25" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6d8f-dba6-4a75-9cb9"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="eefe-eb85-4ed7-bac2" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="eefe-eb85-4ed7-bac2" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2624,8 +2624,8 @@ Could not find wargear Eradication Beamer
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8dbd-df79-4241-9a63" name="Infantry" primary="false"/>
-            <categoryLink targetId="ecbd-02c1-4396-8660" id="dc03-3456-4ad3-b35b" name="Servitor" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8dbd-df79-4241-9a63" name="Infantry:" primary="false"/>
+            <categoryLink targetId="ecbd-02c1-4396-8660" id="dc03-3456-4ad3-b35b" name="Servitor Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
@@ -2650,7 +2650,7 @@ Could not find wargear in Any Kataphron Destructor may exchange their Graviton I
     <selectionEntry name="Cydonian Sisterhood Clade" type="unit" id="ebde-170b-4d3a-8ec6" page="26" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6e86-648f-4bd8-9a27"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="0de2-7c2b-4479-aa29" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="0de2-7c2b-4479-aa29" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="225"/>
@@ -2769,8 +2769,8 @@ Could not find wargear in Any Kataphron Destructor may exchange their Graviton I
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7284-df49-47db-8b1a" name="Infantry" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="7ab5-bbb8-4a61-aebb" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7284-df49-47db-8b1a" name="Infantry:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="7ab5-bbb8-4a61-aebb" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Machinator Array with in-built Prehensile Data-spike
@@ -2818,7 +2818,7 @@ Could not find wargear in The unit may purchase:</comment>
     <selectionEntry name="Triaros Guardian" type="unit" id="5c45-e837-4481-a21f" page="27" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a740-0dc7-4503-8067"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="2440-8adb-4f3d-a805" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="2440-8adb-4f3d-a805" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="150"/>
@@ -2892,7 +2892,7 @@ Could not find wargear Up to four additional Void Shields
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="74be-bd63-4c67-a5b8" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="74be-bd63-4c67-a5b8" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in The Triaros Guardian may select:</comment>
@@ -2914,7 +2914,7 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
     <selectionEntry name="Skitarii Vanguard Cohort" type="unit" id="ac2d-8025-4c68-9ecb" page="32" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="9330-ad8e-494f-926e"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="a523-bbb5-4ef9-a6e5" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="a523-bbb5-4ef9-a6e5" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="38"/>
@@ -2966,9 +2966,9 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1aa2-8789-43a4-a690" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="d5ca-bd9b-4d03-b800" name="Skitarii" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="670b-b851-4ca3-a365" name="Line" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1aa2-8789-43a4-a690" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="d5ca-bd9b-4d03-b800" name="Skitarii Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="670b-b851-4ca3-a365" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="8"/>
@@ -3093,10 +3093,10 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0267-4e52-413c-af24" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="4ecf-3b03-445b-a619" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0267-4e52-413c-af24" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="4ecf-3b03-445b-a619" name="Skitarii Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="011a-cf68-475b-bc9f" name="Character" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="7bb9-7756-40c6-affa" name="Line" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="7bb9-7756-40c6-affa" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -3151,7 +3151,7 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
     <selectionEntry name="Skitarii Ranger Cohort" type="unit" id="5d5e-9998-45ab-a2b1" page="33" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="529b-461d-459e-8cb9"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="3d17-8c8d-4035-8ec7" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="3d17-8c8d-4035-8ec7" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="37"/>
@@ -3203,9 +3203,9 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="2c5a-389e-43b9-8f99" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="f1ad-de7a-45b9-a658" name="Skitarii" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="8207-84f9-422e-b4a6" name="Line" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="2c5a-389e-43b9-8f99" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="f1ad-de7a-45b9-a658" name="Skitarii Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="8207-84f9-422e-b4a6" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="7"/>
@@ -3330,10 +3330,10 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cb1a-b56f-40f3-b152" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="a057-8da5-4da6-8950" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cb1a-b56f-40f3-b152" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="a057-8da5-4da6-8950" name="Skitarii Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5a42-b99c-40c2-8ab3" name="Character" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="09c6-95f0-47bb-9dff" name="Line" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="09c6-95f0-47bb-9dff" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -3389,7 +3389,7 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
     <selectionEntry name="Skitarii Decimator Cohort" type="unit" id="47e1-1640-4c1b-9868" page="34" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="511e-4a67-4a36-8171"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="f07d-85cf-4a34-85b9" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="f07d-85cf-4a34-85b9" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="23"/>
@@ -3587,7 +3587,7 @@ The option &apos;Arcana Potentis&apos; may need a &apos;multiply by number of mo
     <selectionEntry name="Electro-Priest Conclave" type="unit" id="2048-5044-4f8a-92aa" page="35" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5e21-8fd8-4133-8c2a"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="4abf-7588-4a35-b970" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="4abf-7588-4a35-b970" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -3630,7 +3630,7 @@ The option &apos;Arcana Potentis&apos; may need a &apos;multiply by number of mo
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0fbe-ab04-483d-8094" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0fbe-ab04-483d-8094" name="Infantry:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="14"/>
@@ -3669,7 +3669,7 @@ Could not find wargear in The entire squad must select one of the following opti
     <selectionEntry name="Kastelan Battle-Automata Maniple" type="unit" id="5e9e-ee9e-4109-b184" page="36" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a9d6-9227-4461-869d"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="c48f-c47a-471c-a686" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="c48f-c47a-471c-a686" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -3775,7 +3775,7 @@ Could not find wargear in The entire squad must select one of the following opti
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="5d17-1672-4048-86c1" name="Cybernetica" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="5d17-1672-4048-86c1" name="Cybernetica Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="95"/>
@@ -3876,9 +3876,9 @@ Could not find type or subtype &apos;Automata&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="9fc3-37b9-478a-a417" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="e5cf-09db-4419-9bc1" name="Transport" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="7a68-aa8f-4a1b-8ea8" name="Skitarii" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="9fc3-37b9-478a-a417" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="e5cf-09db-4419-9bc1" name="Transport Sub-type:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="7a68-aa8f-4a1b-8ea8" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Searchlight
@@ -3987,8 +3987,8 @@ Could not find wargear Turret Mounted Eradication Beam Cannon
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="2868-b364-4afd-bf9b" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="aabc-3e9c-4007-98cb" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="2868-b364-4afd-bf9b" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="aabc-3e9c-4007-98cb" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Searchlight
@@ -4010,7 +4010,7 @@ Could not find wargear in The Porphetian Armoured Carrier may exchange its Turre
     <selectionEntry name="Cyber-Carnivora Pack" type="unit" id="0d7f-d87f-4035-909d" page="42" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="ab91-bc56-4b34-b560"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="5041-a07f-4239-893b" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="5041-a07f-4239-893b" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="4"/>
@@ -4047,8 +4047,8 @@ Could not find wargear in The Porphetian Armoured Carrier may exchange its Turre
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="716c-51d2-47c5-bb2f" name="Infantry" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="c259-aaed-49c8-8f86" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="716c-51d2-47c5-bb2f" name="Infantry:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="c259-aaed-49c8-8f86" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="12"/>
@@ -4072,7 +4072,7 @@ Could not find wargear in The Porphetian Armoured Carrier may exchange its Turre
     <selectionEntry name="Pteraxii Skyhunter Cohort" type="unit" id="0e07-d492-497f-8794" page="43" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="147b-3bb8-40a9-9060"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="1827-5645-45ec-b195" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="1827-5645-45ec-b195" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
@@ -4161,8 +4161,8 @@ Could not find wargear Transonic Blade and Flechette Blaster
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4139-b726-4db8-ade3" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="b455-5aa8-431b-b07c" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4139-b726-4db8-ade3" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="b455-5aa8-431b-b07c" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
@@ -4294,8 +4294,8 @@ Could not find wargear Transonic Blade and Flechette Blaster
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1952-a319-482d-8e7b" name="Infantry" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="08c6-e3b2-4947-9126" name="Skitarii" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1952-a319-482d-8e7b" name="Infantry:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="08c6-e3b2-4947-9126" name="Skitarii Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="2592-7bc0-4162-8433" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -4362,7 +4362,7 @@ Could not find wargear in Any model in the unit may exchange their Flechette Car
     <selectionEntry name="Serberys Tormentor Conclave" type="unit" id="8b68-e97f-46a6-8e74" page="44" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b236-8c53-445f-ab26"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="c797-0757-4252-826f" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="c797-0757-4252-826f" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -4584,7 +4584,7 @@ Could not find wargear Power Sword and Phosphor Serpenta
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="2e74-3910-4d13-959a" name="Skitarii" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="2e74-3910-4d13-959a" name="Skitarii Unit Sub-Type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="4f22-1d1c-4958-b8d7" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -4676,7 +4676,7 @@ Could not find wargear in The Conclave must select one of the following upgrades
     <selectionEntry name="Herax Battle-Automata Maniple" type="unit" id="20c7-aa8c-4353-9c50" page="45" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="2f40-b3af-45c8-8ef0"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="f8cb-d31c-4ff9-b4ea" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="f8cb-d31c-4ff9-b4ea" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
@@ -4767,7 +4767,7 @@ Could not find wargear Missile Launcher (with Frag, Krak, and Ignis Missiles)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="a83c-8f21-4f6d-bcf5" name="Cybernetica" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="a83c-8f21-4f6d-bcf5" name="Cybernetica Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
@@ -4811,7 +4811,7 @@ Could not find rule: Surveillance Protocols</comment>
     <selectionEntry name="Mechanicum Lightning Strike Fighter" type="unit" id="3352-b09c-4de6-b9f6" page="46" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8a89-19f7-4c0e-8cf6"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="148f-65e3-4d2f-ae97" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="148f-65e3-4d2f-ae97" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="150"/>
@@ -4958,8 +4958,8 @@ Could not find wargear Two Hull (Front) Mounted Kraken Penetrator Missiles
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="12d8-40f3-4125-affc" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="456c-c656-47b8-bcec" name="Flyer" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="12d8-40f3-4125-affc" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="456c-c656-47b8-bcec" name="Flyer Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Mechanicum Lightning Strike Fighter may select up to three of the following options:
@@ -4973,7 +4973,7 @@ Could not find wargear in A Mechanicum Lightning Strike Fighter may select up to
     <selectionEntry name="Mechanicum Avenger Strike Fighter" type="unit" id="a679-61e5-4837-a32d" page="47" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="9799-d2da-4a23-855c"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="a12a-a809-44f3-8ad2" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="a12a-a809-44f3-8ad2" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="180"/>
@@ -5096,8 +5096,8 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Multi-Lasers
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="4f31-5342-4dc5-9dff" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="848b-7c74-4efd-ad40" name="Flyer" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="4f31-5342-4dc5-9dff" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="848b-7c74-4efd-ad40" name="Flyer Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Mechanicum Avenger Strike Fighter may select up to two of the following options:</comment>
@@ -5110,7 +5110,7 @@ Could not find wargear in A Mechanicum Avenger Strike Fighter may select up to t
     <selectionEntry name="Archaeopter Transvector Squadron" type="unit" id="89cb-bac1-4fed-839e" page="48" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="57ae-0cd8-47ab-817c"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="5c4b-9bc8-4bd7-94e2" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="5c4b-9bc8-4bd7-94e2" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -5173,11 +5173,11 @@ Could not find wargear in A Mechanicum Avenger Strike Fighter may select up to t
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="07a1-478f-4137-93b5" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="58de-c9d2-4ab1-8c1e" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="01e6-e882-464e-859a" name="Hover" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c6f9-926a-4cd4-a19f" name="Transport" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="ba21-6121-4e89-a332" name="Skitarii" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="07a1-478f-4137-93b5" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="58de-c9d2-4ab1-8c1e" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="01e6-e882-464e-859a" name="Hover Sub-type" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c6f9-926a-4cd4-a19f" name="Transport Sub-type:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="ba21-6121-4e89-a332" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="115"/>
@@ -5197,7 +5197,7 @@ Could not find wargear Searchlight
     <selectionEntry name="Archaeopter Imperator Squadron" type="unit" id="3c6b-3763-4bf8-8b9d" page="49" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="44fa-67f5-418a-9392"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="1563-4581-4e37-bb0b" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="1563-4581-4e37-bb0b" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -5302,10 +5302,10 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Phosphor Cannon
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="71de-4ddf-427e-9e53" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="a9e9-f9ed-442d-a4c5" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="193d-86f6-4d76-9a9d" name="Hover" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="80dd-c22c-4055-987a" name="Skitarii" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="71de-4ddf-427e-9e53" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="a9e9-f9ed-442d-a4c5" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="193d-86f6-4d76-9a9d" name="Hover Sub-type" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="80dd-c22c-4055-987a" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="120"/>
@@ -5344,7 +5344,7 @@ Could not find wargear in Any Archaeopter Imperator may exchange their Hull (Fro
     <selectionEntry name="Mechanicum Arvus Lighter" type="unit" id="ea18-0635-4e8c-9819" page="50" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="309e-2e68-4143-81f2"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="9c45-90ce-4687-b48b" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="9c45-90ce-4687-b48b" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="75"/>
@@ -5464,10 +5464,10 @@ Could not find wargear Twin-Linked
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="7512-0a47-4574-a6f4" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="2c07-8a7d-454e-9a30" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="d8da-a19b-4b4e-9109" name="Hover" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="6406-0bbe-4424-9072" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="7512-0a47-4574-a6f4" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="2c07-8a7d-454e-9a30" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="d8da-a19b-4b4e-9109" name="Hover Sub-type" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="6406-0bbe-4424-9072" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in An Arvus Lighter which selects a Hull (Front) Mounted weapon may purchase the following Special Rule for it:</comment>
@@ -5481,7 +5481,7 @@ Could not find wargear in An Arvus Lighter which selects a Hull (Front) Mounted 
     <selectionEntry name="Thanatar-Cynis Siege-Automata Maniple" type="unit" id="836a-80d6-4875-852e" page="54" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="83c1-f43d-4f57-a63f"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2816-eab1-4ce5-87eb" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2816-eab1-4ce5-87eb" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -5525,7 +5525,7 @@ Could not find wargear in An Arvus Lighter which selects a Hull (Front) Mounted 
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3114-f54f-4fb4-9034"/>
               </constraints>
             </entryLink>
-            <entryLink name="Twin-Linked Mauler Bolt Cannon" hidden="false" type="selectionEntry" targetId="ac88-bcf4-d7b4-5c56" id="4183-b5ab-493d-bfe1">
+            <entryLink name="Twin-linked Mauler Bolt Cannon" hidden="false" type="selectionEntry" targetId="ac88-bcf4-d7b4-5c56" id="4183-b5ab-493d-bfe1">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b5e2-9c3c-4f18-981d"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0373-0d26-45ba-b1a7"/>
@@ -5556,8 +5556,8 @@ Could not find wargear in An Arvus Lighter which selects a Hull (Front) Mounted 
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="0872-bc8f-4752-a7a8" name="Cybernetica" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="f2a7-164e-46a8-a621" name="Heavy" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="0872-bc8f-4752-a7a8" name="Cybernetica Sub-type:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="f2a7-164e-46a8-a621" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="235"/>
@@ -5596,7 +5596,7 @@ Could not find rule: Thanatar Maniple</comment>
     <selectionEntry name="Kharax Siege-Automata Maniple" type="unit" id="0b39-bf03-4745-b30d" page="55" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="d94f-d163-45d5-8414"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="1407-9859-45f3-8f33" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="1407-9859-45f3-8f33" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -5706,8 +5706,8 @@ Could not find wargear Eradication Beam Cannon
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="828d-ce96-4667-8e6e" name="Cybernetica" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="8332-8fc6-4833-873f" name="Heavy" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="828d-ce96-4667-8e6e" name="Cybernetica Sub-type:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="8332-8fc6-4833-873f" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="160"/>
@@ -5748,7 +5748,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Sepketar Siege-Automata Maniple" type="unit" id="f48f-c003-413e-872f" page="56" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="9f2b-2619-4ba5-b36f"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="34c8-c3a9-46d7-a874" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="34c8-c3a9-46d7-a874" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -5830,8 +5830,8 @@ Could not find wargear Siege Wrecker (with in-built Heavy Flamer)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="4e51-2849-4f1a-82c5" name="Cybernetica" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="fdf7-dc4c-476f-8700" name="Heavy" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="4e51-2849-4f1a-82c5" name="Cybernetica Sub-type:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="fdf7-dc4c-476f-8700" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="215"/>
@@ -5873,7 +5873,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Ironstrider Ballistarii" type="unit" id="cca2-87b6-4284-9887" page="57" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="11df-2c23-4cda-ba35"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="23e0-f66d-4f29-8519" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="23e0-f66d-4f29-8519" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -5968,8 +5968,8 @@ Could not find type or subtype &apos;Automata&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="ff40-487b-4238-bdad" name="Skitarii" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="1951-584e-41da-a7e1" name="Skirmish" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="ff40-487b-4238-bdad" name="Skitarii Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="1951-584e-41da-a7e1" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
@@ -6039,7 +6039,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Onager Dunecrawler Squadron" type="unit" id="2eea-26db-47fe-9273" page="58" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="618e-ef08-4dbb-a423"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="57b2-cf30-463c-bd27" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="57b2-cf30-463c-bd27" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6128,10 +6128,10 @@ Could not find wargear Hull (Front) Mounted Neutron Spear (with co-axial Heavy S
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="8c41-b1bf-495a-8fa9" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="4550-f5bb-4fca-ba6e" name="Reinforced" primary="false"/>
-            <categoryLink targetId="2a40-d605-4dab-b830" id="f6f4-7a4e-4f48-9328" name="Crawler" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="3521-66af-4020-854c" name="Skitarii" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="8c41-b1bf-495a-8fa9" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="4550-f5bb-4fca-ba6e" name="Reinforced Sub-type:" primary="false"/>
+            <categoryLink targetId="2a40-d605-4dab-b830" id="f6f4-7a4e-4f48-9328" name="Crawler Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="3521-66af-4020-854c" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="160"/>
@@ -6148,7 +6148,7 @@ Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front)
     <selectionEntry name="Skorpius Disintegrator Squadron" type="unit" id="bf41-5ec2-4e06-9dd8" page="59" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8f70-50dd-4686-a3de"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="8daa-d7d6-491e-b151" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="8daa-d7d6-491e-b151" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6221,9 +6221,9 @@ Could not find wargear Turret Mounted Darkfire Annihilator (with co-axial Heavy 
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="a2d5-f9ce-465e-87b6" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5450-c0bc-4cfa-85c9" name="Reinforced" primary="false"/>
-            <categoryLink targetId="2107-c372-43e8-90bc" id="7c20-8d6f-4dc8-be58" name="Skitarii" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="a2d5-f9ce-465e-87b6" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5450-c0bc-4cfa-85c9" name="Reinforced Sub-type:" primary="false"/>
+            <categoryLink targetId="2107-c372-43e8-90bc" id="7c20-8d6f-4dc8-be58" name="Skitarii Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="180"/>
@@ -6244,7 +6244,7 @@ Could not find wargear in Any Skorpius Disintegrator may exchange their Turret M
     <selectionEntry name="Ordinatus-Exemplar War Construct" type="unit" id="3142-53ad-4a7d-8790" page="60" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="0871-5da7-4918-a955"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="0ebd-b909-41a5-9f68" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="0ebd-b909-41a5-9f68" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="275"/>
@@ -6413,9 +6413,9 @@ Could not find wargear Reinforced Superstructure
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="14f2-cbbe-4c6f-9360" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="d152-6ba9-4eb2-bc37" name="Reinforced" primary="false"/>
-            <categoryLink targetId="d5df-57ac-8f3c-097b" id="6f7e-dbf0-4d08-b9ff" name="Bombard" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="14f2-cbbe-4c6f-9360" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="d152-6ba9-4eb2-bc37" name="Reinforced Sub-type:" primary="false"/>
+            <categoryLink targetId="d5df-57ac-8f3c-097b" id="6f7e-dbf0-4d08-b9ff" name="Bombard Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Four Module Slots
@@ -6432,7 +6432,7 @@ Could not find wargear in The Ordinatus-Exemplar may select any of the following
     <selectionEntry name="The Kaban Machine" type="unit" id="3957-dc7c-4d9f-9019" page="64" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="0bf3-8a71-47d6-8c9e"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="b6a9-8536-4400-b5f6" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="b6a9-8536-4400-b5f6" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="400"/>
@@ -6490,9 +6490,9 @@ Could not find wargear in The Ordinatus-Exemplar may select any of the following
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="309e-f441-48d3-ac63" name="Cybernetica" primary="false"/>
-            <categoryLink targetId="7d95-f9d1-440a-67bd" id="c651-eb87-4c85-86f3" name="Monstrous" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="b30c-e799-4c41-b996" name="Unique" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="309e-f441-48d3-ac63" name="Cybernetica Sub-type:" primary="false"/>
+            <categoryLink targetId="7d95-f9d1-440a-67bd" id="c651-eb87-4c85-86f3" name="Monstrous Sub-type:" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="b30c-e799-4c41-b996" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Twin-Linked Accelerator Autocannon
@@ -6530,7 +6530,7 @@ Could not find rule: Void Shields (2)</comment>
     <selectionEntry name="Hierarch Siege-Automata" type="unit" id="451c-344d-4195-8398" page="65" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="06d4-bcb0-4725-83e1"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="2b6b-5918-4382-a887" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="2b6b-5918-4382-a887" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="500"/>
@@ -6579,8 +6579,8 @@ Could not find rule: Void Shields (2)</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="8a53-1f5a-4460-87bc" name="Cybernetica" primary="false"/>
-            <categoryLink targetId="f479-3c81-1e42-1b3a" id="3e6a-fce6-4d87-b298" name="Gargantuan" primary="false"/>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="8a53-1f5a-4460-87bc" name="Cybernetica Sub-type:" primary="false"/>
+            <categoryLink targetId="f479-3c81-1e42-1b3a" id="3e6a-fce6-4d87-b298" name="Gargantuan Unit Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Reaper Chainswords (with in-built Flamestorm Cannons)
@@ -6601,7 +6601,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Oppressor Super-Heavy Siege Tank" type="unit" id="fa5b-ff06-4971-8feb" page="66" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4886-e716-438d-aa25"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="b71a-2700-47be-8941" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="b71a-2700-47be-8941" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="400"/>
@@ -6803,7 +6803,7 @@ Could not find wargear Two Sponson Mounted Mauler Bolt Cannon Arrays and Two Spo
             </selectionEntryGroup>
             <selectionEntryGroup name="An Oppressor Siege Tank may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following options:" id="de24-9ec9-4a10-a6ff">
               <entryLinks>
-                <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="742b-79fe-4e93-8a67">
+                <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="742b-79fe-4e93-8a67">
                   <modifiers>
                     <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Bolter"/>
                   </modifiers>
@@ -6823,7 +6823,7 @@ Could not find wargear Hull (Front) Twin-Linked Mauler Bolt Cannon
             </selectionEntryGroup>
             <selectionEntryGroup name="An Oppressor Siege Tank may take up to two of the following:" id="e196-677d-468e-b36f">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="6a9c-38c9-43c0-adbf">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="6a9c-38c9-43c0-adbf">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -6924,7 +6924,7 @@ Could not find wargear Void Shield (1)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="7f0b-f310-49c0-a52b" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="7f0b-f310-49c0-a52b" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in An Oppressor Siege Tank may select up to two of the following options (if two choices are selected, these must be the same):
@@ -6948,7 +6948,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
     <selectionEntry name="Ordinatus-Minoris Macro Engine" type="unit" id="f17f-69a7-413a-bbb5" page="67" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5b6f-21fc-4dcf-a782"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="6b2e-da37-41b7-bc7a" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="6b2e-da37-41b7-bc7a" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="750"/>
@@ -7029,7 +7029,7 @@ Could not find wargear Hull (Front) Mounted Macro Gatling Blaster
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="0512-96ea-41db-8fa3" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="0512-96ea-41db-8fa3" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Ordinatus Dispersion Shield
@@ -7054,9 +7054,9 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink type="catalogue" name="Mech Library" id="85e0-de8a-e5c-2b32" targetId="7265-8b7a-50ae-51ec"/>
-    <catalogueLink type="catalogue" name="Mechanicum" id="a2ec-18a7-81b1-4197" targetId="eb19-d768-b767-c84b"/>
-    <catalogueLink type="catalogue" name="Panoptica Library" id="76db-115b-8237-5f9b" targetId="69b7-3f60-9f7f-8ce5"/>
+    <catalogueLink type="catalogue" name="Mech Library" id="85e0-de8a-e5c-2b32" targetId="a1bf-762d-8fad-4285"/>
+    <catalogueLink type="catalogue" name="Mechanicum" id="a2ec-18a7-81b1-4197" targetId="ba44-2928-ec24-d2ee"/>
+    <catalogueLink type="catalogue" name="Panoptica Library" id="76db-115b-8237-5f9b" targetId="660c-f1da-b1ee-1e2c"/>
   </catalogueLinks>
   <entryLinks>
     <entryLink import="true" name="Skitarii Centurius" hidden="false" id="2868-a966-b61b-2f13" targetId="3283-a0b5-40b2-b42b" type="selectionEntry"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="8b8a-6a95-2974-215a" name="LA -   V: White Scars" revision="2041" battleScribeVersion="2.03" authorName="Mr_Dark, UrsinePatriarch" authorContact="BSData Developers Discord" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="dd87-3128-9b63-075e" name="LA -   V: White Scars" revision="2041" battleScribeVersion="2.03" authorName="Mr_Dark, UrsinePatriarch" authorContact="BSData Developers Discord" library="false" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" type="catalogue">
   <entryLinks>
     <entryLink id="a738-6a11-dfe7-286c" name="V: White Scars" hidden="false" collective="false" import="false" targetId="e01e-5cdd-e512-8353" type="selectionEntry">
       <modifiers>
@@ -3413,7 +3413,7 @@
             </profile>
           </profiles>
           <categoryLinks>
-            <categoryLink id="597d-1cf2-1be6-94af" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="597d-1cf2-1be6-94af" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
             <categoryLink targetId="6d79-a3e4-381f-7b0f" id="3025-56da-43cd-97be" name="Cavalry Unit-type:" primary="false"/>
             <categoryLink targetId="4303-1348-cce4-9501" id="affb-9e7b-4c2f-ab96" name="Antigrav Sub-type" primary="false"/>
           </categoryLinks>
@@ -4006,7 +4006,7 @@
             </profile>
           </profiles>
           <categoryLinks>
-            <categoryLink id="a649-b82b-acf1-3bc8" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="a649-b82b-acf1-3bc8" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
             <categoryLink id="b8fc-c2a0-ad60-21ba" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
             <categoryLink id="1f48-ae0c-22f4-235c" name="Light Sub-type:" hidden="false" targetId="bff2-ae16-74a8-8712" primary="false"/>
             <categoryLink id="3df5-3e2a-1236-5e80" name="Skirmish Sub-type:" hidden="false" targetId="59a4-7b61-600a-c457" primary="false"/>
@@ -4291,7 +4291,7 @@
             </profile>
           </profiles>
           <categoryLinks>
-            <categoryLink id="1aef-0993-2400-9738" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="1aef-0993-2400-9738" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7ec5-6879-4a27-9ce6" name="Infantry:" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
@@ -4653,7 +4653,7 @@
           <categoryLinks>
             <categoryLink targetId="4f07-3d45-4f28-a0c6" id="5a83-c56c-2fb-706c" primary="false" name="Independent Character"/>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cd92-f94b-4aad-aa70" name="Infantry:" primary="false"/>
-            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="7f85-91e2-4383-b5ff" name="Character" primary="false"/>
+            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="7f85-91e2-4383-b5ff" name="Character Sub-type" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="73d6-30bf-4e7b-969b" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <constraints>
@@ -4802,7 +4802,7 @@
           <categoryLinks>
             <categoryLink targetId="4f07-3d45-4f28-a0c6" id="6721-afa5-62e2-e507" primary="false" name="Independent Character"/>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d837-114a-4fae-aa6c" name="Infantry:" primary="false"/>
-            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="73f8-f1a2-4672-b5c9" name="Character" primary="false"/>
+            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="73f8-f1a2-4672-b5c9" name="Character Sub-type" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="5db4-6dd5-4f45-8c86" name="Unique Sub-type" primary="false"/>
           </categoryLinks>
           <constraints>
@@ -5226,7 +5226,7 @@ If Jaghatai Khan selected his Sojutsu Pattern Voidbike, he is counted as having
             </rule>
           </rules>
           <infoLinks>
-            <infoLink id="5eba-dc04-602e-d2b5" name="Antigrav Sub-type" hidden="false" targetId="e1d7-0fe8-59f4-af89" type="rule"/>
+            <infoLink id="5eba-dc04-602e-d2b5" name="Antigrav Sub-type" hidden="false" targetId="4302-115c-0699-6914" type="rule"/>
             <infoLink id="dbce-fb46-6ddd-4f34" name="Firing Protocols (X)" hidden="false" targetId="32a3-f599-5c92-2945" type="rule">
               <modifiers>
                 <modifier type="set" field="name" value="Firing Protocols (3)"/>
@@ -5437,7 +5437,7 @@ If Jaghatai Khan selected his Sojutsu Pattern Voidbike, he is counted as having
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="de1f-a53c-4da4-6a86" primary="false" name="Infantry:"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="a86c-d643-b781-266f" primary="false" name="Unique Sub-type"/>
             <categoryLink targetId="4f07-3d45-4f28-a0c6" id="1a48-2fbf-99b9-5997" primary="false" name="Independent Character"/>
-            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="54e9-551d-74c5-342a" primary="false" name="Character"/>
+            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="54e9-551d-74c5-342a" primary="false" name="Character Sub-type"/>
           </categoryLinks>
           <profiles>
             <profile name="Hibou Khan" typeId="4bb2-cb95-e6c8-5a21" typeName="Unit" hidden="false" id="cac0-6af6-4f14-6a46" publicationId="d882-d2a-5da1-92c4" page="194">
@@ -6042,7 +6042,7 @@ A Wind Rider Squadron selected as a Retinue Squad must be deployed with the mode
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
   <catalogueLinks>
-    <catalogueLink id="2f60-18fb-e6ed-8574" name="Legions Astartes" targetId="25e4-c9e5-8165-1337" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="b5fe-774b-8da-c21e" name="LI - Sisters of Silence" targetId="ee0f-23d3-8682-53c4" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="2f60-18fb-e6ed-8574" name="Legions Astartes" targetId="b132-bb06-6375-1371" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="b5fe-774b-8da-c21e" name="LI - Sisters of Silence" targetId="bd88-0e04-ac31-7242" type="catalogue" importRootEntries="false"/>
   </catalogueLinks>
 </catalogue>

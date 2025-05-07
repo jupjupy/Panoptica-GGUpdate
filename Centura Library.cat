@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="d76-4e81-2fef-caa1" name="[Centura] Legiones Astartes" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="31ff-fffe-b52d-ab1b" name="[Centura] Legiones Astartes" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntries>
     <selectionEntry name="Legion Indomitus Praetor" type="unit" id="0293-aa91-4e32-bd5f" page="6" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8714-684d-4098-aa01"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="7c40-c676-42ad-a0d4" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="7c40-c676-42ad-a0d4" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="105"/>
@@ -177,9 +177,9 @@ Could not find wargear The Master-Crafted Special Rule
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ed3d-6a7f-4205-95e5" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ed3d-6a7f-4205-95e5" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="6467-e753-4190-810c" name="Character" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="577a-2ded-4c5e-b2c9" name="Heavy" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="577a-2ded-4c5e-b2c9" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1709
 Could not find wargear Legion Indomitus Terminator Armour
@@ -206,7 +206,7 @@ Power Weapon is in two option lists for Legion Indomitus Praetor, you will need 
     <selectionEntry name="Legion Indomitus Centurion" type="unit" id="4d40-5fee-4219-8354" page="7" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="db10-a8ac-4d16-88aa"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="1d7d-6b6e-45a6-87f5" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="1d7d-6b6e-45a6-87f5" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="70"/>
@@ -363,9 +363,9 @@ Power Weapon is in two option lists for Legion Indomitus Praetor, you will need 
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="61ff-af7b-4a4b-8194" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="61ff-af7b-4a4b-8194" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="f58b-ef8d-4b74-8337" name="Character" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="f407-1a84-4aa3-9c45" name="Heavy" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="f407-1a84-4aa3-9c45" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1709
 Could not find wargear Legion Indomitus Terminator Armour
@@ -397,7 +397,7 @@ Power Weapon is in two option lists for Legion Indomitus Centurion, you will nee
     <selectionEntry name="Legion Saturnine Centurion" type="unit" id="3e29-1bf1-48c9-b302" page="8" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="cfa1-3f32-4938-9a35"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="d7d3-98d1-4de8-a4e7" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="d7d3-98d1-4de8-a4e7" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="140"/>
@@ -633,9 +633,9 @@ Power Weapon is in two option lists for Legion Indomitus Centurion, you will nee
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="df4f-2f97-4b6d-9894" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="df4f-2f97-4b6d-9894" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5e8d-3aef-41ca-afcd" name="Character" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="ac71-13c2-4c29-be5f" name="Heavy" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="ac71-13c2-4c29-be5f" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Legion Saturnine Terminator Armour
@@ -673,7 +673,7 @@ Power Weapon is in two option lists for Legion Saturnine Centurion, you will nee
     <selectionEntry name="Legion Indomitus Command Squad" type="unit" id="10a1-9ca0-40bd-81fd" page="9" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="89e5-a3d5-4b19-96f0"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="7bec-8005-407f-a8fe" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="7bec-8005-407f-a8fe" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -833,8 +833,8 @@ Power Weapon is in two option lists for Legion Saturnine Centurion, you will nee
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b95e-ffe7-463e-84e6" name="Infantry" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="ab81-5768-4afa-8f0d" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b95e-ffe7-463e-84e6" name="Infantry:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="ab81-5768-4afa-8f0d" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
@@ -1054,8 +1054,8 @@ Could not find wargear Legion Indomitus Terminator Armour
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b25b-fde1-4bf6-bcce" name="Infantry" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="10c1-0bc3-4334-baaf" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b25b-fde1-4bf6-bcce" name="Infantry:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="10c1-0bc3-4334-baaf" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1709
 Could not find wargear Legion Indomitus Terminator Armour
@@ -1084,7 +1084,7 @@ Power Weapon is in two option lists for Legion Indomitus Standard Bearer, you wi
     <selectionEntry name="Legion Contemptor Centurion" type="unit" id="af55-3d23-4179-b438" page="10" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1374-44f5-423c-9133"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="dcca-d3f7-488f-9d39" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="dcca-d3f7-488f-9d39" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="225"/>
@@ -1302,7 +1302,7 @@ Could not find type or subtype &apos;Dreadnought&apos;</comment>
     <selectionEntry name="Legion Castra Ferrum Centurion" type="unit" id="7cbb-4e3a-4030-b935" page="11" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8af9-10ba-4bb9-8706"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="07d6-e181-4e87-8d28" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="07d6-e181-4e87-8d28" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="175"/>
@@ -1507,7 +1507,7 @@ Could not find wargear In-built Meltagun
           </selectionEntryGroups>
           <categoryLinks>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="bebc-4b44-4e44-af5f" name="Character" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="ed2e-7841-4a90-86f5" name="Heavy" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="ed2e-7841-4a90-86f5" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Gravis Power Fist with in-built Combi-Bolter
@@ -1539,7 +1539,7 @@ Could not find type or subtype &apos;Dreadnought&apos;</comment>
     <selectionEntry name="Legion Land Raider Dionysus" type="unit" id="4f0d-7dbb-4d94-a26e" page="12" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6a61-7fec-4a9f-ad21"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="9ebc-021c-49b0-9c20" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="9ebc-021c-49b0-9c20" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="300"/>
@@ -1658,7 +1658,7 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Land Raider Dionysus may take one of the following:" id="0929-dc90-4861-9f4c">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="0fcc-bc1b-4a72-bf08">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="0fcc-bc1b-4a72-bf08">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -1757,9 +1757,9 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="2581-fcdf-44b2-a547" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a0f8-8176-4f12-9086" name="Transport" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="a653-c454-48c6-8271" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="2581-fcdf-44b2-a547" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a0f8-8176-4f12-9086" name="Transport Sub-type:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="a653-c454-48c6-8271" name="Reinforced Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="59e8-806f-427e-a53e" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -1780,7 +1780,7 @@ Could not find rule: Master of the Legion^</comment>
     <selectionEntry name="Legion Land Raider Tartaros" type="unit" id="9919-c7b2-474e-bb78" page="13" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c1f8-95ce-4195-ae0e"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="ee1e-3be3-4686-83e9" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="ee1e-3be3-4686-83e9" name="HQ:"/>
       </categoryLinks>
       <selectionEntries>
         <selectionEntry type="model" name="Legion Land Raider Tartaros" id="5fbb-9647-45ee-bb59" page="13" publicationId="3970-79bb-bdc6-9599">
@@ -1890,7 +1890,7 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Land Raider Tartaros may take one of the following:" id="b8d9-4d4f-4b59-93bd">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="62a0-17a6-44fe-91ef">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="62a0-17a6-44fe-91ef">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -1997,9 +1997,9 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="3705-3d60-444f-a75f" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="4efd-653c-4f39-bce7" name="Transport" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="e27e-e92b-4ffa-a654" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="3705-3d60-444f-a75f" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="4efd-653c-4f39-bce7" name="Transport Sub-type:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="e27e-e92b-4ffa-a654" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Smoke Launchers *Upgrade Cost:
@@ -2020,7 +2020,7 @@ Could not find rule: Vox Override</comment>
     <selectionEntry name="Legion Terminator Saturnine Squad" type="unit" id="77f4-7d9e-429c-9101" page="18" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="7a4f-9aac-47fe-bd37"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="8f6b-652f-4a93-8a57" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="8f6b-652f-4a93-8a57" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
@@ -2256,8 +2256,8 @@ Could not find rule: Vox Override</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="bd45-16bc-4aef-b426" name="Infantry" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="3d98-6fe2-4f24-9ee2" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="bd45-16bc-4aef-b426" name="Infantry:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="3d98-6fe2-4f24-9ee2" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
@@ -2452,9 +2452,9 @@ Could not find wargear Legion Saturnine Terminator Armour
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b899-abb3-4194-b224" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b899-abb3-4194-b224" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="0b4b-3526-492e-b884" name="Character" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="f7ab-8100-4c5f-8adb" name="Heavy" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="f7ab-8100-4c5f-8adb" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Legion Saturnine Terminator Armour
@@ -2523,7 +2523,7 @@ Power Weapon is in two option lists for Legion Saturnine Sergeant, you will need
     <selectionEntry name="Legion Assault Veteran Squad" type="unit" id="bbbd-1956-4682-9ea4" page="19" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c5b5-1aa2-4bc1-b1d0"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="6a49-7310-45b7-af31" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="6a49-7310-45b7-af31" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="47"/>
@@ -2786,7 +2786,7 @@ Could not find wargear Melta Bombs
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0b08-1343-4ec3-a5b6" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0b08-1343-4ec3-a5b6" name="Infantry:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="22"/>
@@ -2990,7 +2990,7 @@ Could not find wargear Melta Bombs
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8265-4ada-4a61-958a" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8265-4ada-4a61-958a" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="cd32-048b-4b75-8a62" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -3032,7 +3032,7 @@ Chainsword is in two option lists for Legion Assault Veteran, you will need to c
     <selectionEntry name="Legion Contemptor-Cortus Dreadnought Talon" type="unit" id="970a-bd04-4d61-ae08" page="20" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b320-9501-4ade-913b"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a662-f9a5-446d-b806" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a662-f9a5-446d-b806" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -3141,7 +3141,7 @@ Could not find rule: Unstable Internment</comment>
     <selectionEntry name="Possessed Legionnaires" type="unit" id="f928-6ae6-4699-ba2b" page="21" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6624-9720-4ef6-a058"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="7433-111b-4244-8ae5" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="7433-111b-4244-8ae5" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
@@ -3170,25 +3170,25 @@ Could not find rule: Unstable Internment</comment>
             <constraint type="max" value="20" field="selections" scope="parent" shared="true" id="f327-e44e-4f01-9f23"/>
           </constraints>
           <entryLinks>
-            <entryLink name="Frag grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="a4fc-f90f-4c73-8fe0">
+            <entryLink name="Frag Grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="a4fc-f90f-4c73-8fe0">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="084d-498f-4617-a9c4"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1caa-8d46-4636-a34a"/>
               </constraints>
             </entryLink>
-            <entryLink name="Krak grenades" hidden="false" type="selectionEntry" targetId="3739-1019-344e-761d" id="cec9-be98-4519-aa29">
+            <entryLink name="Krak Grenades" hidden="false" type="selectionEntry" targetId="3739-1019-344e-761d" id="cec9-be98-4519-aa29">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9c69-bdc1-439f-910b"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7d52-76fe-4a55-87a5"/>
               </constraints>
             </entryLink>
-            <entryLink name="Power armour" hidden="false" type="selectionEntry" targetId="486f-a33c-7da5-c580" id="18df-7343-48e8-bd8e">
+            <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="486f-a33c-7da5-c580" id="18df-7343-48e8-bd8e">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="918a-d96a-49c5-b140"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5b0d-ce54-4266-9014"/>
               </constraints>
             </entryLink>
-            <entryLink name="Power armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="59a8-f59d-4655-b881">
+            <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="59a8-f59d-4655-b881">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1b65-8eb6-4ec2-b2c8"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="18b9-b3f1-4f1d-9e8b"/>
@@ -3265,9 +3265,9 @@ Could not find rule: Unstable Internment</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4705-82ea-49a3-805f" name="Infantry" primary="false"/>
-            <categoryLink targetId="9055-7410-8ffd-b8e7" id="4c7c-4cb3-4132-b5d8" name="Corrupted" primary="false"/>
-            <categoryLink targetId="e69c-24ba-4ef9-8679" id="11c2-1112-4035-9415" name="Corrupted" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4705-82ea-49a3-805f" name="Infantry:" primary="false"/>
+            <categoryLink targetId="9055-7410-8ffd-b8e7" id="4c7c-4cb3-4132-b5d8" name="Corrupted Sub-type:" primary="false"/>
+            <categoryLink targetId="e69c-24ba-4ef9-8679" id="11c2-1112-4035-9415" name="Corrupted Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
@@ -3296,7 +3296,7 @@ Could not find wargear Two Twisted Talons
     <selectionEntry name="Legion Servo-Automata Maniple" type="unit" id="6c47-ea09-4079-82bb" page="22" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6962-c082-4ba0-8cef"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a0e2-aafe-45a8-a806" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a0e2-aafe-45a8-a806" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -3407,8 +3407,8 @@ Could not find wargear Missile Launcher (with Frag, Krak, and Flakk Missiles)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8745-b21e-8576-7c30" id="6e5d-cdbe-46b2-bf8a" name="Guardian" primary="false"/>
-            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="7fc7-1157-45df-800f" name="Guardian" primary="false"/>
+            <categoryLink targetId="8745-b21e-8576-7c30" id="6e5d-cdbe-46b2-bf8a" name="Guardian Unit Sub-type" primary="false"/>
+            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="7fc7-1157-45df-800f" name="Guardian Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -3427,7 +3427,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
     <selectionEntry name="Legion Hussar Squadron" type="unit" id="4437-5f83-4383-9545" page="26" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5724-053f-46ea-93ef"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="a710-13dc-48e2-8fa0" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="a710-13dc-48e2-8fa0" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="47"/>
@@ -3763,7 +3763,7 @@ Could not find wargear Legion Spatha Combat Bike
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="485a-2a4d-4873-bf7a" name="Skirmish" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="485a-2a4d-4873-bf7a" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="2fee-4f20-486e-8637" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -3832,7 +3832,7 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
     <selectionEntry name="Legion Sky-Seeker Squadron" type="unit" id="c0a1-df5f-4e38-89e8" page="27" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="bfaa-f16a-4938-8876"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="c686-6459-43af-a52f" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="c686-6459-43af-a52f" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -4181,7 +4181,7 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="4303-1348-cce4-9501" id="1ebc-3b64-4f61-95d3" name="Antigrav" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="1ebc-3b64-4f61-95d3" name="Antigrav Sub-type" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="cefc-99bb-447b-bc49" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -4252,7 +4252,7 @@ Bolt Pistol is in two option lists for Legion Sky-Seeker, you will need to combi
     <selectionEntry name="Legion Assault Support Squad" type="unit" id="c91c-8095-41e1-a730" page="28" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="17a0-b975-4029-a3e0"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="04b3-b2eb-43d8-930e" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="04b3-b2eb-43d8-930e" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="90"/>
@@ -4303,7 +4303,7 @@ Could not find profile for Legionaries in [&apos;Legionary&apos;, &apos;Legion A
     <selectionEntry name="Legion Novicii Squad*" type="unit" id="7322-a79c-4ce8-8b16" page="29" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a326-8c3a-410a-bc8d"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="05c2-a58c-4821-bf15" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="05c2-a58c-4821-bf15" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="36"/>
@@ -4397,7 +4397,7 @@ Could not find wargear Legion Veteran Sergeant
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f0cb-be54-42ba-80a8" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f0cb-be54-42ba-80a8" name="Infantry:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="6"/>
@@ -4603,7 +4603,7 @@ Could not find wargear in For every ten models in the unit beyond its original s
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6df4-7ac2-4b66-b8d2" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6df4-7ac2-4b66-b8d2" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="cc95-50f8-43c8-a15d" name="Character" primary="false"/>
           </categoryLinks>
         </selectionEntry>
@@ -4658,7 +4658,7 @@ Could not find wargear in For every ten models in the unit beyond its original s
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a508-ba6d-40df-a92e"/>
           </constraints>
           <entryLinks>
-            <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="c6b1-d044-4c6c-9077">
+            <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="c6b1-d044-4c6c-9077">
               <modifiers>
                 <modifier type="set" field="name" value="Pintle Mounted Twin-Linked Bolter"/>
               </modifiers>
@@ -4677,7 +4677,7 @@ Could not find wargear in For every ten models in the unit beyond its original s
           <selectionEntryGroups>
             <selectionEntryGroup name="The Legion Rhino Advancer may take one of the following:" id="1767-503e-4100-8ec4">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="0787-28da-49f4-a29e">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="0787-28da-49f4-a29e">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -4776,8 +4776,8 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="a433-c47a-4168-bda8" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="7273-c39e-43ca-8480" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="a433-c47a-4168-bda8" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="7273-c39e-43ca-8480" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in The Legion Rhino Advancer may take one of the following:</comment>
@@ -4911,8 +4911,8 @@ Could not find wargear Hunter Killer Missiles
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="4303-1348-cce4-9501" id="996c-d157-446e-8029" name="Antigrav" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="8934-f1bc-417d-9658" name="Heavy" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="996c-d157-446e-8029" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="8934-f1bc-417d-9658" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Searchlight
@@ -4945,7 +4945,7 @@ The option &apos;Hunter Killer Missiles&apos; may need a &apos;multiply by numbe
     <selectionEntry name="Mutated Spawn" type="unit" id="d20c-e065-4357-b70c" page="36" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="84c3-cd2f-4df2-9ba1"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="78d4-801b-4a3c-a5af" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="78d4-801b-4a3c-a5af" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -4974,9 +4974,9 @@ The option &apos;Hunter Killer Missiles&apos; may need a &apos;multiply by numbe
             <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="4422-e9bb-4624-9510"/>
           </constraints>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4a8b-2425-4ec8-9e8e" name="Infantry" primary="false"/>
-            <categoryLink targetId="9055-7410-8ffd-b8e7" id="5b3a-6081-40b3-aa0b" name="Corrupted" primary="false"/>
-            <categoryLink targetId="e69c-24ba-4ef9-8679" id="8127-8ccf-4f5b-9400" name="Corrupted" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4a8b-2425-4ec8-9e8e" name="Infantry:" primary="false"/>
+            <categoryLink targetId="9055-7410-8ffd-b8e7" id="5b3a-6081-40b3-aa0b" name="Corrupted Sub-type:" primary="false"/>
+            <categoryLink targetId="e69c-24ba-4ef9-8679" id="8127-8ccf-4f5b-9400" name="Corrupted Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -5020,7 +5020,7 @@ Could not find wargear Two Mutated Appendages
     <selectionEntry name="Legion Storm Eagle Transporter" type="unit" id="e88e-ed4c-45bf-b30a" page="37" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6461-9991-4faf-8506"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="0341-5924-4d8c-8bcf" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="0341-5924-4d8c-8bcf" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="180"/>
@@ -5048,7 +5048,7 @@ Could not find wargear Two Mutated Appendages
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Storm Eagle Transporter may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following:" id="2ac1-4cab-4444-b705">
               <entryLinks>
-                <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="b743-809f-42c9-9377">
+                <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="b743-809f-42c9-9377">
                   <modifiers>
                     <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Bolter"/>
                   </modifiers>
@@ -5088,7 +5088,7 @@ Could not find wargear Hull (Front) Mounted Missile Launcher (with Frag and Krak
             </selectionEntryGroup>
             <selectionEntryGroup name="A Legion Storm Eagle Transporter may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:" id="93af-84ae-4b29-9a63">
               <entryLinks>
-                <entryLink name="Twin-Linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="8b24-05ff-4928-83ed">
+                <entryLink name="Twin-linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="8b24-05ff-4928-83ed">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
                   </costs>
@@ -5109,10 +5109,10 @@ Could not find wargear Four Hull (Front) Mounted Hunter-Killer Missiles
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="d54d-1729-47b5-a7b5" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="92b5-18ba-474d-978b" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="89dc-55e5-4250-a2b5" name="Hover" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c2f2-ef14-4559-a613" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="d54d-1729-47b5-a7b5" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="92b5-18ba-474d-978b" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="89dc-55e5-4250-a2b5" name="Hover Sub-type" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c2f2-ef14-4559-a613" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Four Hull (Front) Mounted Tempest Rockets
@@ -5135,7 +5135,7 @@ Could not find wargear in A Legion Storm Eagle Transporter may exchange all of i
     <selectionEntry name="Legion Sicaran Incinerator Squadron" type="unit" id="bb59-1d00-42d4-aaa7" page="42" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="aff1-8e25-4d1d-9bb6"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="694a-fa4f-4749-908e" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="694a-fa4f-4749-908e" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -5217,7 +5217,7 @@ Could not find wargear in A Legion Storm Eagle Transporter may exchange all of i
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Legion Sicaran Incinerator may take one of the following:" id="093c-f408-4a57-a959">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="895e-b7bd-407a-bd02">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="895e-b7bd-407a-bd02">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -5308,7 +5308,7 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="7f3f-1bcd-4f03-bf2d" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="7f3f-1bcd-4f03-bf2d" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="185"/>
@@ -5326,7 +5326,7 @@ Could not find wargear in Any Legion Sicaran Incinerator may take one of the fol
     <selectionEntry name="Legion Vindicator Thunderer Squadron" type="unit" id="0154-d7ea-4dcf-8db1" page="43" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5f71-cc63-4940-9703"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="ceef-cdea-4a68-a57a" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="ceef-cdea-4a68-a57a" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -5397,7 +5397,7 @@ Could not find wargear Centreline Mounted Quad Launcher with Frag Shells
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Legion Vindicator Thunderer may take one of the following:" id="e92a-e6eb-41d8-8314">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="746f-449e-4459-a4c0">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="746f-449e-4459-a4c0">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -5496,8 +5496,8 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="fe52-68ac-41d3-973d" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="ba7a-f17c-4e17-85c9" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="fe52-68ac-41d3-973d" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="ba7a-f17c-4e17-85c9" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="105"/>
@@ -5514,7 +5514,7 @@ Could not find wargear in Any Legion Vindicator Thunderer may take one of the fo
     <selectionEntry name="Legion Fire Raptor Destroyer" type="unit" id="7264-ce9d-4a66-834e" page="44" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="2661-1c16-4de2-9d42"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2755-ba38-42e4-9e61" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2755-ba38-42e4-9e61" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="300"/>
@@ -5608,9 +5608,9 @@ Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="2d3b-7200-47f9-b232" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="5aad-438f-49cc-b889" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="9724-fb4c-4c1e-9d1c" name="Hover" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="2d3b-7200-47f9-b232" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="5aad-438f-49cc-b889" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="9724-fb4c-4c1e-9d1c" name="Hover Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Four Hull (Front) Mounted Tempest Rockets
@@ -5632,7 +5632,7 @@ Could not find wargear in A Legion Fire Raptor Destroyer may exchange all of its
     <selectionEntry name="Early Great Crusade Havoc Squad" type="unit" id="e112-e4d2-45f7-b5bd" page="45" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c978-9aee-43d0-98ba"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="8662-3130-4e12-ae79" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="8662-3130-4e12-ae79" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="70"/>
@@ -5741,8 +5741,8 @@ Could not find wargear in A Legion Fire Raptor Destroyer may exchange all of its
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="36e5-a0cd-44a3-b048" name="Infantry" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="1a30-04e1-48f2-86b7" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="36e5-a0cd-44a3-b048" name="Infantry:" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="1a30-04e1-48f2-86b7" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
@@ -5925,9 +5925,9 @@ Could not find wargear Cyber Familiar
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ac7d-1c61-48a1-b6fc" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ac7d-1c61-48a1-b6fc" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="1af0-b5bf-46f9-b08a" name="Character" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="a13d-e726-4717-afd0" name="Heavy" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="a13d-e726-4717-afd0" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Servo Arm
@@ -5965,7 +5965,7 @@ Could not find rule: Volatile Ordnance (Legionary Weapons Team only)</comment>
     <selectionEntry name="Legion Tartaros Heavy Destroyer Squad" type="unit" id="32a8-5aa5-4636-9115" page="46" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="63e7-695b-41ce-9a0c"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="a69c-161b-4cec-b0d5" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="a69c-161b-4cec-b0d5" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="190"/>
@@ -6048,7 +6048,7 @@ Could not find wargear Legion Tartaros Terminator Armour
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ceba-43ac-43a6-bc97" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ceba-43ac-43a6-bc97" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="0497-caf7-4f29-afb1" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -6082,7 +6082,7 @@ Could not find wargear Legion Tartaros Terminator Armour
     <selectionEntry name="Legion Cataphractii Heavy Destroyer Squad" type="unit" id="a80d-c621-43b6-8d8b" page="48" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4a06-4d36-435c-a409"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="5633-76fa-4bd1-98b8" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="5633-76fa-4bd1-98b8" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="215"/>
@@ -6137,7 +6137,7 @@ Could not find profile for Legion Cataphractii Ruin Master in [&apos;Legion Cata
     <selectionEntry name="Legion Banesword" type="unit" id="658b-333a-4c15-b739" page="54" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="ef93-a17e-4193-a227"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="a46f-8f75-4ef8-9445" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="a46f-8f75-4ef8-9445" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="550"/>
@@ -6172,7 +6172,7 @@ Could not find profile for Legion Cataphractii Ruin Master in [&apos;Legion Cata
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b0a8-9aff-4446-879a"/>
               </constraints>
             </entryLink>
-            <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="1d89-7af9-4d85-9d4d">
+            <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="1d89-7af9-4d85-9d4d">
               <modifiers>
                 <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Bolter"/>
               </modifiers>
@@ -6191,7 +6191,7 @@ Could not find profile for Legion Cataphractii Ruin Master in [&apos;Legion Cata
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Banesword may elect to exchange its Hull (Front) Mounted Twin Linked Heavy Bolter for:" id="e4e6-c0eb-4504-8d13">
               <entryLinks>
-                <entryLink name="Twin-Linked Heavy Flamer" hidden="false" type="selectionEntry" targetId="18ea-34ad-326b-281b" id="7707-0d6a-4e18-aeb2">
+                <entryLink name="Twin-linked Heavy Flamer" hidden="false" type="selectionEntry" targetId="18ea-34ad-326b-281b" id="7707-0d6a-4e18-aeb2">
                   <modifiers>
                     <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Flamer"/>
                   </modifiers>
@@ -6216,7 +6216,7 @@ Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Bolter
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Banesword may take up to two of the following:" id="1c6e-15a6-4a0e-8678">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="e6bc-2ec7-4c81-a47e">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="e6bc-2ec7-4c81-a47e">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -6307,7 +6307,7 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="3181-58a4-45b3-b27e" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="3181-58a4-45b3-b27e" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Legion Banesword may take up to two pairs of side sponsons, with each sponson armed with:
@@ -6323,7 +6323,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
     <selectionEntry name="Legion Doomhammer" type="unit" id="ac9d-af7c-4709-a6d2" page="55" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="53f9-a37b-4a80-a060"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="fbe5-2be2-4049-8d13" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="fbe5-2be2-4049-8d13" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="550"/>
@@ -6358,7 +6358,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7b23-bbc1-411e-910e"/>
               </constraints>
             </entryLink>
-            <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="3eb0-32df-440f-b110">
+            <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="3eb0-32df-440f-b110">
               <modifiers>
                 <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Bolter"/>
               </modifiers>
@@ -6377,7 +6377,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Doomhammer may elect to exchange its Hull (Front) Mounted Twin Linked Heavy Bolter for:" id="2374-d581-4e04-a6c9">
               <entryLinks>
-                <entryLink name="Twin-Linked Heavy Flamer" hidden="false" type="selectionEntry" targetId="18ea-34ad-326b-281b" id="bdae-db61-4481-9820">
+                <entryLink name="Twin-linked Heavy Flamer" hidden="false" type="selectionEntry" targetId="18ea-34ad-326b-281b" id="bdae-db61-4481-9820">
                   <modifiers>
                     <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Flamer"/>
                   </modifiers>
@@ -6402,7 +6402,7 @@ Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Bolter
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Doomhammer may take up to two of the following:" id="55de-773a-45d4-99fb">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="013a-4e4b-437b-b3ec">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="013a-4e4b-437b-b3ec">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -6493,8 +6493,8 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="226b-0932-4b6b-ae51" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a0f7-aad9-4d11-9550" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="226b-0932-4b6b-ae51" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a0f7-aad9-4d11-9550" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Legion Doomhammer may take up to two pairs of side sponsons, with each sponson armed with:
@@ -6511,7 +6511,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
     <selectionEntry name="Legion Orthrus Destroyer Squadron" type="unit" id="4b16-34fb-4262-95a2" page="56" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1e2a-6297-4038-8fe9"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="97ae-c363-499e-a499" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="97ae-c363-499e-a499" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -6608,7 +6608,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Legion Orthrus Destroyer may take one of the following:" id="9622-d4c2-4006-b0bc">
               <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="0f26-a274-46cf-b51d">
+                <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="0f26-a274-46cf-b51d">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
                   </costs>
@@ -6699,9 +6699,9 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="9f2e-3675-45e1-b39a" name="Vehicle" primary="false"/>
-            <categoryLink targetId="d5df-57ac-8f3c-097b" id="5dba-18eb-42b7-9903" name="Bombard" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="ebac-23ec-46a3-a313" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="9f2e-3675-45e1-b39a" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="d5df-57ac-8f3c-097b" id="5dba-18eb-42b7-9903" name="Bombard Sub-type:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="ebac-23ec-46a3-a313" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="410"/>
@@ -6718,7 +6718,7 @@ Could not find wargear in Any Legion Orthrus Destroyer may take one of the follo
     <selectionEntry name="Basilisk Anti-Air Emplacement Battery" type="unit" id="ca32-4dab-4bf6-b3ed" page="60" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="93b7-bd8b-4614-87d9"/>
-        <categoryLink targetId="a24f-12d8-36c1-f477" primary="true" id="7dc4-86c9-469e-b324" name="Fortification"/>
+        <categoryLink targetId="a24f-12d8-36c1-f477" primary="true" id="7dc4-86c9-469e-b324" name="Fortification:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6752,7 +6752,7 @@ Could not find wargear in Any Legion Orthrus Destroyer may take one of the follo
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="a24f-12d8-36c1-f477" id="8e6f-794e-40c6-9164" name="Fortification" primary="false"/>
+            <categoryLink targetId="a24f-12d8-36c1-f477" id="8e6f-794e-40c6-9164" name="Fortification:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="125"/>
@@ -6772,8 +6772,8 @@ Could not find type or subtype &apos;Battlements&apos;</comment>
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink id="5f24-4626-0547-71c3" name="Panoptica Library" targetId="69b7-3f60-9f7f-8ce5" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="5f24-4242-71c3-0547" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="2f60-4242-e6ed-8574" name="Legions Astartes" targetId="25e4-c9e5-8165-1337" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5f24-4626-0547-71c3" name="Panoptica Library" targetId="660c-f1da-b1ee-1e2c" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5f24-4242-71c3-0547" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="2f60-4242-e6ed-8574" name="Legions Astartes" targetId="b132-bb06-6375-1371" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

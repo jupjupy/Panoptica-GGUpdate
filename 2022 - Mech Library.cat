@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="7265-8b7a-50ae-51ec" name="Mech Library" revision="2044" battleScribeVersion="2.03" library="true" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="a1bf-762d-8fad-4285" name="Mech Library" revision="2044" battleScribeVersion="2.03" library="true" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <categoryEntries>
     <categoryEntry id="4086-0589-f010-e688" name="Titan Legion Min Troop/LoW" hidden="false"/>
     <categoryEntry id="57a1-ae47-ff1b-36e4" name="Cybertheurgist" publicationId="bde1-6db1-163b-3b76" page="92-96" hidden="false"/>
@@ -1951,8 +1951,8 @@ Invulnerable Saves granted by a mag-inverter shield do not stack with other Invu
           </costs>
           <categoryLinks>
             <categoryLink targetId="41ff-7fc9-d4a0-da2" id="4c79-8dc9-4579-afbb" name="Armiger Unit Type" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="6328-d00c-471e-931a" name="Skirmish Sub-type" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="73c1-3577-4721-8c8e" name="Line Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="6328-d00c-471e-931a" name="Skirmish Sub-type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="73c1-3577-4721-8c8e" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -2092,8 +2092,8 @@ Invulnerable Saves granted by a mag-inverter shield do not stack with other Invu
           </costs>
           <categoryLinks>
             <categoryLink targetId="41ff-7fc9-d4a0-da2" id="2951-cb41-4c91-81d4" name="Armiger Unit Type" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="eb06-2e6d-440b-9e98" name="Skirmish Sub-type" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="130d-3485-4b30-bc70" name="Line Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="eb06-2e6d-440b-9e98" name="Skirmish Sub-type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="130d-3485-4b30-bc70" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -6595,8 +6595,8 @@ A model with an activated Utan Jump Booster may move over both friendly and ene
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="37"/>
           </costs>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="629a-187b-4fc4-9b9e" name="Infantry Unit Type" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="96ce-05df-4a30-8730" name="Line Sub-type" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="629a-187b-4fc4-9b9e" name="Infantry:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="96ce-05df-4a30-8730" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <modifierGroups>
             <modifierGroup type="and">
@@ -8415,6 +8415,6 @@ Treat Archmagos Anarcharis Scoria as an Archmagos Prime.on Abeyant.</description
     </profile>
   </sharedProfiles>
   <catalogueLinks>
-    <catalogueLink id="4700-85b7-ecb4-c6c" name="Daemon Library" targetId="ef0a-91e4-838c-3973" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="4700-85b7-ecb4-c6c" name="Daemon Library" targetId="2edf-3ceb-8b6d-45a3" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

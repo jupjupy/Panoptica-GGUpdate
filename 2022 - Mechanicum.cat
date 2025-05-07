@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="eb19-d768-b767-c84b" name="Mechanicum" revision="2039" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue" publicationId="3886-76e5-438f-159f">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="ba44-2928-ec24-d2ee" name="Mechanicum" revision="2039" battleScribeVersion="2.03" library="false" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" type="catalogue" publicationId="3886-76e5-438f-159f">
   <entryLinks>
     <entryLink id="29c6-0ec7-0162-e817" name="Mechanicum" hidden="false" collective="false" import="false" targetId="ddf5-d792-3146-6e9a" type="selectionEntry">
       <modifiers>
@@ -1904,7 +1904,7 @@
             </infoLink>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="02be-cd76-9a50-d755" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="02be-cd76-9a50-d755" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
             <categoryLink id="03b4-892e-1b2f-2071" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
           </categoryLinks>
           <selectionEntryGroups>
@@ -2603,7 +2603,7 @@
           <categoryLinks>
             <categoryLink targetId="4f07-3d45-4f28-a0c6" id="d69-8243-201c-fa43" primary="false" name="Independent Character"/>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6c89-6b5f-412f-9f20" name="Infantry:" primary="false"/>
-            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a638-c3fc-4915-80d7" name="Character" primary="false"/>
+            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a638-c3fc-4915-80d7" name="Character Sub-type" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -2742,7 +2742,7 @@ This unit may be upgraded freely as described in their profile, though they may 
             <infoLink id="917f-2330-5f93-f4ad" name="Stubborn" hidden="false" targetId="7989-1f2c-a43d-82ae" type="rule"/>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="a497-9936-5e88-4943" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="a497-9936-5e88-4943" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="43c4-5f60-46b6-aaaa" name="Infantry:" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="d559-bc95-42d7-81bb" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
@@ -3693,7 +3693,7 @@ On a Game Turn in which a model armed with Stratos Thrusters activates them, th
             <infoLink id="e9a6-24a4-f0cb-3112" name="Stubborn" hidden="false" targetId="7989-1f2c-a43d-82ae" type="rule"/>
           </infoLinks>
           <categoryLinks>
-            <categoryLink id="2d1a-287f-ad7c-773b" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+            <categoryLink id="2d1a-287f-ad7c-773b" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="233d-f37c-423d-8c68" name="Infantry:" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="d1df-0575-4fc2-94ae" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
@@ -5175,7 +5175,6 @@ In addition, Archmagos Anacharis Scoria provides all effects, benefits, and rul
     </selectionEntry>
     <selectionEntry id="1905-926d-628c-a411" name="Mechanicum Tarantula Sentry Gun Battery" publicationId="3886-76e5-438f-159f" page="5" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
-        <infoLink id="5031-49fb-20c7-6b28" name="Automated Artillery Sub-type" hidden="false" targetId="c036-66e2-4e07-c2b8" type="rule"/>
         <infoLink id="1b4a-4ba2-96e6-6de9" name="Sentry Protocols" hidden="false" targetId="97aa-da60-3ccc-7152" type="rule"/>
         <infoLink id="8043-a3d5-9770-e212" name="Firing Protocols (X)" hidden="false" targetId="32a3-f599-5c92-2945" type="rule">
           <modifiers>
@@ -5240,7 +5239,7 @@ In addition, Archmagos Anacharis Scoria provides all effects, benefits, and rul
               </profiles>
               <categoryLinks>
                 <categoryLink id="2df0-2483-3a5e-8085" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
-                <categoryLink targetId="0faa-1bab-2901-4330" id="6e2f-4eb1-458f-a47c" name="Automated Artillery Sub-Type" primary="false"/>
+                <categoryLink targetId="0faa-1bab-2901-4330" id="6e2f-4eb1-458f-a47c" name="Automated Artillery Sub-type" primary="false"/>
               </categoryLinks>
               <selectionEntries>
                 <selectionEntry id="1386-c057-9ea5-145e" name="2x Heavy Bolters" hidden="false" collective="true" import="true" type="upgrade">
@@ -5266,7 +5265,7 @@ In addition, Archmagos Anacharis Scoria provides all effects, benefits, and rul
               </constraints>
               <categoryLinks>
                 <categoryLink id="ec82-d57c-d5ce-99f8" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
-                <categoryLink targetId="0faa-1bab-2901-4330" id="ffef-2859-47b2-b2fa" name="Automated Artillery Sub-Type" primary="false"/>
+                <categoryLink targetId="0faa-1bab-2901-4330" id="ffef-2859-47b2-b2fa" name="Automated Artillery Sub-type" primary="false"/>
               </categoryLinks>
               <selectionEntries>
                 <selectionEntry id="2cf8-ce3c-b1c7-c8b6" name="2x Lascannons" hidden="false" collective="true" import="true" type="upgrade">
@@ -5296,7 +5295,7 @@ In addition, Archmagos Anacharis Scoria provides all effects, benefits, and rul
               </constraints>
               <categoryLinks>
                 <categoryLink id="610c-3f5f-7274-2ffa" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
-                <categoryLink targetId="0faa-1bab-2901-4330" id="1a54-5606-476b-837d" name="Automated Artillery Sub-Type" primary="false"/>
+                <categoryLink targetId="0faa-1bab-2901-4330" id="1a54-5606-476b-837d" name="Automated Artillery Sub-type" primary="false"/>
               </categoryLinks>
               <selectionEntries>
                 <selectionEntry id="e38b-ee5c-b099-3c11" name="Hyperios Missile Launcher" hidden="false" collective="true" import="true" type="upgrade">
@@ -5378,7 +5377,7 @@ In addition, Archmagos Anacharis Scoria provides all effects, benefits, and rul
       <categoryLinks>
         <categoryLink id="12a1-ade9-ce31-301a" name="Monstrous Sub-type:" hidden="false" targetId="7d95-f9d1-440a-67bd" primary="false"/>
         <categoryLink id="27c1-95be-258a-994e" name="Cybertheurgist" hidden="false" targetId="57a1-ae47-ff1b-36e4" primary="false"/>
-        <categoryLink id="c9b9-7842-05fe-d0d6" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
+        <categoryLink id="c9b9-7842-05fe-d0d6" name="Character Sub-type" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
         <categoryLink id="ab6b-df7c-a7a9-0ddf" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
         <categoryLink targetId="aa94-5c65-d1f1-46a4" id="462a-65f6-3063-3c37" primary="false" name="Unique Sub-type"/>
       </categoryLinks>
@@ -5863,9 +5862,7 @@ Additionally, each time Inar Satarael makes a successful Invulnable Save on a ro
                       <characteristics>
                         <characteristic name="Description" typeId="347e-ee4a-764f-6be3">The centerline cannon equip to this mount is counted as &apos;Artillery&apos; weapon for those rules which affect such a weapon.</characteristic>
                       </characteristics>
-                      <alias>
-                        <undefined>Artillery Mount</undefined>
-                      </alias>
+                      <alias/>
                     </profile>
                   </profiles>
                   <categoryLinks>
@@ -6800,8 +6797,8 @@ Additionally, each time Inar Satarael makes a successful Invulnable Save on a ro
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink id="5f24-4626-71c3-0547" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="e048-9e5e-507c-5bae" name="LI - Assassins and Agents" targetId="2dde-e269-90db-8d33" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="e123-456e-507c-5trc" name="Daemons - Bound Daemons" targetId="d114-c205-18d5-4e95" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5f24-4626-71c3-0547" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e048-9e5e-507c-5bae" name="LI - Assassins and Agents" targetId="9982-df39-e8a5-8524" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e123-456e-507c-5trc" name="Daemons - Bound Daemons" targetId="d0f5-775d-d06b-3b18" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

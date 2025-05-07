@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="f887-2c56-4cb0-2e9c" name="Imperialis Militia" revision="2038" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="f4c4-c7b7-1305-aed7" name="Imperialis Militia" revision="2038" battleScribeVersion="2.03" library="false" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" type="catalogue">
   <categoryEntries>
     <categoryEntry id="58b3-196a-9732-2165" name="Rogue Psyker Daemons Restriction" publicationId="48c2-d023-0069-001a" page="15" hidden="false">
       <modifiers>
@@ -11427,11 +11427,11 @@ A model with the Infantry Unit Type that selects a Militia cavalry mount as an u
     </rule>
   </sharedRules>
   <catalogueLinks>
-    <catalogueLink id="5f24-4626-71c3-0511" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="e048-9e5e-507c-5b11" name="LI - Assassins and Agents" targetId="2dde-e269-90db-8d33" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="e123-456e-507c-5t11" name="Daemons - Bound Daemons" targetId="d114-c205-18d5-4e95" type="catalogue" importRootEntries="true"/>
-    <catalogueLink type="catalogue" name="Daemons - Daemons of the Ruinstorm" id="36bf-86e2-87b4-9336" targetId="724d-13c4-628c-f642"/>
-    <catalogueLink type="catalogue" name="Mechanicum" id="a933-4626-1551-c187" targetId="eb19-d768-b767-c84b"/>
-    <catalogueLink type="catalogue" name="Militia Library" id="2912-1477-893f-45be" targetId="4ab9-25ad-4d80-2f7d"/>
+    <catalogueLink id="5f24-4626-71c3-0511" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e048-9e5e-507c-5b11" name="LI - Assassins and Agents" targetId="9982-df39-e8a5-8524" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e123-456e-507c-5t11" name="Daemons - Bound Daemons" targetId="d0f5-775d-d06b-3b18" type="catalogue" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="Daemons - Daemons of the Ruinstorm" id="36bf-86e2-87b4-9336" targetId="cb7a-e52f-6650-725c"/>
+    <catalogueLink type="catalogue" name="Mechanicum" id="a933-4626-1551-c187" targetId="ba44-2928-ec24-d2ee"/>
+    <catalogueLink type="catalogue" name="Militia Library" id="2912-1477-893f-45be" targetId="ef5f-3fac-39d1-b855"/>
   </catalogueLinks>
 </catalogue>

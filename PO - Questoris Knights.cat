@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="ee7c-1a71-edb-acbd" name="[Ingenium] Knights" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="83e3-ab77-13ec-1189" name="[Ingenium] Knights" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntries>
     <selectionEntry name="Questoris Knight Moirax Talon" type="unit" id="1057-b62a-4343-9be8" page="71" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b022-def5-4082-93b2"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="4a6c-c056-49ab-8c65" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="4a6c-c056-49ab-8c65" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -54,7 +54,7 @@
                     <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="1592-198e-4c22-b65e"/>
                   </constraints>
                 </entryLink>
-                <entryLink name="Siege Claw with in-built Irad-Cleanser" hidden="false" type="selectionEntry" targetId="6a06-cbf5-fbbf-85fe" id="7d76-2c8a-4b0a-beae">
+                <entryLink name="Siege Claw with In-Built Irad-Cleanser" hidden="false" type="selectionEntry" targetId="6a06-cbf5-fbbf-85fe" id="7d76-2c8a-4b0a-beae">
                   <constraints>
                     <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="71a4-5a1a-4969-8147"/>
                   </constraints>
@@ -113,7 +113,7 @@ Could not find rule: Moirax Talon</comment>
     <selectionEntry name="Knight Maeliviax" type="unit" id="1a0b-82a7-4c82-9fe0" page="72" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4136-a96a-46d1-979c"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="b3f0-5c19-4865-b43a" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="b3f0-5c19-4865-b43a" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="400"/>
@@ -263,8 +263,8 @@ Could not find rule: Moirax Talon</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="c752-c710-4a8f-b673" name="Vehicle" primary="false"/>
-            <categoryLink targetId="437f-7773-a0d0-6061" id="0186-122c-4f67-b267" name="Knight" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="c752-c710-4a8f-b673" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="437f-7773-a0d0-6061" id="0186-122c-4f67-b267" name="Knight Sub-type" primary="false"/>
           </categoryLinks>
         </selectionEntry>
       </selectionEntries>
@@ -279,7 +279,7 @@ Could not find rule: Moirax Talon</comment>
     <selectionEntry name="Knight Dominus" type="unit" id="9bba-0f55-47ac-8530" page="73" publicationId="f856-58d6-ef02-7d3e">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="3879-20d6-45d7-a01d"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="dd53-fa03-4a88-9699" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="dd53-fa03-4a88-9699" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="375"/>
@@ -308,7 +308,7 @@ Could not find rule: Moirax Talon</comment>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="58af-ff0d-4367-9738"/>
           </constraints>
           <entryLinks>
-            <entryLink name="Twin-Linked Meltagun" hidden="false" type="selectionEntry" targetId="fb5a-c4c9-f96d-1400" id="794c-7ea8-442c-aab6">
+            <entryLink name="Twin-linked Meltagun" hidden="false" type="selectionEntry" targetId="fb5a-c4c9-f96d-1400" id="794c-7ea8-442c-aab6">
               <modifiers>
                 <modifier type="set" field="name" value="Two Hull (Front) Mounted Twin-Linked Meltaguns"/>
               </modifiers>
@@ -448,8 +448,8 @@ Could not find rule: Moirax Talon</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="52cd-c7d8-4b91-a80f" name="Vehicle" primary="false"/>
-            <categoryLink targetId="437f-7773-a0d0-6061" id="2866-feb3-4aa7-a49f" name="Knight" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="52cd-c7d8-4b91-a80f" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="437f-7773-a0d0-6061" id="2866-feb3-4aa7-a49f" name="Knight Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Three Carapace Mounted Siegebreaker Cannons
@@ -459,7 +459,7 @@ Could not find wargear Three Carapace Mounted Siegebreaker Cannons
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink id="5f24-4626-0547-71c3" name="Panoptica Library" targetId="69b7-3f60-9f7f-8ce5" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="5f24-4242-71c3-0547" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5f24-4626-0547-71c3" name="Panoptica Library" targetId="660c-f1da-b1ee-1e2c" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5f24-4242-71c3-0547" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

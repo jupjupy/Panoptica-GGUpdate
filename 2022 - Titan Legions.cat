@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="a9b6-d320-8343-dadc" name="Titan Legions" revision="2013" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="827e-3536-44dc-e19f" name="Titan Legions" revision="2013" battleScribeVersion="2.03" library="false" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" type="catalogue">
   <forceEntries>
     <forceEntry id="aebe-bed9-b32f-a8ea" name="0. Titan Maniple" hidden="false">
       <categoryLinks>
@@ -222,7 +222,7 @@
     <selectionEntry id="b08e-55fe-3e1d-913b" name="Secutarii Axiarch" publicationId="bde1-6db1-163b-3b76" page="66" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="f5bd-8b5c-1e1e-4b5b" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
-        <categoryLink id="bba2-2d6a-595b-788e" name="Infantry Unit Type" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
+        <categoryLink id="bba2-2d6a-595b-788e" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
         <categoryLink id="4978-c880-3f1d-2466" name="Independent Character" hidden="false" targetId="4f07-3d45-4f28-a0c6" primary="false"/>
       </categoryLinks>
       <selectionEntries>
@@ -487,7 +487,7 @@
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
           </costs>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="aeff-4817-4f96-93ce" name="Infantry Unit Type" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="aeff-4817-4f96-93ce" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="c5bd-e04c-41c9-b3ce" name="Character" primary="false"/>
           </categoryLinks>
         </selectionEntry>
@@ -505,7 +505,7 @@
         </infoLink>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="99ff-110c-e9cb-7051" name="Infantry Unit Type" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
+        <categoryLink id="99ff-110c-e9cb-7051" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
         <categoryLink id="3488-49bf-3eb4-eb5b" name="Titan Legion Min Troop/LoW" hidden="false" targetId="4086-0589-f010-e688" primary="false"/>
       </categoryLinks>
       <selectionEntries>
@@ -535,7 +535,7 @@
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="12"/>
           </costs>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="06f7-0c2b-4201-981d" name="Infantry Unit Type" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="06f7-0c2b-4201-981d" name="Infantry:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
         <selectionEntry id="7e53-3d8b-5f85-993e" name="Hoplite Alpha" hidden="false" collective="false" import="true" type="model">
@@ -562,7 +562,7 @@
           </profiles>
           <categoryLinks>
             <categoryLink id="55af-f53a-1ef0-c792" name="Character" hidden="false" targetId="f75a-d5c1-59ba-5c5a" primary="false"/>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e846-3f85-423a-b4bd" name="Infantry Unit Type" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e846-3f85-423a-b4bd" name="Infantry:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -679,7 +679,7 @@
         </infoLink>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="0bb4-9db7-e8b6-b2a5" name="Infantry Unit Type" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
+        <categoryLink id="0bb4-9db7-e8b6-b2a5" name="Infantry:" hidden="false" targetId="8b4f-bfe2-ce7b-f1b1" primary="false"/>
         <categoryLink id="0d75-9bd2-a9ea-be2a" name="Titan Legion Min Troop/LoW" hidden="false" targetId="4086-0589-f010-e688" primary="false"/>
       </categoryLinks>
       <selectionEntries>
@@ -709,7 +709,7 @@
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
           </costs>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="24e2-13c0-4f9d-bb0f" name="Infantry Unit Type" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="24e2-13c0-4f9d-bb0f" name="Infantry:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
         <selectionEntry id="59a0-bcc7-8dce-8ab0" name="Peltast Alpha" hidden="false" collective="false" import="true" type="model">
@@ -739,7 +739,7 @@
           </costs>
           <categoryLinks>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="f110-17bd-4d28-acc5" name="Character" primary="false"/>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8cf5-7166-41cf-8ac6" name="Infantry Unit Type" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8cf5-7166-41cf-8ac6" name="Infantry:" primary="false"/>
           </categoryLinks>
         </selectionEntry>
         <selectionEntry id="aeed-1c2a-2b6d-8def" name="Additionally Hammershot ammunition for Galvanic Casters" hidden="false" collective="false" import="true" type="upgrade">
@@ -901,7 +901,7 @@
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink id="de74-d2a5-d0be-55c8" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="e048-9e5e-507c-5baf" name="LI - Assassins and Agents" targetId="2dde-e269-90db-8d33" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="de74-d2a5-d0be-55c8" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="e048-9e5e-507c-5baf" name="LI - Assassins and Agents" targetId="9982-df39-e8a5-8524" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

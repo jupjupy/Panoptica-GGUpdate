@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="fe6-832a-e16c-408e" name="[Imperatus] Militia" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="7488-9da1-4ce1-4a42" name="[Imperatus] Militia" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntries>
     <selectionEntry name="Imperialis Militia Astropath" type="unit" id="515c-288b-4eb7-a839" page="202" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="06e5-d81b-4882-afac"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="8221-16e2-48a4-a0d7" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="8221-16e2-48a4-a0d7" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="55"/>
@@ -58,9 +58,9 @@
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b9b3-3dcc-452e-afba" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="b3d9-cf05-4c32-8007" name="Militia" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="8727-8ac4-48f8-b307" name="Psyker" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b9b3-3dcc-452e-afba" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="b3d9-cf05-4c32-8007" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="8727-8ac4-48f8-b307" name="Psyker:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5b9b-e634-4192-b5d5" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -80,7 +80,7 @@ Could not find rule: Independent Character</comment>
     <selectionEntry name="Imperialis Militia Ascendant Rogue Psyker" type="unit" id="0136-cc67-438a-94ea" page="203" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c37c-b609-446e-92da"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="df9b-6e9f-446f-8658" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="df9b-6e9f-446f-8658" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
@@ -201,9 +201,9 @@ Could not find rule: Independent Character</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f926-db48-4117-bc6e" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="470a-17d3-4dfd-b380" name="Militia" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="b4eb-6c62-43ec-b20b" name="Psyker" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f926-db48-4117-bc6e" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="470a-17d3-4dfd-b380" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="b4eb-6c62-43ec-b20b" name="Psyker:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="aaf9-b691-4418-9f6d" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -277,8 +277,8 @@ Could not find wargear Laspistol or Autopistol
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ee72-a17f-46e2-ae9a" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="699f-57ef-4049-8b70" name="Militia" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ee72-a17f-46e2-ae9a" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="699f-57ef-4049-8b70" name="Militia Unit Sub-type" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -309,7 +309,7 @@ Could not find rule: Unrestrained Power (Ascendant Rogue Psyker only)</comment>
     <selectionEntry name="Imperialis Militia Mounted Command Cadre" type="unit" id="4d75-865c-455d-b3d2" page="204" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c7b4-2a89-4c29-9339"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="3785-63c7-41af-b149" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="3785-63c7-41af-b149" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="17"/>
@@ -485,9 +485,9 @@ Could not find wargear Longlas or Sniper Rifle
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="bff2-ae16-74a8-8712" id="f8de-8c66-43fb-ab0b" name="Light" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="c7b4-0cc4-43c9-8ad6" name="Militia" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="7a8a-0dba-4704-be89" name="Skirmish" primary="false"/>
+            <categoryLink targetId="bff2-ae16-74a8-8712" id="f8de-8c66-43fb-ab0b" name="Light Sub-type:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="c7b4-0cc4-43c9-8ad6" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="7a8a-0dba-4704-be89" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="12"/>
@@ -662,9 +662,9 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
           </selectionEntryGroups>
           <categoryLinks>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="57dc-b28c-4619-b8b8" name="Character" primary="false"/>
-            <categoryLink targetId="bff2-ae16-74a8-8712" id="918c-ffd0-42c4-91b8" name="Light" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="b346-dde9-4ae3-b5f8" name="Skirmish" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="4157-47f4-4578-9492" name="Militia" primary="false"/>
+            <categoryLink targetId="bff2-ae16-74a8-8712" id="918c-ffd0-42c4-91b8" name="Light Sub-type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="b346-dde9-4ae3-b5f8" name="Skirmish Sub-type:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="4157-47f4-4578-9492" name="Militia Unit Sub-type" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Laspistol or Autopistol
@@ -732,7 +732,7 @@ Could not find rule: Household Retinue</comment>
     <selectionEntry name="Imperialis Militia Demagogue Cadre" type="unit" id="78ac-7086-4f68-966c" page="208" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a154-0b99-49f6-85b9"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="03aa-97a3-4350-aa86" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="03aa-97a3-4350-aa86" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -903,8 +903,8 @@ Could not find wargear Mounted Demagogue*
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6e3c-f566-40c2-95c8" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="f714-7168-488c-9300" name="Militia" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6e3c-f566-40c2-95c8" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="f714-7168-488c-9300" name="Militia Unit Sub-type" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="4142-31b8-4079-b0ba" name="Character" primary="false"/>
           </categoryLinks>
           <costs>
@@ -1069,9 +1069,9 @@ Could not find wargear Laspistol or Autopistol
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="08d3-9131-4cf2-9b25" name="Militia" primary="false"/>
-            <categoryLink targetId="bff2-ae16-74a8-8712" id="ac37-42ac-4993-9266" name="Light" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="3c46-55e5-4515-a5f0" name="Skirmish" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="08d3-9131-4cf2-9b25" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="bff2-ae16-74a8-8712" id="ac37-42ac-4993-9266" name="Light Sub-type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="3c46-55e5-4515-a5f0" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="6387-417a-40ae-b137" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -1110,7 +1110,7 @@ Close Combat Weapon is in two option lists for Mounted Demagogue, you will need 
     <selectionEntry name="Imperialis Militia Ratling Squad" type="unit" id="0c7f-3ef1-46e1-bfac" page="209" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4204-fcd4-4e03-828d"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="c752-737d-466d-9b56" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="c752-737d-466d-9b56" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="4"/>
@@ -1153,10 +1153,10 @@ Close Combat Weapon is in two option lists for Mounted Demagogue, you will need 
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="887c-f7a5-4c51-8786" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="4f94-c6b1-47fb-8179" name="Militia" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="b134-e2c8-4c51-a5bf" name="Skirmish" primary="false"/>
-            <categoryLink targetId="bff2-ae16-74a8-8712" id="af25-0c89-4f16-8210" name="Light" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="887c-f7a5-4c51-8786" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="4f94-c6b1-47fb-8179" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="b134-e2c8-4c51-a5bf" name="Skirmish Sub-type:" primary="false"/>
+            <categoryLink targetId="bff2-ae16-74a8-8712" id="af25-0c89-4f16-8210" name="Light Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="12"/>
@@ -1192,7 +1192,7 @@ Could not find wargear Longlas or Sniper Rifle
     <selectionEntry name="Enginseer Auxilia Detachment" type="unit" id="cea3-578e-47da-9a00" page="210" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c03a-a978-49e0-9398"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="c953-5bd5-4b30-bafc" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="c953-5bd5-4b30-bafc" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -1233,7 +1233,7 @@ Could not find wargear Longlas or Sniper Rifle
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7699-ac72-44a1-8702"/>
               </constraints>
             </entryLink>
-            <entryLink name="Servo-arm" hidden="false" type="selectionEntry" targetId="fbef-812d-4d20-9285" id="4a42-9978-47a6-8510">
+            <entryLink name="Servo-Arm" hidden="false" type="selectionEntry" targetId="fbef-812d-4d20-9285" id="4a42-9978-47a6-8510">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d4cf-16e5-4071-86e4"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9aa6-0ded-4d01-a5f8"/>
@@ -1241,7 +1241,7 @@ Could not find wargear Longlas or Sniper Rifle
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7ee3-8c46-43cb-94c0" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7ee3-8c46-43cb-94c0" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="f4ea-7f13-43fe-9efa" name="Character" primary="false"/>
           </categoryLinks>
           <costs>
@@ -1333,7 +1333,7 @@ Could not find wargear Melta Bombs
         </selectionEntryGroup>
         <selectionEntryGroup name="Any Servo-automata may take one of the following options:" id="264e-7226-4ebd-9696">
           <entryLinks>
-            <entryLink name="Las-lock" hidden="false" type="selectionEntry" targetId="f7ee-658a-45dc-8edf" id="3e92-be84-4e47-b9a8">
+            <entryLink name="Las-Lock" hidden="false" type="selectionEntry" targetId="f7ee-658a-45dc-8edf" id="3e92-be84-4e47-b9a8">
               <costs>
                 <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="2"/>
               </costs>
@@ -1414,7 +1414,7 @@ Could not find rule: Techo-Arcana: Enginseer (Enginseer Adept only)</comment>
     <selectionEntry name="Imperialis Militia Kinfolk Exo-Driller Team" type="unit" id="eda0-7dd7-49f7-b031" page="211" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="59ae-2f8d-4db7-a855"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="6400-4349-4f4b-ae07" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="6400-4349-4f4b-ae07" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -1446,7 +1446,7 @@ Could not find profile for Exo-Driller in [&apos;Exo-Driller*&apos;]</comment>
     <selectionEntry name="Imperialis Militia Ogryn Beastmasters" type="unit" id="c3ce-4dd3-43e8-9956" page="212" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a1c7-cd77-49f4-961b"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="6a9c-24b9-4c27-9423" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="6a9c-24b9-4c27-9423" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -1566,10 +1566,10 @@ Could not find profile for Exo-Driller in [&apos;Exo-Driller*&apos;]</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e6e8-29f7-4c0a-96e4" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="9967-3628-4937-a843" name="Militia" primary="false"/>
-            <categoryLink targetId="7d95-f9d1-440a-67bd" id="b7b6-7ade-4026-b65e" name="Monstrous" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="e371-0541-4f03-93cd" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e6e8-29f7-4c0a-96e4" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="9967-3628-4937-a843" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="7d95-f9d1-440a-67bd" id="b7b6-7ade-4026-b65e" name="Monstrous Sub-type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="e371-0541-4f03-93cd" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
@@ -1600,7 +1600,7 @@ Could not find rule: Stubborn (Ogryn Handler only)</comment>
     <selectionEntry name="Imperialis Militia Voidjumpers" type="unit" id="1b54-66fa-45cd-9fbd" page="218" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b87a-4972-48ac-895f"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="15a7-471f-42d2-b46e" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="15a7-471f-42d2-b46e" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="21"/>
@@ -1781,10 +1781,10 @@ Could not find wargear instead being designed as a seperate option, so that thos
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="9f09-2051-4074-99f1" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="1d1d-d30c-45c0-8094" name="Militia" primary="false"/>
-            <categoryLink targetId="bff2-ae16-74a8-8712" id="a44b-4dc7-4598-8c0f" name="Light" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="9454-aac8-4dff-b795" name="Line" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="9f09-2051-4074-99f1" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="1d1d-d30c-45c0-8094" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="bff2-ae16-74a8-8712" id="a44b-4dc7-4598-8c0f" name="Light Sub-type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="9454-aac8-4dff-b795" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="6"/>
@@ -1922,11 +1922,11 @@ Could not find wargear instead being designed as a seperate option, so that thos
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="af79-120b-49ca-be57" name="Infantry" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="af79-120b-49ca-be57" name="Infantry:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="2097-6529-41cb-85c9" name="Character" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="6c9f-018a-42c7-860f" name="Militia" primary="false"/>
-            <categoryLink targetId="bff2-ae16-74a8-8712" id="b59e-a83b-4e3d-8711" name="Light" primary="false"/>
-            <categoryLink targetId="6399-5c65-7833-1025" id="ebfa-cf00-4cf4-930a" name="Line" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="6c9f-018a-42c7-860f" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="bff2-ae16-74a8-8712" id="b59e-a83b-4e3d-8711" name="Light Sub-type:" primary="false"/>
+            <categoryLink targetId="6399-5c65-7833-1025" id="ebfa-cf00-4cf4-930a" name="Line Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Militia Jet Pack
@@ -2036,8 +2036,8 @@ Could not find wargear in All models in the unit may exchange their Shotguns and
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="23a5-e835-4cfc-8ee9" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c3d5-4387-4a34-9544" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="23a5-e835-4cfc-8ee9" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c3d5-4387-4a34-9544" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Sponson Mounted Lasgun Arrays
@@ -2086,8 +2086,8 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="9b10-6a2b-42b7-b4db" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="b92e-9dea-4c7f-bc82" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="9b10-6a2b-42b7-b4db" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="b92e-9dea-4c7f-bc82" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third-Line&apos;</comment>
@@ -2125,7 +2125,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6b5f-cf21-4afd-811e"/>
           </constraints>
           <entryLinks>
-            <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="8560-6bbf-424b-9d38">
+            <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="8560-6bbf-424b-9d38">
               <modifiers>
                 <modifier type="set" field="name" value="Pintle Mounted Twin-Linked Bolter"/>
               </modifiers>
@@ -2142,8 +2142,8 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="b41f-050f-45cc-8947" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="9d89-a034-44b2-ac7f" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="b41f-050f-45cc-8947" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="9d89-a034-44b2-ac7f" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third-Line&apos;</comment>
@@ -2187,7 +2187,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6cda-e0c4-491d-b9f3"/>
           </constraints>
           <entryLinks>
-            <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="6a00-1f82-479e-957e">
+            <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="6a00-1f82-479e-957e">
               <modifiers>
                 <modifier type="set" field="name" value="Pintle Mounted Twin-Linked Bolter"/>
               </modifiers>
@@ -2204,8 +2204,8 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="0187-9f8c-4d50-8b2d" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="709c-67b7-4fa8-8a3e" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="0187-9f8c-4d50-8b2d" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="709c-67b7-4fa8-8a3e" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third-Line&apos;</comment>
@@ -2255,7 +2255,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="73f4-e269-4899-bef3"/>
           </constraints>
           <entryLinks>
-            <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="71a6-08dc-4093-b640">
+            <entryLink name="Twin-linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="71a6-08dc-4093-b640">
               <modifiers>
                 <modifier type="set" field="name" value="Two Pintle Mounted Twin-Linked Bolters"/>
               </modifiers>
@@ -2272,8 +2272,8 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="3219-478c-45d8-b5c8" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a69a-f5fc-4e1f-8a0c" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="3219-478c-45d8-b5c8" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a69a-f5fc-4e1f-8a0c" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third-Line&apos;</comment>
@@ -2326,7 +2326,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="aba5-3149-425f-999c"/>
               </constraints>
             </entryLink>
-            <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="0d3e-d2b4-4594-b64e">
+            <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="0d3e-d2b4-4594-b64e">
               <modifiers>
                 <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Bolter"/>
               </modifiers>
@@ -2343,9 +2343,9 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="f821-18a4-4531-869a" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="170b-f546-41e8-aea5" name="Transport" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="c17e-ccc1-45e4-bfe9" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="f821-18a4-4531-869a" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="170b-f546-41e8-aea5" name="Transport Sub-type:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="c17e-ccc1-45e4-bfe9" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third-Line&apos;</comment>
@@ -2364,7 +2364,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Mutated Spawn" type="unit" id="5964-cd1a-453d-99f4" page="229" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e9f4-69d4-4b2c-b747"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="202b-e3c8-4de5-99ac" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="202b-e3c8-4de5-99ac" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -2393,9 +2393,9 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             <constraint type="max" value="6" field="selections" scope="parent" shared="true" id="e0cc-8d57-47ab-8d14"/>
           </constraints>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="fa27-8da4-4dd2-8d10" name="Infantry" primary="false"/>
-            <categoryLink targetId="7d95-f9d1-440a-67bd" id="e13a-df02-47fa-9596" name="Monstrous" primary="false"/>
-            <categoryLink targetId="e69c-24ba-4ef9-8679" id="047e-6a00-443c-9ac6" name="Corrupted" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="fa27-8da4-4dd2-8d10" name="Infantry:" primary="false"/>
+            <categoryLink targetId="7d95-f9d1-440a-67bd" id="e13a-df02-47fa-9596" name="Monstrous Sub-type:" primary="false"/>
+            <categoryLink targetId="e69c-24ba-4ef9-8679" id="047e-6a00-443c-9ac6" name="Corrupted Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -2439,7 +2439,7 @@ Could not find wargear Two Mutated Appendages
     <selectionEntry name="Imperialis Militia Hellhound Flame Tank Squadron" type="unit" id="ad96-66c6-483d-b0d4" page="230" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6d84-b993-4be0-bc30"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="b254-eba4-43ce-a22a" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="b254-eba4-43ce-a22a" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -2609,8 +2609,8 @@ Could not find wargear One Hull (Front) Hunter-Killer Missile
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="d06c-ee2a-43d8-8db0" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="e1a9-7f84-489a-bb3b" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="d06c-ee2a-43d8-8db0" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="e1a9-7f84-489a-bb3b" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="55"/>
@@ -2627,7 +2627,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Centaur Combat Tractor Squadron" type="unit" id="e3da-795a-4712-a769" page="231" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4574-7b86-446b-a699"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="b8e2-b55a-403d-870c" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="b8e2-b55a-403d-870c" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -2766,9 +2766,9 @@ Could not find wargear One Hull (Front) Hunter-Killer Missile
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="ccee-0e4c-4846-9d74" name="Vehicle" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="c3dc-28f3-4509-9139" name="Fast" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="29d2-42e5-4bb7-9774" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="ccee-0e4c-4846-9d74" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="c3dc-28f3-4509-9139" name="Fast Sub-type:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="29d2-42e5-4bb7-9774" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
@@ -2784,7 +2784,7 @@ Could not find rule: None</comment>
     <selectionEntry name="Imperialis Militia Salamander Scout Squadron" type="unit" id="a511-8df6-456c-83bd" page="232" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e877-0945-4f65-937d"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="1ed5-4685-4eba-80ee" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="1ed5-4685-4eba-80ee" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -2954,8 +2954,8 @@ Could not find wargear One Hull (Front) Hunter-Killer Missile
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="7b63-d652-4f4b-a35f" name="Vehicle" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="d5e3-9655-4c21-9f0c" name="Fast" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="7b63-d652-4f4b-a35f" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="d5e3-9655-4c21-9f0c" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -2973,7 +2973,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Pegasus Assault Squadron" type="unit" id="ee4a-52b3-4b39-a64f" page="233" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="053e-7aa6-4372-9204"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="ce9e-9563-4a28-9623" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="ce9e-9563-4a28-9623" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -3048,7 +3048,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7576-9f7d-4417-81da"/>
                   </constraints>
                 </entryLink>
-                <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="2be4-03cf-4a7a-9b7e">
+                <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="2be4-03cf-4a7a-9b7e">
                   <modifiers>
                     <modifier type="set" field="name" value="Turret Mounted Twin-Linked Heavy Bolter"/>
                   </modifiers>
@@ -3108,8 +3108,8 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="2eed-4c8e-48e3-b279" name="Vehicle" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="50a3-8116-4b1b-8900" name="Fast" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="2eed-4c8e-48e3-b279" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="50a3-8116-4b1b-8900" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
@@ -3127,7 +3127,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Kelaino Squadron" type="unit" id="5fe3-efab-460c-be83" page="234" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="44f3-997d-4d61-8b72"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="53ee-4189-4165-a4f7" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="53ee-4189-4165-a4f7" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -3217,11 +3217,11 @@ Could not find wargear Two Centreline Mounted Multiple Rocket Pods
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="0b5b-ec79-4411-9a2c" name="Vehicle" primary="false"/>
-            <categoryLink targetId="cdaa-645b-fda7-8556" id="cc4b-1391-4b74-acb1" name="Third-line" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="8c2c-4b2a-4346-969c" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="4ba9-b325-419f-b0af" name="Hover" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="6adc-f4ca-4d72-8f29" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="0b5b-ec79-4411-9a2c" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="cdaa-645b-fda7-8556" id="cc4b-1391-4b74-acb1" name="Third-line Unit Sub-type" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="8c2c-4b2a-4346-969c" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="4ba9-b325-419f-b0af" name="Hover Sub-type" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="6adc-f4ca-4d72-8f29" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="85"/>
@@ -3242,7 +3242,7 @@ Could not find wargear in Any Militia Kelaino may exchange their Two Hull (Front
     <selectionEntry name="Imperialis Militia Kelaino Sky-Talon Squadron" type="unit" id="b63d-3270-48a4-9e16" page="235" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="83e6-df23-40f4-a765"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="b5c6-ab30-45fe-8b10" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="b5c6-ab30-45fe-8b10" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -3341,11 +3341,11 @@ Could not find wargear in Any Militia Kelaino may exchange their Two Hull (Front
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="9a3c-13a6-4978-a4ed" name="Vehicle" primary="false"/>
-            <categoryLink targetId="cdaa-645b-fda7-8556" id="01db-f52f-4d47-9032" name="Third-line" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="591b-4c1b-4bb3-9b5e" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="6a53-26d9-488e-add4" name="Hover" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="7702-4506-4ddd-88af" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="9a3c-13a6-4978-a4ed" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="cdaa-645b-fda7-8556" id="01db-f52f-4d47-9032" name="Third-line Unit Sub-type" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="591b-4c1b-4bb3-9b5e" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="6a53-26d9-488e-add4" name="Hover Sub-type" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="7702-4506-4ddd-88af" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="70"/>
@@ -3373,7 +3373,7 @@ Could not find wargear in Any Militia Kelaino may exchange its Auxiliary Vehicle
     <selectionEntry name="Imperialis Militia Wolf Rapid Response Section" type="unit" id="0ad5-c0fa-4c69-bd38" page="236" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="deb2-f6ee-4c15-a501"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="78d2-289b-4cea-95b8" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="78d2-289b-4cea-95b8" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
@@ -3582,8 +3582,8 @@ Could not find wargear Laspistol or Autopistol
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="0edd-8af9-4850-bb89" name="Militia" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="370f-8e29-44a0-81dc" name="Skirmish" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="0edd-8af9-4850-bb89" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="370f-8e29-44a0-81dc" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -3799,8 +3799,8 @@ Could not find wargear Laspistol or Autopistol
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="fc3b-4616-4bf3-9329" name="Militia" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="9212-d0a6-4619-8b7b" name="Skirmish" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="fc3b-4616-4bf3-9329" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="9212-d0a6-4619-8b7b" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="c2af-493e-4ca3-965f" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -3875,7 +3875,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Imperialis Militia Achilles Light Vehicle Squadron" type="unit" id="ba1b-6b50-4ed7-8ac6" page="237" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="80cd-062a-4758-a6af"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="0d42-ccbf-4341-bbbd" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="0d42-ccbf-4341-bbbd" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -4026,8 +4026,8 @@ Could not find wargear Centreline Mounted Twin-Linked Heavy Stubber
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="14ed-d369-4a57-8995" name="Vehicle" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="1695-24ea-4c28-9253" name="Fast" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="14ed-d369-4a57-8995" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="1695-24ea-4c28-9253" name="Fast Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
@@ -4050,7 +4050,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Venator Medium Vehicle Squadron" type="unit" id="ef6c-e2a7-4eeb-bd60" page="238" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="81cd-19f2-428b-b3d1"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="36fb-c40e-406e-8979" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="36fb-c40e-406e-8979" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -4223,7 +4223,7 @@ Could not find wargear The Pathfinder Special Rule
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="2540-d398-4ea7-a848" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="2540-d398-4ea7-a848" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
@@ -4244,7 +4244,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Carnodon Squadron" type="unit" id="27d4-51f9-44e2-9203" page="239" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="d159-fc33-4187-8013"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="75f3-0098-492a-b7eb" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="75f3-0098-492a-b7eb" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
@@ -4426,7 +4426,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="e0d0-4802-4e73-a926" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="e0d0-4802-4e73-a926" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="55"/>
@@ -4441,7 +4441,7 @@ Could not find rule: None</comment>
     <selectionEntry name="Imperialis Militia Hades Breaching Drill" type="unit" id="24a2-dac8-4e7b-ae3a" page="240" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="38ef-f646-4c3c-b806"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="c0b1-7251-4695-8ab6" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="c0b1-7251-4695-8ab6" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="65"/>
@@ -4475,7 +4475,7 @@ Could not find rule: None</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="ca68-703b-4527-83d8" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="ca68-703b-4527-83d8" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third-Line&apos;</comment>
@@ -4493,7 +4493,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Greater Mutated Spawn" type="unit" id="ea17-f999-4ad1-b225" page="244" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8a3c-b6fb-458b-927b"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="b148-2deb-4efb-8b2d" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="b148-2deb-4efb-8b2d" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -4533,9 +4533,9 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6751-5bfe-46a9-b04d" name="Infantry" primary="false"/>
-            <categoryLink targetId="7d95-f9d1-440a-67bd" id="ebde-ecdd-4371-b4c3" name="Monstrous" primary="false"/>
-            <categoryLink targetId="e69c-24ba-4ef9-8679" id="0572-3c18-4123-9f8b" name="Corrupted" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6751-5bfe-46a9-b04d" name="Infantry:" primary="false"/>
+            <categoryLink targetId="7d95-f9d1-440a-67bd" id="ebde-ecdd-4371-b4c3" name="Monstrous Sub-type:" primary="false"/>
+            <categoryLink targetId="e69c-24ba-4ef9-8679" id="0572-3c18-4123-9f8b" name="Corrupted Unit Sub-Type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="175"/>
@@ -4578,7 +4578,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Sabre Battery" type="unit" id="3d07-2086-48a9-a3b2" page="245" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="02a1-46ca-4c99-b018"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="fe1d-cba2-4de6-a2e3" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="fe1d-cba2-4de6-a2e3" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -4673,9 +4673,9 @@ Could not find wargear Two Twin-Linked Heavy Stubbers
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="c52e-8437-467e-9cc5" name="Infantry" primary="false"/>
-            <categoryLink targetId="66b2-c457-4d5e-8041" id="a8ed-a0cf-4f18-8a95" name="Militia" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="48cd-414a-47f4-9c42" name="Heavy" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="c52e-8437-467e-9cc5" name="Infantry:" primary="false"/>
+            <categoryLink targetId="66b2-c457-4d5e-8041" id="a8ed-a0cf-4f18-8a95" name="Militia Unit Sub-type" primary="false"/>
+            <categoryLink targetId="9231-183c-b97b-63f9" id="48cd-414a-47f4-9c42" name="Heavy Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="20"/>
@@ -4691,7 +4691,7 @@ Could not find wargear in Any Militia Sabre Platform may exchange its Two Twin-L
     <selectionEntry name="Imperialis Militia Macharius Heavy Tank Squadron" type="unit" id="0484-1a5a-4808-a0b0" page="246" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b393-4974-415d-b719"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="4ddb-5e5b-4481-8d0a" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="4ddb-5e5b-4481-8d0a" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
@@ -4854,7 +4854,7 @@ Could not find wargear in Any Militia Sabre Platform may exchange its Two Twin-L
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Militia Macharius Heavy Tank may exchange its Hull (Front) Mounted Twin-Linked Heavy Stubber for one of the following options:" id="bc66-a0f9-474c-bd47">
               <entryLinks>
-                <entryLink name="Twin-Linked Heavy Flamer" hidden="false" type="selectionEntry" targetId="18ea-34ad-326b-281b" id="ea16-b879-4cab-84a9">
+                <entryLink name="Twin-linked Heavy Flamer" hidden="false" type="selectionEntry" targetId="18ea-34ad-326b-281b" id="ea16-b879-4cab-84a9">
                   <modifiers>
                     <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Flamer"/>
                   </modifiers>
@@ -4862,7 +4862,7 @@ Could not find wargear in Any Militia Sabre Platform may exchange its Two Twin-L
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="664a-7701-4ed2-bb60"/>
                   </constraints>
                 </entryLink>
-                <entryLink name="Twin-Linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="4788-3451-43a1-a25a">
+                <entryLink name="Twin-linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="4788-3451-43a1-a25a">
                   <costs>
                     <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="20"/>
                   </costs>
@@ -4974,8 +4974,8 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Plasma Cannon
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="3cae-69b0-4e13-ad6f" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5981-e929-4e68-89e9" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="3cae-69b0-4e13-ad6f" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5981-e929-4e68-89e9" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="175"/>
@@ -4998,7 +4998,7 @@ Could not find type or subtype &apos;Third Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Macharius Omega Heavy Tank" type="unit" id="c292-11b6-45dc-a2b1" page="247" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b890-f3b6-44b4-8997"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="da61-42f2-4b6a-928c" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="da61-42f2-4b6a-928c" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="325"/>
@@ -5207,9 +5207,9 @@ Could not find type or subtype &apos;Third Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="1891-45b4-47fd-ae4b" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="890a-8af8-4aac-a77d" name="Reinforced" primary="false"/>
-            <categoryLink targetId="d5df-57ac-8f3c-097b" id="c9ed-edad-444e-97f9" name="Bombard" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="1891-45b4-47fd-ae4b" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="890a-8af8-4aac-a77d" name="Reinforced Sub-type:" primary="false"/>
+            <categoryLink targetId="d5df-57ac-8f3c-097b" id="c9ed-edad-444e-97f9" name="Bombard Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third Line&apos;</comment>
@@ -5225,7 +5225,7 @@ Could not find type or subtype &apos;Third Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Malcador Defensor Heavy Tank Squadron" type="unit" id="5eb2-0c6b-4845-9c1c" page="248" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8875-4dd4-449e-9d2b"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2364-9c20-46fb-9cfd" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2364-9c20-46fb-9cfd" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -5430,9 +5430,9 @@ Could not find wargear One Hull (Left) Mounted Lascannon and one Hull (Right) Mo
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="1c8c-715a-468d-9ad3" name="Vehicle" primary="false"/>
-            <categoryLink targetId="0ea2-efb5-b7af-226e" id="9a63-b5f2-47a2-a108" name="Fast" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="a67e-681e-4d7b-8f8a" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="1c8c-715a-468d-9ad3" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="0ea2-efb5-b7af-226e" id="9a63-b5f2-47a2-a108" name="Fast Sub-type:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="a67e-681e-4d7b-8f8a" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="150"/>
@@ -5451,7 +5451,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Minotaur Battery" type="unit" id="c4f7-e4ad-434e-981c" page="249" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a950-a76e-42b2-bea2"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="c987-8a4f-419c-a987" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="c987-8a4f-419c-a987" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
@@ -5562,9 +5562,9 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="b6c5-5f1a-44ed-88d7" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="cd07-44b5-4ee6-a6da" name="Reinforced" primary="false"/>
-            <categoryLink targetId="c4a5-4def-dc2c-7ce2" id="056e-c151-433a-ad7c" name="Slow" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="b6c5-5f1a-44ed-88d7" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="cd07-44b5-4ee6-a6da" name="Reinforced Sub-type:" primary="false"/>
+            <categoryLink targetId="c4a5-4def-dc2c-7ce2" id="056e-c151-433a-ad7c" name="Slow Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="160"/>
@@ -5580,7 +5580,7 @@ Could not find type or subtype &apos;Third Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Praetorian Heavy Tank" type="unit" id="cddb-d2a6-4e3a-94f3" page="250" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="3b99-9dff-4d53-9798"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="a209-4277-40dc-8e43" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="a209-4277-40dc-8e43" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="250"/>
@@ -5803,8 +5803,8 @@ Could not find wargear Turret Mounted Oppressor Cannon with Coaxial Autocannon
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="4712-0ca9-4531-a781" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="0d70-0b7e-4088-b378" name="Reinforced" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="4712-0ca9-4531-a781" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="0d70-0b7e-4088-b378" name="Reinforced Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any Militia Praetorian Heavy Tank may exchange its Turret Mounted Praetorian Battle Cannon for the following option:
@@ -5819,7 +5819,7 @@ Centreline Mounted Kheres Assault Cannon is in two option lists for Militia Prae
     <selectionEntry name="Imperialis Militia Hydra Flak Tank Squadron" type="unit" id="ab48-7a56-4e6c-9238" page="251" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c2ae-3133-4ac5-91f8"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="c0e2-8fce-4af4-b7fb" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="c0e2-8fce-4af4-b7fb" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
@@ -5926,8 +5926,8 @@ Centreline Mounted Kheres Assault Cannon is in two option lists for Militia Prae
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="30d3-8c51-4963-998c" name="Vehicle" primary="false"/>
-            <categoryLink targetId="cdaa-645b-fda7-8556" id="36b9-c467-41de-969d" name="Third-line" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="30d3-8c51-4963-998c" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="cdaa-645b-fda7-8556" id="36b9-c467-41de-969d" name="Third-line Unit Sub-type" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="70"/>
@@ -5942,7 +5942,7 @@ Centreline Mounted Kheres Assault Cannon is in two option lists for Militia Prae
     <selectionEntry name="Imperialis Militia Manticore Missile Tank Battery" type="unit" id="9507-4d55-4e20-bc77" page="252" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="3b55-bd4e-45d8-8ef5"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="5cd7-4b4b-4bf6-a719" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="5cd7-4b4b-4bf6-a719" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6053,7 +6053,7 @@ Could not find wargear One Phosphor Incendiary Missile
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="c522-b5fd-4b4f-a4cb" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="c522-b5fd-4b4f-a4cb" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="175"/>
@@ -6073,7 +6073,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Helios Ordnance Carrier Squadron" type="unit" id="6855-6a40-4dd8-aa7f" page="253" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8193-8bb5-4ef7-bc12"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="701d-b589-404d-809a" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="701d-b589-404d-809a" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6249,7 +6249,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="6c7c-3368-4a42-997d" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="6c7c-3368-4a42-997d" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
@@ -6265,7 +6265,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Goliath Heavy Vehicle Squadron" type="unit" id="569a-c745-4007-99de" page="254" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="0e6d-7a69-43ab-b3e8"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="dba7-42b9-44f0-bff5" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="dba7-42b9-44f0-bff5" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6457,9 +6457,9 @@ Could not find wargear Turret-Mounted Heavy Seismic Cannon
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="a5c5-a836-472a-aabe" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="7aa1-ff1f-41a6-bba9" name="Reinforced" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="467f-c1f4-447f-9c85" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="a5c5-a836-472a-aabe" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="7aa1-ff1f-41a6-bba9" name="Reinforced Sub-type:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="467f-c1f4-447f-9c85" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="75"/>
@@ -6482,7 +6482,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Ironcrawler Squadron" type="unit" id="680d-71d3-4d99-a73a" page="255" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8149-e81d-4fb5-986f"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="a4eb-86d7-4aea-bd2a" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="a4eb-86d7-4aea-bd2a" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6603,10 +6603,10 @@ Could not find wargear Pintle Mounted Mounted Multi-Melta
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="9edc-0819-496f-8e7b" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="396e-df64-4df6-8e8e" name="Reinforced" primary="false"/>
-            <categoryLink targetId="c4a5-4def-dc2c-7ce2" id="b635-f675-4d86-bcb5" name="Slow" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="eca5-e349-40de-b70b" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="9edc-0819-496f-8e7b" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="396e-df64-4df6-8e8e" name="Reinforced Sub-type:" primary="false"/>
+            <categoryLink targetId="c4a5-4def-dc2c-7ce2" id="b635-f675-4d86-bcb5" name="Slow Sub-type:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="eca5-e349-40de-b70b" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="100"/>
@@ -6640,7 +6640,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Artillery Battery" type="unit" id="540e-9e01-437e-8388" page="256" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="ecc8-4783-49a1-8455"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="f8f8-ff51-4efd-9fa0" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="f8f8-ff51-4efd-9fa0" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -6770,7 +6770,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="7218-d8a8-4ef1-96d6" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="7218-d8a8-4ef1-96d6" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="125"/>
@@ -6786,7 +6786,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Marauder Bomber" type="unit" id="0ced-831d-4c63-9e2b" page="260" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1cf5-44e5-4408-aa44"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="4c6c-537f-40eb-84b1" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="4c6c-537f-40eb-84b1" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="385"/>
@@ -6812,7 +6812,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0777-177f-4e45-bcdb"/>
           </constraints>
           <entryLinks>
-            <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="f3a0-e4c8-4a70-bf8b">
+            <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="f3a0-e4c8-4a70-bf8b">
               <modifiers>
                 <modifier type="set" field="name" value="Turret Mounted Twin-Linked Heavy Bolter"/>
               </modifiers>
@@ -6849,9 +6849,9 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="aa0e-67a8-41c5-a559" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="7b22-b48a-4b65-acd1" name="Flyer" primary="false"/>
-            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="7ad4-c992-4591-a919" name="Lumbering" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="aa0e-67a8-41c5-a559" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="7b22-b48a-4b65-acd1" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="7ad4-c992-4591-a919" name="Lumbering Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Centreline (Front) Mounted Twin-Linked Autocannon
@@ -6866,7 +6866,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Marauder Destroyer" type="unit" id="1427-76c2-46b3-ad32" page="261" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="927e-fd5a-49b6-966b"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="fea4-1a8b-438d-a03b" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="fea4-1a8b-438d-a03b" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="370"/>
@@ -6910,7 +6910,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="42a6-f993-4bd7-a38e"/>
               </constraints>
             </entryLink>
-            <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="91eb-0303-446d-90fe">
+            <entryLink name="Twin-linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="91eb-0303-446d-90fe">
               <modifiers>
                 <modifier type="set" field="name" value="Turret Mounted Twin-Linked Heavy Bolter"/>
               </modifiers>
@@ -6946,9 +6946,9 @@ Could not find wargear Eight Hull (Front) Mounted Heavy Frag Rockets
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="b858-bd9c-420d-aadd" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="c403-7a8b-4d92-9d51" name="Flyer" primary="false"/>
-            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="3fce-74ac-444f-85fb" name="Lumbering" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="b858-bd9c-420d-aadd" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="4e84-2d57-4986-2b23" id="c403-7a8b-4d92-9d51" name="Flyer Sub-type:" primary="false"/>
+            <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="3fce-74ac-444f-85fb" name="Lumbering Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Eight Hull (Front) Mounted Heavy Krak Rockets
@@ -6966,7 +6966,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
     <selectionEntry name="Imperialis Militia Praetor Armoured Assault Launcher" type="unit" id="9f75-4af7-447d-a352" page="262" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="f2bd-efcc-425e-830b"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="4dfa-fb64-48a5-abdf" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="4dfa-fb64-48a5-abdf" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="385"/>
@@ -7083,7 +7083,7 @@ Could not find type or subtype &apos;Third-Line&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="3122-8146-4b96-b353" name="Vehicle" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="3122-8146-4b96-b353" name="Vehicle:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Third-Line&apos;
@@ -7096,7 +7096,7 @@ Could not find rule: None</comment>
     <selectionEntry name="Imperialis Militia Crassus Armoured Assault Transport" type="unit" id="dfce-5857-4f9e-bc43" page="263" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="2f06-ec34-4344-966c"/>
-        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="7bf7-c62a-425b-a688" name="Lords of War"/>
+        <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="7bf7-c62a-425b-a688" name="Lords of War:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="300"/>
@@ -7220,8 +7220,8 @@ Could not find wargear Hull (Front, Left) Mounted Lascannons and Hull (Front, Ri
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="ee66-672c-46d6-a451" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="d95c-eae2-4525-b8f1" name="Transport" primary="false"/>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="ee66-672c-46d6-a451" name="Vehicle:" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="d95c-eae2-4525-b8f1" name="Transport Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Smoke Launcher
@@ -7239,8 +7239,8 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink type="catalogue" name="Panoptica Library" id="dbb2-4162-889-7154" targetId="69b7-3f60-9f7f-8ce5"/>
-    <catalogueLink type="catalogue" name="Imperium Library" id="45d8-b285-f22b-d257" targetId="4ab9-6c13-4d80-2f7d"/>
-    <catalogueLink type="catalogue" name="Militia Library" id="6211-9f78-c235-659" targetId="4ab9-25ad-4d80-2f7d"/>
+    <catalogueLink type="catalogue" name="Panoptica Library" id="dbb2-4162-889-7154" targetId="660c-f1da-b1ee-1e2c"/>
+    <catalogueLink type="catalogue" name="Imperium Library" id="45d8-b285-f22b-d257" targetId="1b22-b2be-f49e-c48b"/>
+    <catalogueLink type="catalogue" name="Militia Library" id="6211-9f78-c235-659" targetId="ef5f-3fac-39d1-b855"/>
   </catalogueLinks>
 </catalogue>

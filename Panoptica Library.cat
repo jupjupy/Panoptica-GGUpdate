@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="69b7-3f60-9f7f-8ce5" name="Panoptica Library" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="660c-f1da-b1ee-1e2c" name="Panoptica Library" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedRules>
     <rule name="Emperor’s Chosen" id="ffcf-8b72-43dd-8009" page="165" publicationId="9fab-fea7-a93c-2074">
       <description>A model with this Special Rule that suffers an unsaved wound with the Instant Death Special Rule is not immediately removed as a casualty, but instead loses D3 wounds instead of one for each unsaved wound with the Instant Death Special Rule inflicted on it.</description>
@@ -11476,6 +11476,6 @@ A unit which passes suffers no negative penalty, and in addition may react as no
     </categoryEntry>
   </categoryEntries>
   <catalogueLinks>
-    <catalogueLink id="5f24-4242-71c3-0547" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5f24-4242-71c3-0547" name="Mech Library" targetId="a1bf-762d-8fad-4285" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

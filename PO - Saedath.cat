@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="bd2b-c57-2ddd-4b7c" name="[Antiquia] Saedath" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="1bdb-0711-93f6-55d7" name="[Antiquia] Saedath" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntries>
     <selectionEntry name="Troupe Master" type="unit" id="f0cf-4f35-42db-b967" page="114" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e854-5ebd-434f-af02"/>
-        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="6fb1-130a-485f-9012" name="HQ"/>
+        <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="6fb1-130a-485f-9012" name="HQ:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="175"/>
@@ -137,9 +137,9 @@ Could not find wargear One Vortex Grenade
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="38bf-b9f4-4b5e-8c7f" name="Infantry" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="db36-f4a9-4a2b-9686" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="7de6-f17a-46b4-97d6" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="38bf-b9f4-4b5e-8c7f" name="Infantry:" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="db36-f4a9-4a2b-9686" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="7de6-f17a-46b4-97d6" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="fe26-3fd4-4943-acca" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -174,7 +174,7 @@ Could not find rule: Independent Character</comment>
     <selectionEntry name="Shadowseer" type="unit" id="b139-833d-4e60-bf19" page="118" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="24b4-26de-4323-bfad"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="884a-23ff-4e05-9be1" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="884a-23ff-4e05-9be1" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="125"/>
@@ -259,11 +259,11 @@ Could not find wargear Haywire Grenades
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="a43a-ad9a-49ae-a7b0" name="Infantry" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="4845-655e-47b0-bfaf" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="fc49-59f8-447f-9ff0" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="a43a-ad9a-49ae-a7b0" name="Infantry:" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="4845-655e-47b0-bfaf" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="fc49-59f8-447f-9ff0" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="f699-78ab-4c0c-9ba7" name="Character" primary="false"/>
-            <categoryLink targetId="6e0c-29ba-a445-8321" id="51db-9e8f-4164-a883" name="Psyker" primary="false"/>
+            <categoryLink targetId="6e0c-29ba-a445-8321" id="51db-9e8f-4164-a883" name="Psyker:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Shadowseer may take the following:</comment>
@@ -283,7 +283,7 @@ Could not find rule: Independent Character</comment>
     <selectionEntry name="Death Jester" type="unit" id="e26c-73c8-46d2-a456" page="119" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b8ab-7388-42b9-b262"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="d890-73a1-465c-8216" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="d890-73a1-465c-8216" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="100"/>
@@ -390,9 +390,9 @@ Could not find wargear Haywire Grenades
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ad8b-92d5-4229-820b" name="Infantry" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="0792-796c-4cf8-a291" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="4c65-75a5-4359-96af" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ad8b-92d5-4229-820b" name="Infantry:" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="0792-796c-4cf8-a291" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="4c65-75a5-4359-96af" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a56b-4d15-49f3-b2d6" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -431,7 +431,7 @@ Could not find rule: Independent Character</comment>
     <selectionEntry name="Arebennian" type="unit" id="9e18-8453-4172-84ed" page="120" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="12cc-25c8-48fc-80d2"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="f764-ecdd-485b-8f03" name="Elites"/>
+        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="f764-ecdd-485b-8f03" name="Elites:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="200"/>
@@ -498,9 +498,9 @@ Could not find rule: Independent Character</comment>
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="164e-014e-4489-89ff" name="Infantry" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="638f-c2ab-4c43-819d" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="c890-3af0-4c49-860a" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="164e-014e-4489-89ff" name="Infantry:" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="638f-c2ab-4c43-819d" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="c890-3af0-4c49-860a" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5f64-e321-4f7f-867c" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -545,7 +545,7 @@ Could not find rule: Independent Character</comment>
     <selectionEntry name="Troupe" type="unit" id="3d96-f4c2-4c4c-a467" page="124" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1f0a-4e20-4d34-b292"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="b40b-a32b-4eeb-a1dd" name="Troops"/>
+        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="b40b-a32b-4eeb-a1dd" name="Troops:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="47"/>
@@ -660,9 +660,9 @@ Could not find rule: Independent Character</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7938-b3b2-46c0-ba28" name="Infantry" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="0574-9c04-434c-8feb" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="165e-5670-4643-9857" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7938-b3b2-46c0-ba28" name="Infantry:" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="0574-9c04-434c-8feb" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="165e-5670-4643-9857" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="22"/>
@@ -800,9 +800,9 @@ Could not find wargear Haywire Grenades
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="88d7-ab74-480e-8afe" name="Infantry" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="724d-0ade-4d1c-939a" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="309d-0b7d-4d73-bfbc" name="Skirmish" primary="false"/>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="88d7-ab74-480e-8afe" name="Infantry:" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="724d-0ade-4d1c-939a" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="309d-0b7d-4d73-bfbc" name="Skirmish Sub-type:" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="ed2d-6c60-4334-87e1" name="Character" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
@@ -877,9 +877,9 @@ Power Sword is in two option lists for Lead Player, you will need to combine the
             </entryLink>
           </entryLinks>
           <categoryLinks>
-            <categoryLink targetId="4303-1348-cce4-9501" id="5f14-a31b-4efb-991e" name="Antigrav" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="f77d-ed49-429a-b5db" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="06f4-1782-4cf9-bd5d" name="Skirmish" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="5f14-a31b-4efb-991e" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="f77d-ed49-429a-b5db" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="06f4-1782-4cf9-bd5d" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Mirage Launchers
@@ -928,7 +928,7 @@ Could not find type or subtype &apos;Transport*&apos;</comment>
     <selectionEntry name="Skyweavers" type="unit" id="be40-55f4-4220-963c" page="128" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="fb4e-82be-4569-a530"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="5285-91a6-4c9d-893f" name="Fast Attack"/>
+        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="5285-91a6-4c9d-893f" name="Fast Attack:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -1021,9 +1021,9 @@ Could not find type or subtype &apos;Transport*&apos;</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="4303-1348-cce4-9501" id="984a-4cc0-4746-8255" name="Antigrav" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="625c-52e0-4833-8804" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="fd87-dd3c-4cd9-b7d8" name="Skirmish" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="984a-4cc0-4746-8255" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="625c-52e0-4833-8804" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="fd87-dd3c-4cd9-b7d8" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
@@ -1075,7 +1075,7 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     <selectionEntry name="Voidweaver" type="unit" id="c813-68bb-40e1-8053" page="132" publicationId="a368-64f0-10c7-c49d">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="08d1-f71d-43b0-ae86"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2042-2968-46b2-96cc" name="Heavy Support"/>
+        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2042-2968-46b2-96cc" name="Heavy Support:"/>
       </categoryLinks>
       <costs>
         <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
@@ -1146,9 +1146,9 @@ Could not find wargear Prismatic Cannon
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
-            <categoryLink targetId="4303-1348-cce4-9501" id="fb81-6204-4eeb-99ac" name="Antigrav" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="dc8c-2bfe-4b54-9370" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="f0a5-6ec6-4d23-aca4" name="Skirmish" primary="false"/>
+            <categoryLink targetId="4303-1348-cce4-9501" id="fb81-6204-4eeb-99ac" name="Antigrav Sub-type" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="dc8c-2bfe-4b54-9370" name="Rillietann Unit Sub-Type:" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="f0a5-6ec6-4d23-aca4" name="Skirmish Sub-type:" primary="false"/>
           </categoryLinks>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="90"/>
@@ -1189,6 +1189,6 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink id="5f24-4626-0547-71c3" name="Panoptica Library" targetId="69b7-3f60-9f7f-8ce5" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5f24-4626-0547-71c3" name="Panoptica Library" targetId="660c-f1da-b1ee-1e2c" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>

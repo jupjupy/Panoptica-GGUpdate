@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="765e-788c-dde3-4683" name="LA -  XVIII: Salamanders" revision="2040" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="8272-b24d-e18f-b0f2" name="LA -  XVIII: Salamanders" revision="2040" battleScribeVersion="2.03" library="false" gameSystemId="aea6-3d64-0edd-f608" gameSystemRevision="2001" type="catalogue">
   <entryLinks>
     <entryLink id="93d2-b1cb-b684-a9b3" name="XVIII: Salamanders" hidden="false" collective="false" import="false" targetId="c805-ca3a-ff93-5e2f" type="selectionEntry">
       <modifiers>
@@ -5910,8 +5910,8 @@
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
   <catalogueLinks>
-    <catalogueLink id="2f60-18fb-e6ed-8574" name="Legions Astartes" targetId="25e4-c9e5-8165-1337" type="catalogue" importRootEntries="true"/>
-    <catalogueLink type="catalogue" name="Mech Library" id="5e16-9e11-1492-d139" targetId="7265-8b7a-50ae-51ec"/>
+    <catalogueLink id="2f60-18fb-e6ed-8574" name="Legions Astartes" targetId="b132-bb06-6375-1371" type="catalogue" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="Mech Library" id="5e16-9e11-1492-d139" targetId="a1bf-762d-8fad-4285"/>
   </catalogueLinks>
   <sharedRules>
     <rule name="Flame in the Darkness" hidden="false" id="753e-43cd-f3a0-f58d" publicationId="9fab-fea7-a93c-2074" page="135">
